@@ -1,0 +1,2143 @@
+,description_x,description_y,ticker_x,ticker_y,same_security
+0,first trust dow jones internet,first trust dj internet idx,FDN,FDN,TRUE
+1,schwab intl large company index etf,schwab strategic tr fundamental intl large co index etf,FNDF,FNDF,TRUE
+2,vanguard small cap index adm,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+3,duke energy corp new com new isin #us4 sedol #b7jzsk0,duke energy corp new com new isin #us26441c2044 sedol #b7jzs,DUK,DUK,TRUE
+4,visa inc class a,visa inc.,V,V,TRUE
+5,ford motor co new div: 0.600,ford motor co,F,F,TRUE
+6,united states steel corp,united sts stl cp (new),X,X,TRUE
+7,vanguard total international bond index etf,vanguard total intl bond index etf,BNDX,BNDX,TRUE
+8,schwab strategic tr us sml c,schwab us small cap etf,SCHA,SCHA,TRUE
+9,mfs value fd cl i,mfs value fund cl i,MEIIX,MEIIX,TRUE
+10,oppenheimer dev markets class a,oppenheimer developing mkts fd cl a,ODMAX,ODMAX,TRUE
+11,genomic health,genomic health inc com,GHDX,GHDX,TRUE
+12,spdr barclays international etf,spdr barclays capital international trea,BWX,BWX,TRUE
+13,kraft heinz company,kraft heinz co com,KHC,KHC,TRUE
+14,vanguard total bond market index fund admiral shares,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+15,vanguard intermediate-term investment-grade fund investor shares,vanguard interm-term invmt-grade inv,VFICX,VFICX,TRUE
+16,baidu inc spon adr,baidu inc spon adr rep a,BIDU,BIDU,TRUE
+17,novartis ag- reg,novartis ag,NVS,NVS,TRUE
+18,seaspan corp,seaspan corporation cmn,SSW,SSW,TRUE
+19,vanguard total bond market index admiral,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+20,mfs muni high income fd cl i,mfs municipal high cl i,MMIIX,MMIIX,TRUE
+21,metlife inc com,metlife incorporated,MET,MET,TRUE
+22,russell gbl real estate securities cl s,vy clarion real estate port srv,RRESX,IVRSX,FALSE
+23,vanguard short-term investment-grade fund admiral shares,vanguard short-term invest-grade,VFSUX,VFSIX,FALSE
+24,spdr s&p 500 etf trust,spdr s&p 500 etf iv,SPY,SPY,TRUE
+25,pimco total return a,fund: pimco total return admin,PTTAX,PTRAX,FALSE
+26,intel corp,intel corporation,INTC,INTC,TRUE
+27,vanguard 500 index fund - admiral class,vanguard 500 idx adm,VFIAX,VFIAX,TRUE
+28,paypal holdings inc,paypal holdings inco,PYPL,PYPL,TRUE
+29,pim total rt inst,pimco total return fund - class r,PTTRX,PTRRX,FALSE
+30,vanguard small cap,vanguard small cap etf (vb),VB,VB,TRUE
+31,nike incorporated class b,nike inc-b,NKE,NKE,TRUE
+32,vang inst index plus,vanguard institutional index fund institutional plus shares,VIIIX,VIIIX,TRUE
+33,ishares tr nat amt free bd,ishares s&p national amt-free muni,MUB,MUB,TRUE
+34,pimco total ret fd instl,pimco total return,PTTRX,PTRAX,FALSE
+35,diageo plc fadr 1 adr reps 4 ord shs,diageo plc sponsored adr,DEO,DEO,TRUE
+36,zoes kitchen inc com,zoes kitchen inc com isin #us7 sedol #bl95n36,ZOES,ZOES,TRUE
+37,du pont ei de nemour,du pont e.i. de nemours,DD,DD,TRUE
+38,vanguard info tech etf div: 2.776,vanguard information technolo etf iv,VGT,VGT,TRUE
+39,ishares core msci ttl int stk,ishares trust core msci total intl stk etf,IXUS,IXUS,TRUE
+40,ishares msci em mkt min vol,ishares inc msci emrg mkts min volatility etf,EEMV,EEMV,TRUE
+41,ambarella inc,ambarella inc shs,AMBA,AMBA,TRUE
+42,blackrock eqty dividend fd inv cl a,blackrock equity dividend fd a,MDDVX,MDDVX,TRUE
+43,alibaba grp sp adr (cayman islands),alibaba group hldg ltd sponsored ads,BABA,BABA,TRUE
+44,fidelity spartan 500 index advtg,spartan 500 index fd advantage class,FUSVX,FUSVX,TRUE
+45,vanguard midcap index - a,vanguard mid capitalization index fund,VIMAX,VIMAX,TRUE
+46,powershares qqq trust sr 1 etf,powershares qqq tr div: 1.105,QQQ,QQQ,TRUE
+47,vanguard short term invt grade admiral,vang st invstgrd inv,VFSUX,VFSTX,FALSE
+48,blackrock us mortgage port cl a,blackrock fds incm ptf inv c,BMPAX,BCICX,FALSE
+49,prudential jennison natural resources z,pru/j nat resrcs z,PNRZX,PNRZX,TRUE
+50,united sts gasoline fd lp etf,united states gasoline etf,UGA,UGA,TRUE
+51,vanguard crsp us small cap ind ex,vanguard index fds vanguard small cap vipers formerly vangua,VB,VB,TRUE
+52,amcap cl a,amcap fund cl a,AMCPX,AMCPX,TRUE
+53,templeton global macro group advisor cl,tmpl global bond adv,TGBAX,TGBAX,TRUE
+54,kinder morgan inc del com,kinder morgan inc. del,KMI,KMI,TRUE
+55,vang intm treas adm,vanguard intermediate-term treasury inv,VFIUX,VFITX,FALSE
+56,templeton global bond fund cl a,templeton global bond r,TPINX,FGBRX,FALSE
+57,vanguard total international stock index fund institutional shares,vanguard total international stock index fund institutional,VTSNX,VTSNX,TRUE
+58,vereit inc com,vereit inc reit,VER,VER,TRUE
+59,metropolitan west total return bond m,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+60,chicago bridge &iron fadr 1 adr reps ord shs,chicago bridge & iron company n v,CBI,CBI,TRUE
+61,vanguard total bond market index-admiral,vanguard total bond market index fund investor shares,VBTLX,VBMFX,FALSE
+62,spdr barclays capital international trea,spdr barclays capital international treasury bond etf,BWX,BWX,TRUE
+63,chemours co com,chemours co,CC,CC,TRUE
+64,intercontinental exchange inc cmn,intercontinental exchange inc com usd0.01,ICE,ICE,TRUE
+65,fid large cap stock,fidelity large cap stock,FLCSX,FLCSX,TRUE
+66,simon ppty grp inc,simon ppty group inc new com,SPG,SPG,TRUE
+67,t rowe price real estate,real estate fund,TRREX,TRREX,TRUE
+68,sturm ruger & co inc com,sturm ruger &co inc com isin #us8641591081 sedol #2856289,RGR,RGR,TRUE
+69,ishares msci eafe small-cap etf,ishares tr msci small cap,SCZ,SCZ,TRUE
+70,bp plc f adr 1 adr reps 6 ord shs,bpplc adr (sponsored),BP,BP,TRUE
+71,vanguard short-term investment-grade fund admiral shares,vanguard shrt trm invmnt grd-inv,VFSUX,VFSTX,FALSE
+72,ishares national amt-free muni bnd etf,ishares tr natl mun bd etf fd,MUB,MUB,TRUE
+73,t rowe price new horizons,t rowe price new horizons fund,PRNHX,PRNHX,TRUE
+74,spdr barclays short term high etf,spdr series trust short term h igh yield bond etf,SJNK,SJNK,TRUE
+75,linkedin corp cl a,linkedin corp com usd0.0001,LNKD,LNKD,TRUE
+76,spdr s&p 600 small cap growth div: 2.329,spdr ser tr s&p 600 small cap growth etf,SLYG,SLYG,TRUE
+77,oppenheimer international bond fund a,oppenheimer international bond fund,OIBAX,OIBAX,TRUE
+78,vanguard growth etf iv,vanguard index fds vanguard growth etf,VUG,VUG,TRUE
+79,nike inc class b,nike incorporated class b,NKE,NKE,TRUE
+80,ishares inc core msci emerging mkts etf,harding loevner emerging markets adv cl,IEMG,HLEMX,FALSE
+81,aqr managed futures strategy r6,aqr mgd futures strat fd cl i,AQMRX,AQMIX,FALSE
+82,ishares national muni bond etf,ishares nationl amt freemuni etf,MUB,MUB,TRUE
+83,merck & co inc new,merck and co inc shs,MRK,MRK,TRUE
+84,templeton global bond fund advisor class shares,tmpl global bond r6,TGBAX,FBNRX,FALSE
+85,ambarella inc shs,ambarella inc,AMBA,AMBA,TRUE
+86,atwood oceanics inc.,atwood oceanics inc com isin #us4 sedol #2062440,ATW,ATW,TRUE
+87,"energy transfer partners, l.p. cmn",cheniere energy partners lp com,ETP,CQP,FALSE
+88,syngenta ag f adr 1 adr reps 0.2 ord shs,syngenta ag adr,SYT,SYT,TRUE
+89,teva pharmactcl inds adr,teva pharmaceuticals ind ltd israel adr,TEVA,TEVA,TRUE
+90,smucker j m company sjm,j m smucker co,SJM,SJM,TRUE
+91,oppenheimer developing markets y,oppenheimer dev markets fd class y,ODVYX,ODVYX,TRUE
+92,chevron corp.,chevron corp new,CVX,CVX,TRUE
+93,unitedhealth group incorporated,unitedhealth group inc com,UNH,UNH,TRUE
+94,vanguard 500 index fund admira l,vang 500 index adm,VFIAX,VFIAX,TRUE
+95,ishares s&p u.s. pfd stock index,ishares tr u.s. pfd stk etf,PFF,PFF,TRUE
+96,dfa u s targeted value cl i,dfa us targeted value port instl,DFFVX,DFFVX,TRUE
+97,ampco pittsburgh corp,ampco-pittsburgh corp com,AP,AP,TRUE
+98,ishares nationl amt freemuni etf,ishares national amt-free muni bnd etf,MUB,MUB,TRUE
+99,coca-cola co,coca-cola co/the,KO,KO,TRUE
+100,schlumberger ltd.,schlumberger ltd,SLB,SLB,TRUE
+101,pimco total return fund cl p,pimco total return r,PTTPX,PTRRX,FALSE
+102,pimco total return cl a,pimco tot return adm,PTTAX,PTRAX,FALSE
+103,pimco income fund cl p,pimco incm inst cl,PONPX,PIMIX,FALSE
+104,vanguard emerging market etf,vanguard intl equity index f ftse emr mkt etf,VWO,VWO,TRUE
+105,ford motor com,ford motor co,F,F,TRUE
+106,visa inc cl a div: 0.560,visa inc.,V,V,TRUE
+107,chubb limited (switzerland),chubb limited com,CB,CB,TRUE
+108,ishares exponential technologies etf,ishares exponential technologies,XT,XT,TRUE
+109,spdr s&p dividend etf,spdr series trust s&p divid,SDY,SDY,TRUE
+110,vanguard intl equity index f ftse emr mkt etf,vanguard ftse emerging mark etf iv,VWO,VWO,TRUE
+111,ishares core aggressive allocati etf,ishares core aggressive allocation etf,AOA,AOA,TRUE
+112,ford mtr co del com par $0.01,ford motor co,F,F,TRUE
+113,templeton global bond class a,templeton global bond fund cl a,TPINX,TPINX,TRUE
+114,linkedin corp class a common stock,linkedin corp-a,LNKD,LNKD,TRUE
+115,amazon com inc,amazon,AMZN,AMZN,TRUE
+116,breitburn energy partners lp com,atlas resource partners lp,BBEP,ARP,FALSE
+117,vanguard ext market index inst,vanguard extended market index fund admiral shares,VIEIX,VEXAX,FALSE
+118,vanguard sml-cap ind-adm,vang sm cap idx adm,VSMAX,VSMAX,TRUE
+119,vang tot bd mkt adm,vanguard total bond market index fund admiral shares,VBTLX,VBTLX,TRUE
+120,nike inc,nike,NKE,NKE,TRUE
+121,vanguard total bond market index adm,vanguard total bond market index fund institutional shares,VBTSX,VBTIX,FALSE
+122,vanguard total bond market index-admiral,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+123,mainstay large cap growth fund i,mainstay large cap growth fund,MLAIX,MLAIX,TRUE
+124,wal-mart stores,wal mart stores inc,WMT,WMT,TRUE
+125,vanguard short term inflation protected,vanguard short-term inflation-protected securities etf,VTIP,VTIP,TRUE
+126,vnguard total bond market index adm,vanguard total bond market index fund investor shares,VBTLX,VBMFX,FALSE
+127,vanguard 500 index adm,vanguard 500 index fund - admiral class,VFIAX,VFIAX,TRUE
+128,ishares core u.s. aggregate,ishares core us aggregate bond etf,AGG,AGG,TRUE
+129,t. rowe price growth stock fd,t rowe price growth stock fund retail class,PRGFX,PRGFX,TRUE
+130,vanguard small-cap index fund admiral shares,vanguard small cap index fund - admiral,VSMAX,VSMAX,TRUE
+131,vanguard total intl stk indx fd inv,vanguard total intl stock index inv,VGTSX,VGTSX,TRUE
+132,vanguard mid-cap index fund admiral shares,van mid cap index adm m4940,VIMAX,VIMAX,TRUE
+133,tesla mtrs inc com,tesla motors inc,TSLA,TSLA,TRUE
+134,at&t inc,at&t inc.,T,T,TRUE
+135,vg reit idx etf,vanguard reit index etf (vnq),VNQ,VNQ,TRUE
+136,bp plc ads div: 2.380,bp plc spon adr,BP,BP,TRUE
+137,trp retirement 2050,retirement 2050 fund,TRRMX,TRRMX,TRUE
+138,chubb limited com,chubb limited (switzerland),CB,CB,TRUE
+139,delta air lines inc,delta air lines inc del com,DAL,DAL,TRUE
+140,anheuser busch inbev adr,anheuser busch inbev sa/nv sponsored adr isin #us03524a1088,BUD,BUD,TRUE
+141,brookdale sr living inc com,brookdale sr living inc,BKD,BKD,TRUE
+142,facebook inc cl a,facebook inc com,FB,FB,TRUE
+143,dfa us large cap value prtf instl,dfa us large cap value,DFLVX,DFLVX,TRUE
+144,zillow group inc shs cl c,zillow inc com usd0.0001,Z,Z,TRUE
+145,ishares tr russell 2000,ishares russell 2000 etf,IWM,IWM,TRUE
+146,jh dscpl val mdcp r6,jh disciplnd val md cp r6,JVMRX,JVMRX,TRUE
+147,nextera energy inc com div: 3.080,nextera energy inc com,NEE,NEE,TRUE
+148,american beacon small cap val,american beacon small cap value inv,AVPAX,AVPAX,TRUE
+149,at & t inc,at&t inc.,T,T,TRUE
+150,vanguard short term investment grade fund admiral,vanguard shrt trm invmnt grd-inv,VFSUX,VFSTX,FALSE
+151,vanguard total bond market index fund institutional plus,vanguard total bond market index fund investor shares,VBMPX,VBMFX,FALSE
+152,google inc. cmn class c,alphabet inc. class c,GOOG,GOOG,TRUE
+153,ishares russell 1000 index fund,russell 1000 index (ishares),IWB,IWB,TRUE
+154,pattern energy group inc,pattern energy inc cls a div: 1.524,PEGI,PEGI,TRUE
+155,berkshire hathaway inc del cl b new,berkshire hathaway inc. cl b,BRK.B,BRK.B,TRUE
+156,vanguard s&p 500 etf (voo),vanguard index fds s&p 500 etf div: 3.931,VOO,VOO,TRUE
+157,pimco real return insitutional,pimco real return fund cl d,PRRIX,PRRDX,FALSE
+158,wp carey inc com,w p carey inc,WPC,WPC,TRUE
+159,comcast corporation cmn class a voting,comcast corporation class a,CMCSA,CMCSA,TRUE
+160,marathon oil corp.,marathon oil corp com,MRO,MRO,TRUE
+161,proshares short vix short term etf,proshares tr ii proshares short vix short-term futures etf,SVXY,SVXY,TRUE
+162,eog resources inc com,eog resources inc,EOG,EOG,TRUE
+163,amer fds smallcap wld f2,nuveen nwq small-cap value fund i,SMCFX,NSCRX,FALSE
+164,ultra petroleum corp f,ultra petroleum corp com,UPL,UPL,TRUE
+165,wisdomtree tr japan hedged equity fd,wisdomtree japan hedged equity fund,DXJ,DXJ,TRUE
+166,vanguard total bond market index fund institutional plus shares,vanguard bond index total mkt investor,VBMPX,VBMFX,FALSE
+167,metwest tot rtn bd m,metropolitan west total return class i,MWTRX,MWTIX,FALSE
+168,boston beer company com cl a,boston beer co inc class a,SAM,SAM,TRUE
+169,dfa emerging markets value,dfa emerging markets value i,DFEVX,DFEVX,TRUE
+170,guggenheim mid cap val fd instl,guggenheim mid cap value fund cl i,SVUIX,SVUIX,TRUE
+171,dollar tree inc com,dollar tree inc com isin #us0 sedol #2272476,DLTR,DLTR,TRUE
+172,fidelity focused stock fund,fidelity small cap growth fund,FTQGX,FCPGX,FALSE
+173,fidelity balanced,fid balanced k,FBALX,FBAKX,FALSE
+174,market vectors tr russia etf,market vectors russia etf,RSX,RSX,TRUE
+175,chemours company,chemours co,CC,CC,TRUE
+176,new perspective fund,af new perspective a,ANWPX,ANWPX,TRUE
+177,fidelity spartan extnd mkt idx advtg,spartan extended mkt index investor cl,FSEVX,FSEMX,FALSE
+178,intercontinentalexchange group div: 3.400,intercontinental exchange inc com,ICE,ICE,TRUE
+179,vanguard long-term bond index fund,vanguard long term bond fund,BLV,BLV,TRUE
+180,darling ingredients inc,darling ingredients inc com,DAR,DAR,TRUE
+181,vanguard institutional index fund institutional shares,vanguard institutional index i,VINIX,VINIX,TRUE
+182,facebook inc cl-a,"facebook, inc. cmn class a",FB,FB,TRUE
+183,valeant pharmaceuticals intl com,valeant pharmaceuticals intl i com isin #ca1 sedol #b3xsx46,VRX,VRX,TRUE
+184,eog resources inc com,eog res inc,EOG,EOG,TRUE
+185,lazard emerging mkts eq open,lazard emerging markets equity,LZOEX,LZOEX,TRUE
+186,anadarko pete corp,anadarko pete corp com,APC,APC,TRUE
+187,royal dutch shell adr ea rep 2 cl a eur0.07,royal dutch shell plc sponsored adr repstg a shs,RDSA,RDS.A,FALSE
+188,energy transfer partners lp ut ltd,cheniere energy partners lp com,ETP,CQP,FALSE
+189,vanguard emerging market etf,vanguard msci emerging markets etf,VWO,VWO,TRUE
+190,dodge and cox stock fund,dodge & cox stk fd,DODGX,DODGX,TRUE
+191,international business machs com,international business machines,IBM,IBM,TRUE
+192,vanguard developed markets index fund investor shares,vanguard developed mrkts index invstr,VDVIX,VDVIX,TRUE
+193,schlumberger limited com usd0.01,schlumberger ltd div: 2.000,SLB,SLB,TRUE
+194,vanguard extended market index institutional class,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+195,vanguard scottsdale fds intermediate term corporate bond ind,vanguard intrmdt trm etf,VCIT,VCIT,TRUE
+196,vanguard short term tax exempt fd investor shr,vanguard short term tax exempt investor,VWSTX,VWSTX,TRUE
+197,vanguard short-term bondetf,vanguard bd index fd inc short term bd etf,BSV,BSV,TRUE
+198,retail opportunity invts corp com isin #us9 sedol #b28yd08,retail opportunity i reit,ROIC,ROIC,TRUE
+199,vanguard mid-cap index fund,vanguard mid-cap vipers,VO,VO,TRUE
+200,ja solar holdings co. ltd. ads,ja solar hldgs ltd fadr 1 adr reps 5 ord shs,JASO,JASO,TRUE
+201,salesforce com inc com,salesforce.com inc,CRM,CRM,TRUE
+202,total s a fadr 1 adr reps 1 ord shs,total s a spon adr,TOT,TOT,TRUE
+203,schwab us large cap growth etf,schwab strategic tr us large-cap growth etf isin #us80852430,SCHG,SCHG,TRUE
+204,t. rowe price retirement 2050,t. rowe price 2050 fund,TRRMX,TRRMX,TRUE
+205,ishares iboxx ig corp bond,ishares iboxx investment grade corporate bond etf,LQD,LQD,TRUE
+206,american funds inc fund of amer r6,american funds income fund of america r6,RIDGX,RIDGX,TRUE
+207,chipotle mexican grill inc com isin #us9 sedol #b0x7dz3,chipotle mexican grill inc com,CMG,CMG,TRUE
+208,wells fargo special mid cap value a,wells fargo special mid cap value cl a,WFPAX,WFPAX,TRUE
+209,xcel energy inc div: 1.360,ishares core msci emerging div: 0.995,XEL,IEMG,FALSE
+210,alphabet inc,alphabet inc cl c,GOOG,GOOG,TRUE
+211,azure midstream partners lp unit ltd partner int,azure midstream partners lp com,AZUR,AZUR,TRUE
+212,citrix systems incorporated,citrix systems inc com,CTXS,CTXS,TRUE
+213,vanguard ttl bond mkt idx adm,vang tot bd mk is pl,VBTLX,VBMPX,FALSE
+214,amphenol corp cl a,amphenol corp cl a new,APH,APH,TRUE
+215,"arcelormittal sa, luxembourg",arcelormittal sa luxembourg ny registry sh isin #us4 sedol #b295f26,MT,MT,TRUE
+216,honeywell intl inc,honeywell international inc com,HON,HON,TRUE
+217,vanguard interm-term investment-grde adm,vanguard interm-term invmt-grade inv,VFIDX,VFICX,FALSE
+218,ishares msci eafe small-cap,ishares msci eafe small cap etf,SCZ,SCZ,TRUE
+219,goldman sachs small cap value instl,gs sm cap value inst,GSSIX,GSSIX,TRUE
+220,vanguard small cap etf,vanguard crsp us small cap ind ex,VB,VB,TRUE
+221,pnc financial services,pnc financial services group inc,PNC,PNC,TRUE
+222,powershares pfd port,powershares global etf preferred portfolio,PGX,PGX,TRUE
+223,growth fund of america class a - american funds m/f,american growth fund of america class a,AGTHX,AGTHX,TRUE
+224,vanguard total intl bd idx admiral,vanguard total international bond index fund admiral shares,VTABX,VTABX,TRUE
+225,vanguard short term tax exempt investor,vanguard short term tax exempt fd investor shr,VWSTX,VWSTX,TRUE
+226,monsanto co -,monsanto co,MON,MON,TRUE
+227,vanguard mid cap etf,vanguard mid-cap vipers,VO,VO,TRUE
+228,pimco total return fd cl c,total return fund (pimco),PTTCX,PTRAX,FALSE
+229,vanguard shrt trm invmnt grd-inv,vang st invstgrd inv,VFSTX,VFSTX,TRUE
+230,artisan international inv,artisan internatl investor class,ARTIX,ARTIX,TRUE
+231,vnguard total bond market index adm,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+232,pimco incm cl d,pimco income a,PONDX,PONAX,FALSE
+233,dfa intl small cap value,dfa intl small cap value cl i,DISVX,DISVX,TRUE
+234,vanguard small-cap index fund admiral shares,vanguard small cap index fund,VSMAX,VSCIX,FALSE
+235,pim total rt inst,pimco total return a,PTTRX,PTTAX,FALSE
+236,vanguard natural resources llc,vanguard natural resources llc com,VNR,VNR,TRUE
+237,ingersoll rand plc,ingersoll-rand plc shs div: 1.280,IR,IR,TRUE
+238,pimco total return cl a,total return fund (pimco),PTTAX,PTRAX,FALSE
+239,abbott laboratories div: 1.040,abbott labs com,ABT,ABT,TRUE
+240,goldman sachs mangd futures strategy a,aqr managed futures i,GMSAX,AQMIX,FALSE
+241,southwest gas corp,southwest gas corp div: 1.800,SWX,SWX,TRUE
+242,exone co/the,the exone company,XONE,XONE,TRUE
+243,pim total rt inst,pimco total return,PTTRX,PTRAX,FALSE
+244,general motors co common shares,general motors company com,GM,GM,TRUE
+245,zillow group inc cl c,zillow group inc - c,Z,Z,TRUE
+246,deut real estate r6,deutsche real estate sec a,RRRZX,RRRAX,FALSE
+247,af new perspective a,american new perspective fd inc cl a,ANWPX,ANWPX,TRUE
+248,materials sector sp etf,materials select sector spdr fund,XLB,XLB,TRUE
+249,dfa us large cap value i,dfa u.s. large cap value portfolio institutional class,DFLVX,DFLVX,TRUE
+250,vanguard total intl stock index fund etf,vanguard total international stock etf,VXUS,VXUS,TRUE
+251,amgen incorporated,amgen inc com,AMGN,AMGN,TRUE
+252,pinnacle west capital corp,pinnacle west cap corp,PNW,PNW,TRUE
+253,at&t inc com,at & t inc,T,T,TRUE
+254,ishares msci eafe value etf,ishares tr eafe value etf,EFV,EFV,TRUE
+255,vang ext mkt idx ins,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+256,invesco growth & income fund cl y,invesco growth and income y,ACGMX,ACGMX,TRUE
+257,aqr managed futures strategy r6,aqr managed futures strategy fund class i,AQMRX,AQMIX,FALSE
+258,johnson & johnson com,johnson & johnson div: 3.000,JNJ,JNJ,TRUE
+259,vanguard ftse europe etf iv,vanguard ftse europe etf div: 1.622,VGK,VGK,TRUE
+260,coca cola co com,coca cola company,KO,KO,TRUE
+261,national grid new adr each repr 5 ord gbp0.11395,national grid plc spon adr new,NGG,NGG,TRUE
+262,blackrock global long short equity fd instl cl,angel oak multi strategy incm fd instl,BDMIX,ANGIX,FALSE
+263,vanguard total bond market index adm,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+264,first eagle global class a,first eagle global fund class a (10%),SGENX,SGENX,TRUE
+265,irobot corp,irobot corp com,IRBT,IRBT,TRUE
+266,vanguard inflation-protected secs adm,vanguard inflation-protected securities fund admiral shares,VAIPX,VAIPX,TRUE
+267,ishares 20+ year treasury bo,ishares 20+ yr treasury bnd et f,TLT,TLT,TRUE
+268,spdr series trust short term h igh yield bond etf,ishares trust msci india index fd,SJNK,INDA,FALSE
+269,oppenheimer intl bond fd cl y,oppenheimer international bond fund a,OIBYX,OIBAX,FALSE
+270,pimco fds investment grade cor p bd d,pimco investment grade corporate bond fund - class a,PBDDX,PBDAX,FALSE
+271,spdr nuveen barclays short term etf,spdr nuveen barclays short term mun,SHM,SHM,TRUE
+272,oppenheimer developing mkts fd cl a,oppenheimer dev markets class a,ODMAX,ODMAX,TRUE
+273,vanguard total bond market index-admiral,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+274,vanguard total bond market index adm,vanguard total bond market index fund institutional plus shares,VBTSX,VBMPX,FALSE
+275,dynamic matls corp com,dynamic materials corp,BOOM,BOOM,TRUE
+276,fid eq div income k,fidelity equity dividend income fund,FETKX,FEQTX,FALSE
+277,vanguard small cap index adm,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+278,american funds europacific growth-r5,af europac growth r5,RERFX,RERFX,TRUE
+279,vang tot bd mkt adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+280,john hancock strategic income opp fund cl i,strategic advisers core income fund,JIPIX,FPCIX,FALSE
+281,harbor cap appreciation fund inv cl,harbor capital appreciation inv cl,HCAIX,HCAIX,TRUE
+282,solarcity corp,solarcity corp common stock,SCTY,SCTY,TRUE
+283,breitburn energy partners lp com,breitburn energy partners lp c,BBEP,BBEP,TRUE
+284,regeneron pharm,regeneron pharmaceuticals inc.,REGN,REGN,TRUE
+285,chevron corp,chevron corp com,CVX,CVX,TRUE
+286,merck & co inc,merck & company inc new,MRK,MRK,TRUE
+287,netflix inc com,netflix inc,NFLX,NFLX,TRUE
+288,spartan us bond indx fidelity adv class,spartan u.s. bond index fd investor cl,FSITX,FBIDX,FALSE
+289,republic services,republic services inc.,RSG,RSG,TRUE
+290,schwab fundamental glbl real estate index fund,fidelity sai u.s. quality index fund,SFREX,FUQIX,FALSE
+291,energy transfer equity l p com unit,energy trnfr equity lp,ETE,ETE,TRUE
+292,ishares core msci emerging div: 0.995,ishares inc core msci emerging mkts etf,IEMG,IEMG,TRUE
+293,exxon mobil corp,exxon mobil corp div: 2.920,XOM,XOM,TRUE
+294,northrop grumman corp holding co,northrop grumman cp(hldg co) div: 3.200,NOC,NOC,TRUE
+295,vanguard ttl bond mkt idx adm,vanguard total bond market index fund investor shares,VBTLX,VBMFX,FALSE
+296,alaska air group incorporated div: 1.100,alaska air group inc com,ALK,ALK,TRUE
+297,merck and co inc,merck and co inc shs,MRK,MRK,TRUE
+298,vanguard reit etf index,vanguard reit index etf,VNQ,VNQ,TRUE
+299,ishares tr core s&p small-cap etf,ishares core s&p small cap etf,IJR,IJR,TRUE
+300,vang target ret 2045,vanguard target retirement 2045 inv,VTIVX,VTIVX,TRUE
+301,berkshire hathaway inc del cl b,berkshire hathaway class b,BRK.B,BRK.B,TRUE
+302,southern co div: 2.170,southern co,SO,SO,TRUE
+303,vanguard total bond market index,vanguard total bond market index fund investor shares,VBMPX,VBMFX,FALSE
+304,hodges small cap retail,fidelity small cap stock,HDPSX,FSLCX,FALSE
+305,ishares msci switzerland capped,ishares msci switzerland capped etf,EWL,EWL,TRUE
+306,sptn ext mkt idx adv,fidelity spartan extended mkt index inv,FSEVX,FSEMX,FALSE
+307,select sector spdr trust energy select index,energy select sector spdr,XLE,XLE,TRUE
+308,pimco total return fd cl c,pimco tot return adm,PTTCX,PTRAX,FALSE
+309,chevron corp,chevron corp.,CVX,CVX,TRUE
+310,china mobile limited adr sponsored,china mobile ltd sp adr,CHL,CHL,TRUE
+311,ishares core msci emerging markets etf,harding loevner emerging markets adv cl,IEMG,HLEMX,FALSE
+312,mvc capital inc com,mvc capital inc,MVC,MVC,TRUE
+313,diageo plc new sponsored adr,diageo plc new gb spon adr,DEO,DEO,TRUE
+314,spherix inc com,cliffs nat res inc com,SPEX,CLF,FALSE
+315,templeton global bond fund advisor class shares,templeton global bd fd adv,TGBAX,TGBAX,TRUE
+316,pimco total ret fd instl,fund: pimco total return admin,PTTRX,PTRAX,FALSE
+317,metr w tot rtn bond cl m,metropolitan west total return class i,MWTRX,MWTIX,FALSE
+318,vanguard value etf (vtv),vanguard index fds value etf,VTV,VTV,TRUE
+319,netflix com inc com,netflix inc,NFLX,NFLX,TRUE
+320,energy transfer partners l p unit ltd partnership int,energy transfer partners lp com,ETP,ETP,TRUE
+321,lzrd emrg mkts eq is,lazard emerging mkts fd instl,LZEMX,LZEMX,TRUE
+322,oppenheimer developing markets y,oppenheimer developing markets fnd y,ODVYX,ODVYX,TRUE
+323,ishares msci usa min vol etf,proshares short vix short term etf,USMV,SVXY,FALSE
+324,stag industrial inc,"stag industrials, inc. com",STAG,STAG,TRUE
+325,spdr gold tr gold shs etf,spdr gold trust gold shares,GLD,GLD,TRUE
+326,intl business mach,international business machs com,IBM,IBM,TRUE
+327,metropolitan west totret bdm,metropolitan west total return bond i,MWTRX,MWTIX,FALSE
+328,honeywell intl inc del,honeywell intl inc,HON,HON,TRUE
+329,gopro inc-class a,gopro inc class a,GPRO,GPRO,TRUE
+330,huntington bancshares inc com,huntington bancshares inc,HBAN,HBAN,TRUE
+331,grupo televisa sa adr,grupo televisa sa de cv gdr reptsg ordinary part ctf,TV,TV,TRUE
+332,ishares inc msci emrg mkts min volatility etf,ishares msci emerging markets min volatility etf,EEMV,EEMV,TRUE
+333,baidu inc spon adr,baidu inc fadr 1 adr reps 0.1 ord shs,BIDU,BIDU,TRUE
+334,novartis ag,novartis ag- reg,NVS,NVS,TRUE
+335,metwest tot rtn bd m,metropolitan west total return m,MWTRX,MWTRX,TRUE
+336,ishares msci southkorea cp etf div: 1.202,ishares msci south korea cap,EWY,EWY,TRUE
+337,price t rowe group inc com isin #us74144t1088 sedol #2702337,c h robinson worldwide inc com new isin #us12541w2098 sedol,TROW,CHRW,FALSE
+338,delta air lines inc dela new,delta air lines inc,DAL,DAL,TRUE
+339,yum brands inc,"yum brands, inc. cmn",YUM,YUM,TRUE
+340,vanguard short term bond index admiral,vang st bd idx is pl,VBIRX,VBIPX,FALSE
+341,pimco total return fund cl p,total return fund (pimco),PTTPX,PTRAX,FALSE
+342,vang midcap idx inst,vanguard mid-cap index fund institutional,VMCIX,VMCIX,TRUE
+343,vanguard total bond market index admiral,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+344,jpmorgan chase & co div: 1.760,jp morgan chase & co com,JPM,JPM,TRUE
+345,halyard health inc,halyard health inc com,HYH,HYH,TRUE
+346,american intl group inc,american intl group inc com new,AIG,AIG,TRUE
+347,w p carey inc,wp carey inc com,WPC,WPC,TRUE
+348,fedex corporation com,fedex corp,FDX,FDX,TRUE
+349,dominion resources inc/va,dominion res inc va,D,D,TRUE
+350,american funds euro pacific growth r6,american europacific growth r6 m5585,RERGX,RERGX,TRUE
+351,sierra wireless inc,sierra wireless inc com isin #ca4 sedol #2418968,SWIR,SWIR,TRUE
+352,newell rubbermaid inc cmn,newell rubbermaid inc,NWL,NWL,TRUE
+353,new york cmnty bancorp inc,new york community bancorp com,NYCB,NYCB,TRUE
+354,kohls corp,kohls corp com,KSS,KSS,TRUE
+355,artisan intl value fund inv,artisan international value fund # 1466 closed to new,ARTKX,ARTKX,TRUE
+356,vanguard growth index inv,vanguard growth index fd admiral share,VIGRX,VIGAX,FALSE
+357,amg yacktman fund service class,amg yacktman,YACKX,YACKX,TRUE
+358,lendingtree inc new,lendingtree inc,TREE,TREE,TRUE
+359,american funds american hi inc tr r3,american funds high income trust a,RITCX,AHITX,FALSE
+360,vanguard ttl bond mkt idx adm,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+361,micron technology,micron technology inc com,MU,MU,TRUE
+362,amg managers cadence emerging co svc,ishares msci emerging mkts,MECAX,EEM,FALSE
+363,energy select sector spdr etf iv,energy select sector spdr,XLE,XLE,TRUE
+364,schwab funda emg mkts large etf iv,schwab strategic tr schwab fundamental emerging mkts large c,FNDE,FNDE,TRUE
+365,vang growth idx adm,vanguard growth index fd admiral share,VIGAX,VIGAX,TRUE
+366,netflix com inc com,netflix com inc,NFLX,NFLX,TRUE
+367,wisdomtree invts inc com,wisdomtree investmnt,WETF,WETF,TRUE
+368,vanguard extd mkt etf,vanguard extended marketetf iv,VXF,VXF,TRUE
+369,pimco total return instl,pimco total return fd cl c,PTTRX,PTTCX,FALSE
+370,vanguard total bond index adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+371,schwab strategic tr intl equity etf,schwab strategic tr intl equity etf isin #us8085248057 sedol,SCHF,SCHF,TRUE
+372,vanguard mid-cap index inv,vanguard mid cap index investor cl,VIMSX,VIMSX,TRUE
+373,pimco total return fund cl p,pimco tot return adm,PTTPX,PTRAX,FALSE
+374,spdr ser tr nuveen barclays short isin #us0 sedol #b28lxf4,spdr nuveen barclays short term etf,SHM,SHM,TRUE
+375,new horizons fund,t. rowe price new horizons,PRNHX,PRNHX,TRUE
+376,zillow group inc cl a isin #us8 sedol #bvyjbr3,rayonier inc com isin #us7549071030 sedol #2473138,Z,RYN,FALSE
+377,ishares s&p 500 value etf iv,ishares s&p 500 value etf,IVE,IVE,TRUE
+378,goldman sachs mgd futures strat a,aqr fds aqmixmanaged futures strategy fd i,GMSAX,AQMIX,FALSE
+379,the oakmark international fund - class i,harris oakmark international fund cl i,OAKIX,OAKIX,TRUE
+380,kinder morgan inc del,kinder morgan inc. del,KMI,KMI,TRUE
+381,vanguard long-term tax-exempt fund admiral shares,vanguard convertible securities fund,VWLUX,VCVSX,FALSE
+382,vanguard high-yield corporate fund investor shares,vanguard high yield corp bd-inv,VWEHX,VWEHX,TRUE
+383,zimmer biomet hldgs inc com,zimmer biomet hldgs,ZBH,ZBH,TRUE
+384,rogers communications inc. (b),rogers comm inc cl b (bc) div: 1.360,RCI,RCI,TRUE
+385,sector spdr tr shs ben int consumer staples,select sector spdr trust consumer staples index,XLP,XLP,TRUE
+386,wisdomtree japan hedged equity etf,wisdomtree japan hedged equity fund,DXJ,DXJ,TRUE
+387,royce value trust inc div: 1.200,keycorp new div: 0.300,RVT,KEY,FALSE
+388,verisign inc,verisign inc com,VRSN,VRSN,TRUE
+389,vanguard total bond market index fund admiral shares,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+390,breitburn energy partners l p com,atlas resource partners lp,BBEP,ARP,FALSE
+391,borg warner inc cm,borg warner inc,BWA,BWA,TRUE
+392,vanguard value index fund admiral shares,vanguard value index inv,VVIAX,VIVAX,FALSE
+393,ishares tr core s&p mcp etf,ishares core s&p mid capetf,IJH,IJH,TRUE
+394,vanguard total bond market index adm,vang tot bd mkt adm,VBTSX,VBTLX,FALSE
+395,energy select sector spdr etf iv,sector energy select sector spdr etf,XLE,XLE,TRUE
+396,vanguard emerging markets stock index fund institutional shares,janus triton fund class t shares,VEMIX,JATTX,FALSE
+397,vanguard 500 index admiral,vanguard 500 index fund admiral shares,VFIAX,VFIAX,TRUE
+398,vanguard short-term bond index fund investor shares,vanguard short term bond index admiral,VBISX,VBIRX,FALSE
+399,guggenheimbulletshares ig2017 div: 0.316,guggenheim bulletshares 2017 corporate b,BSCH,BSCH,TRUE
+400,red hat inc com isin #us7565771026,red hat inc com isin #us6 sedol #2447218,RHT,RHT,TRUE
+401,vanguard mid cap etf,vanguard index fds vanguard mid-cap etf,VO,VO,TRUE
+402,vanguard interm-term investment-grde adm,vanguard intermediate-term investment-grade fund investor shares,VFIDX,VFICX,FALSE
+403,energy sector spdr etf,energy select sector spdr etf iv,XLE,XLE,TRUE
+404,vanguard 500 index fund investor cl,vanguard 500 index fund investor class,VFINX,VFINX,TRUE
+405,pimco income fund cl d,pimco income fd i,PONDX,PIMIX,FALSE
+406,goldman sachs mgd futures strat a,aqr managed futures i,GMSAX,AQMIX,FALSE
+407,vanguard intermediate term cor etf,vanguard intermediate term cor p bond et,VCIT,VCIT,TRUE
+408,ishares tr iboxx hi yd etf,ishares iboxx high yield corporate bond etf,HYG,HYG,TRUE
+409,walt disney co,walt disney co hldg co div: 1.420,DIS,DIS,TRUE
+410,af europac growth r5,american funds europacfic r5,RERFX,RERFX,TRUE
+411,vanguard index fds value etf,vanguard value etf,VTV,VTV,TRUE
+412,schwab intl equity etf,schwab international equity etf,SCHF,SCHF,TRUE
+413,vanguard reit index fund investor shares,vanguard reit index fund,VGSIX,VGSIX,TRUE
+414,alibaba group hldg adr fsponsored adr 1 adr reps 1 ord,alibaba group hldg ltd,BABA,BABA,TRUE
+415,vanguard 500 index fund admira l,vanguard 500 index adm,VFIAX,VFIAX,TRUE
+416,exxon mobil dda,exxon mobil corp.,XOM,XOM,TRUE
+417,one liberty pptys inc com,guess inc com,OLP,GES,FALSE
+418,alphabet inc,alphabet inc cl a,GOOGL,GOOGL,TRUE
+419,pimco total return r,pimco total return fund adm,PTRRX,PTRAX,FALSE
+420,vang selected value,vanguard whitehall funds inc selected value portfolio,VASVX,VASVX,TRUE
+421,interactive brokers group inc. com,interactive brokers group inc com isin #us2 sedol #b1wt4x2,IBKR,IBKR,TRUE
+422,market vectors etf tr biotech,market vectors biotech etf,BBH,BBH,TRUE
+423,vanguard sml-cap ind-adm,vanguard small-cap index adm,VSMAX,VSMAX,TRUE
+424,goldman sachs mgd futures strat a,aqr aqr mngd futures strategy i,GMSAX,AQMIX,FALSE
+425,nike inc cl b,nike inc-b,NKE,NKE,TRUE
+426,schwab strategic tr schwab fundamental emerging mkts large c,schwab funda emg mkts large com etf,FNDE,FNDE,TRUE
+427,vang tot bd mkt adm,vanguard total bond market idx-adm,VBTLX,VBTLX,TRUE
+428,lennar corp cl a,lennar corporation,LEN,LEN,TRUE
+429,dfa emerging markets core,dfa emerging mkts core eqty port instl,DFCEX,DFCEX,TRUE
+430,dreamworks animation skg cl a,dreamworks animation class a,DWA,DWA,TRUE
+431,ishares tr natl mun bd etf fd,ishares national muni bond etf,MUB,MUB,TRUE
+432,t.rowe price new horizons-t,t. rowe price new horizons fund,PRNHX,PRNHX,TRUE
+433,pimco total return fund - class r,pimco total return,PTRRX,PTRAX,FALSE
+434,apple inc div: 2.080,apple inc com,AAPL,AAPL,TRUE
+435,marathon petroleum corp div: 1.280,loews corporation div: 0.250,MPC,L,FALSE
+436,capital world growth & income cl a,american capital world growth and income fd a,CWGIX,CWGIX,TRUE
+437,american axle&mfg hldgs,american axle & mfg holdings c om,AXL,AXL,TRUE
+438,vanguard fixed income secs inter term invt grade fd admiral cl,vanguard interm-term invmt-grade inv,VFIDX,VFICX,FALSE
+439,t. rowe price new income,t rowe price new income fund inc,PRCIX,PRCIX,TRUE
+440,magna international inc div: 0.880,magna intl inc com,MGA,MGA,TRUE
+441,wells fargo company,wells fargo & co com,WFC,WFC,TRUE
+442,edison intl,edison international com,EIX,EIX,TRUE
+443,teva pharmaceuticals adr,teva pharmactcl inds adr,TEVA,TEVA,TRUE
+444,amazon com,amazon.com inc com,AMZN,AMZN,TRUE
+445,goldman sachs strategic income instl,goldman sachs strategic income fund cl i,GSZIX,GSZIX,TRUE
+446,vanguard smallcap index fund,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+447,nextera energy inc com div: 3.480,nextera energy inc,NEE,NEE,TRUE
+448,blackrock high yld bd port cl k,blackrock hi yield bd ptf inst,BRHYX,BHYIX,FALSE
+449,vanguard short-term bond index fund,vanguard bd index fd inc short term bd etf,BSV,BSV,TRUE
+450,vanguard total international stock index adm,vanguard total intl stock index admiral,VTIAX,VTIAX,TRUE
+451,dfa international core equity,dfa intl core eqty port instl,DFIEX,DFIEX,TRUE
+452,pimco total return instl,pimco total return fund cl d,PTTRX,PTTDX,FALSE
+453,general motors co.,general motors co common shares,GM,GM,TRUE
+454,verizon communicatn,verizon communications inc. cmn,VZ,VZ,TRUE
+455,vanguard total bond market index adm,vang tot bd mk is pl,VBTLX,VBMPX,FALSE
+456,flextronics international com usd0.01,flextronics intl ltd ord,FLEX,FLEX,TRUE
+457,pimco total return fund instl cl,pimco total return cl a,PTTRX,PTTAX,FALSE
+458,jpmorgan core bond fund r6,jpm core bond r6,JCBUX,JCBUX,TRUE
+459,zynga inc,zynga inc com,ZNGA,ZNGA,TRUE
+460,pimco total return fund adm,fund: pimco total return admin,PTRAX,PTRAX,TRUE
+461,immunocellular therapeutics com,immunocellular therapeutics com isin #us5 sedol #b17zl90,IMUC,IMUC,TRUE
+462,first tr consumr stapls alphadex etf,first trust ise consumer stapl es alphadex fd,FXG,FXG,TRUE
+463,vanguard ftse all world ex us small cap etf,vanguard intl equity index fds ftse all world ex usa small cap index fd etf shs,VSS,VSS,TRUE
+464,blackrock high yield bond portfolio svc,blkrk hi yld bd inst,BHYSX,BHYIX,FALSE
+465,ares capital corp com,ares capital corp,ARCC,ARCC,TRUE
+466,vanguard index fds s&p 500 etf div: 3.931,vanguard index funds s&p 500 etf,VOO,VOO,TRUE
+467,loomis sayles bond instl cl,loomis sayles mlti-asset inc a,LSBDX,IIDPX,FALSE
+468,vanguard sml-cap ind-adm,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+469,american funds balanced portfolio,american balanced portfolio cl a,CBAAX,BLPAX,FALSE
+470,pimco total return active etf,pimco total return etf,BOND,BOND,TRUE
+471,dfa emerg mkts val i,dfa emerging mkts value ptf,DFEVX,DFEVX,TRUE
+472,vanguard limited-term tax-exempt fund admiral shares,vanguard limited-term tax-exempt fund,VMLUX,VMLTX,FALSE
+473,vanguard small-cap index fund,vanguard small cap etf (vb),VB,VB,TRUE
+474,oppenheimer interntl bond fund cl i,oppenheimer int'l bond class a,OIBIX,OIBAX,FALSE
+475,netflix inc.,netflix com inc com,NFLX,NFLX,TRUE
+476,allianz gi nfj div value inst,allianzgi nfj dividend value fund cl p,NFJEX,ADJPX,FALSE
+477,guggenheim bric select dr index,guggenheim bric etf,EEB,EEB,TRUE
+478,paccar inc com,paccar inc,PCAR,PCAR,TRUE
+479,vanguard total bond index adm,vanguard total bond market index inv,VBTLX,VBMFX,FALSE
+480,baidu inc adr fsponsored adr 1 adr reps 10 cl a ord,baidu inc sponsored adr repstg ord shares class a,BIDU,BIDU,TRUE
+481,vanguard total bond market index admiral,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+482,vanguard inflation-protected securities fund admiral shares,vanguard inflation-protected secs adm,VAIPX,VAIPX,TRUE
+483,visa inc com cl a,salesforce com inc,V,CRM,FALSE
+484,vanguard small cap growth etf,vanguard index fds vanguard small cap growth vipers formerly vanguard index tr,VBK,VBK,TRUE
+485,omega healthcare investors inc ohi,omega hlthcare invts reit,OHI,OHI,TRUE
+486,vnguard total bond market index adm,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+487,vanguard mid-cap index fund inst,vanguard mid cap index ins,VMCIX,VMCIX,TRUE
+488,apple inc.,apple,AAPL,AAPL,TRUE
+489,vanguard extended market index fund institutional,vanguard extended market idx adm,VIEIX,VEXAX,FALSE
+490,activision blizzard inc,activision blizzard,ATVI,ATVI,TRUE
+491,amedica corp com,acura pharmaceuticals inc com,AMDA,ACUR,FALSE
+492,vanguard target retirement 2040 fund,vanguard target retirement 2040 fund investor shares,VFORX,VFORX,TRUE
+493,blackrock strategic income i,blackrock strategic income opptys investor cl a,BSIIX,BASIX,FALSE
+494,cheniere energy inc new,cheniere energy inc,LNG,LNG,TRUE
+495,pimco total return fund cl d,pimco total return a,PTTDX,PTTAX,FALSE
+496,ishares msci emerging mkts etf,ishares msci emerging markets etf,EEM,EEM,TRUE
+497,starbucks corp,starbucks corp.,SBUX,SBUX,TRUE
+498,ishares national amt-free muni bnd etf,ishares national amt-free muni bond etf,MUB,MUB,TRUE
+499,pimco total return fund instl cl,pimco total return r,PTTRX,PTRRX,FALSE
+500,vanguard ttl bond mkt idx adm,vanguard total bond market index i,VBTLX,VBTIX,FALSE
+501,fiat chrysler auto (netherlands),fiat chrysler automobiles nv,FCAU,FCAU,TRUE
+502,vanguard ftse dev etf,vanguard ftse developed market s etf,VEA,VEA,TRUE
+503,ishares core s&p mid cap etf,ishares s&p midcap fund,IJH,IJH,TRUE
+504,van small cap index admir,"vanguard small cap index, adm",VSMAX,VSMAX,TRUE
+505,spdr series trust short term high yield bond etf,ishares trust msci india index fd,SJNK,INDA,FALSE
+506,cohen & steers rlty,cohen & steers realty fund,CSRSX,CSRSX,TRUE
+507,vanguard mid cap index,vang midcap idx adm,VIMAX,VIMAX,TRUE
+508,vanguard small cap index fund - admiral,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+509,magna intl inc cl a,magna international inc div: 0.880,MGA,MGA,TRUE
+510,us small-cap value,vbr:vanguard small-cap value etf,VBR,VBR,TRUE
+511,walt disney co hldg co div: 1.420,walt disney co com,DIS,DIS,TRUE
+512,accenture ltd ord,accenture,ACN,ACN,TRUE
+513,phillips 66 com,phillips 66,PSX,PSX,TRUE
+514,aqr managed futures strategy r6,aqr fds aqmixmanaged futures strategy fd i,AQMRX,AQMIX,FALSE
+515,abbott labs,abbott laboratories div: 1.040,ABT,ABT,TRUE
+516,pimco commodity real return strat d,pimco commodity real return cl d,PCRDX,PCRDX,TRUE
+517,accenture plc ireland,accenture plc fclass a,ACN,ACN,TRUE
+518,vanguard gnma inv,vanguard gnma fund investor share,VFIIX,VFIIX,TRUE
+519,vanguard short term inflation protected,inflation-protected bonds,VTIP,VTIP,TRUE
+520,metropolitan west tot ret bond,metwest tot rtn bd i,MWTIX,MWTIX,TRUE
+521,spdr barclays high yield bond etf,spdr barclays capital high yield bond et,JNK,JNK,TRUE
+522,stone energy corp,stone energy corp com,SGY,SGY,TRUE
+523,vanguard extended market idx i,vanguard ext market index inst,VIEIX,VIEIX,TRUE
+524,dfa international value portfolio,dfa international value i,DFIVX,DFIVX,TRUE
+525,vanguard total bond market index,vanguard bond index total mkt investor,VBMPX,VBMFX,FALSE
+526,vanguard dividend growth fund,vanguard div growth fd investor shrs,VDIGX,VDIGX,TRUE
+527,wisdomtree investmnt,wisdomtree invts inc com,WETF,WETF,TRUE
+528,intel corp com,intel corp div: 1.040,INTC,INTC,TRUE
+529,spartan extended mkt index fid adv class,sptn ext mkt idx inv,FSEVX,FSEMX,FALSE
+530,pimco total return fund cl d,mainstay retirement 2050 fund (class i),PTTDX,MSRMX,FALSE
+531,pimco total ret fd instl,pimco total return fund adm,PTTRX,PTRAX,FALSE
+532,vanguard total bond market index fund institutional plus,vanguard bond index total mkt investor,VBMPX,VBMFX,FALSE
+533,accenture plc ireland,accenture,ACN,ACN,TRUE
+534,qep resources inc com,gopro inc com,QEP,GPRO,FALSE
+535,royal dutch shell adr ea rep 2 cl a eur0.07,royal dutch shell plc adr class a,RDSA,RDS.A,FALSE
+536,clearbridge all cap value a,columbia mid cap value,SHFVX,NAMAX,FALSE
+537,amazon.com,amazon.com stock fund,AMZN,AMZN,TRUE
+538,hewlett packard ente,hewlett packard enterprise co cmn,HPE,HPE,TRUE
+539,pnc financial services,pnc finl svcs group,PNC,PNC,TRUE
+540,vanguard intermediate-term investment-grade fund admiral shares,vanguard interm-term invmt-grade inv,VFIDX,VFICX,FALSE
+541,pimco incm cl d,pimco income instl,PONDX,PIMIX,FALSE
+542,vanguard target retirement 2055 fund investor shares,vanguard target retire 2055,VFFVX,VFFVX,TRUE
+543,mylan nv f,mylan n v com,MYL,MYL,TRUE
+544,vanguard total bond market index i,vang tot bd mk is pl,VBTIX,VBMPX,FALSE
+545,energy trans eqty lp div: 1.140,energy trnfr equity lp,ETE,ETE,TRUE
+546,the oakmark equity & income fund,oakmark equity and income fund class i,OAKBX,OAKBX,TRUE
+547,verizon communicatns com,verizon communications,VZ,VZ,TRUE
+548,zoes kitchen inc com isin #us7 sedol #bl95n36,zoes kitchen inc,ZOES,ZOES,TRUE
+549,vanguard target retirement 2050 fund investor shares,vanguard target retirement 2050 fd inv,VFIFX,VFIFX,TRUE
+550,templeton glbl bond fd adv cl,templeton global macro group advisor cl,TGBAX,TGBAX,TRUE
+551,vanguard ftse emerg mkts etf,vanguard intl equity index f ftse emr mkt etf,VWO,VWO,TRUE
+552,baidu inc spon adr rep a,baidu inc fadr 1 adr reps 0.1 ord shs,BIDU,BIDU,TRUE
+553,vanguard small-cap etf,vanguard crsp us small cap index,VB,VB,TRUE
+554,wp carey inc com,w p carey and co. llc.,WPC,WPC,TRUE
+555,ishares national muni bond etf,ishares s&p national amt-free muni,MUB,MUB,TRUE
+556,vanguard large cap etf,vanguard crsp us large cap index,VV,VV,TRUE
+557,texas roadhouse inc,texas roadhouse,TXRH,TXRH,TRUE
+558,berkshire hathawayinc del cl b new,berkshire hathaway inc cl b,BRK.B,BRK.B,TRUE
+559,vnguard total bond market index adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+560,tiaa-cref lifecycle 2050 fund - premier class,fidelity advisor freedom 2050 fund - class t,TCLPX,FFFQX,FALSE
+561,iridium communications inc com,iridium communications inc com isin #us7 sedol #b2qh310,IRDM,IRDM,TRUE
+562,motley fool independence,motley fool independence fund,FOOLX,FOOLX,TRUE
+563,united parcel svc inc cl b,united parcel service inc,UPS,UPS,TRUE
+564,pimco income fund cl p,pimco income instl,PONPX,PIMIX,FALSE
+565,electronic arts com,electronic arts,EA,EA,TRUE
+566,vanguard bond index fund short term portfolio,vanguard short-term bond index fund admiral shares,VBISX,VBIRX,FALSE
+567,starbucks corp.,starbucks,SBUX,SBUX,TRUE
+568,seventy seven energy inc com,seventy seven energy inc com usd0.01,SSE,SSE,TRUE
+569,allergan plc shs,allergan plc com,AGN,AGN,TRUE
+570,vanguard intl equity index fds ftse pac etf,vanguard ftse pacific etf,VPL,VPL,TRUE
+571,amazon com inc,amazon.com,AMZN,AMZN,TRUE
+572,dfa us targeted value fund,dfa us targeted value portfolio institutional class,DFFVX,DFFVX,TRUE
+573,sunedison inc,sunedison,SUNE,SUNE,TRUE
+574,american cap inc builder a,capital income builder - a (12),CAIBX,CAIBX,TRUE
+575,raytheon co com,raytheon co com new,RTN,RTN,TRUE
+576,chevron corporation cmn,chevron corp,CVX,CVX,TRUE
+577,charles schwab us reit etf,schwab strategic tr us reit et,SCHH,SCHH,TRUE
+578,vnguard total bond market index adm,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+579,national grid plc new spon adr,national grid plc-sp adr,NGG,NGG,TRUE
+580,wells fargo & co new | w001549,wells fargo & co new,WFC,WFC,TRUE
+581,market vectors atm-free intermediate muni etf,market vectors atm-free interm ediate muni etf,ITM,ITM,TRUE
+582,merck & co inc. com,merck & co. inc,MRK,MRK,TRUE
+583,vanguard whitehall funds inc selected value portfolio,vang selected value,VASVX,VASVX,TRUE
+584,vanguard short term bond fund,vanguard short term etf,BSV,BSV,TRUE
+585,ishares 1-3 yr treasury bnd et f,ishares 1-3 year treasury bond etf,SHY,SHY,TRUE
+586,oppenheimer interntl growth cl i,opphmr intl growth i,OIGIX,OIGIX,TRUE
+587,vanguard gnma fund admiral shares,vanguard gnma fund,VFIJX,VFIIX,FALSE
+588,vanguard growth index inv,vang growth idx adm,VIGRX,VIGAX,FALSE
+589,viacom inc cmn class b,viacom inc class b,VIAB,VIAB,TRUE
+590,fid growth disc k,fidelity growth discovery fund,FGDKX,FDSVX,FALSE
+591,vanguard short-term corporate bond etf,vanguard s/t corp bond etf,VCSH,VCSH,TRUE
+592,kinder morgan inc del,kinder morgan inc com usd0.01,KMI,KMI,TRUE
+593,blkrk global alloc i,blackrock global allocation i,MALOX,MALOX,TRUE
+594,pimco total return instl,pimco tot return adm,PTTRX,PTRAX,FALSE
+595,growth fund of america cl a,the growth fund of america,AGTHX,AGTHX,TRUE
+596,fidelity large cap stock,dreyfus small cap stock index,FLCSX,DISSX,FALSE
+597,metlife inc com stk usd0.01,metlife inc com,MET,MET,TRUE
+598,noble corp plc com usd0.01,noble corp plc f,NE,NE,TRUE
+599,ellie mae inc com,ellie mae inc,ELLI,ELLI,TRUE
+600,joy global inc com,joy global inc,JOY,JOY,TRUE
+601,artisan mid cap inv,artisan mid cap investor cl,ARTMX,ARTMX,TRUE
+602,las vegas sands inc.,las vegas sands corp com,LVS,LVS,TRUE
+603,vanguard crsp us small cap index,vanguard crsp us small cap ind ex,VB,VB,TRUE
+604,sunoco logistics lp unit,sunoco logistics partners com lp,SXL,SXL,TRUE
+605,templeton global bond cl a,tmpl global bond a,TPINX,TPINX,TRUE
+606,helmerich &payne inc com isin #us4234521015 sedol #2420101,helmerich &payne inc com isin #us5 sedol #2420101,HP,HP,TRUE
+607,ishares iboxx $ high yield corporate bon,ishares iboxx $ h/y cor bd etf div: 4.808,HYG,HYG,TRUE
+608,occidental petrol co,occidental petroleum corp de div: 3.000,OXY,OXY,TRUE
+609,deutsche x-trackers msci eafe hedged equity etf,deutsche x-trackers msci eaf,DBEF,DBEF,TRUE
+610,twenty-first century fox inc class a,twenty-first century-cl a-wi,FOXA,FOXA,TRUE
+611,darden restaurants inc. (united states),darden restaurants inc com,DRI,DRI,TRUE
+612,fidelity investment grade,fid invst gr bd,FBNDX,FBNDX,TRUE
+613,vanguard institutional index fund institutional plus shares,vang inst index plus,VIIIX,VIIIX,TRUE
+614,eversource energy cmn,eversource energy com,ES,ES,TRUE
+615,fedex corp,fedex corp delaware com,FDX,FDX,TRUE
+616,emerson electric co.,emerson electric co,EMR,EMR,TRUE
+617,ld abt sh drtn inc i,lord abbett short duration income fd cl f,LLDYX,LDLFX,FALSE
+618,glaxosmithkline plc sponsored adr adr,glaxosmithkline adr each cnv into 2 ord gbp0.25,GSK,GSK,TRUE
+619,spdr nuveen barclays short term etf,spdr nuveen barclays short ter m mun,SHM,SHM,TRUE
+620,deutsche large cap value fund-s,dfa u s large cap growth instl cl,KDCSX,DUSLX,FALSE
+621,"energy transfer partners, l.p. cmn",energy transfer partners lp com,ETP,ETP,TRUE
+622,united states oil etf,united states oil fund lp exchange-traded fund,USO,USO,TRUE
+623,amcap fund cl a,amcap cl a,AMCPX,AMCPX,TRUE
+624,ishares 20 pls year treasury bnd etf,ishares 20+ yr treasury bnd et f,TLT,TLT,TRUE
+625,sector spdr tr sh ben int-enry*beo,sector spdr tr shs ben int energy,XLE,XLE,TRUE
+626,vanguard index fds vanguard small cap vipers formerly vangua,vanguard small cap etf,VB,VB,TRUE
+627,vanguard extended market index institutional class,vanguard extended market index fund admiral shares,VIEIX,VEXAX,FALSE
+628,activision blizzard inc com,activision blizzard inc,ATVI,ATVI,TRUE
+629,sodastream international ltd usd shs,sodastream international ltd com,SODA,SODA,TRUE
+630,time warner inc,time warner inc new div: 1.610,TWX,TWX,TRUE
+631,cypress semiconductor corp com,cypress semiconductors corp,CY,CY,TRUE
+632,berkshire hathaway inc de cl b new,berkshire hathaway inc del cl b new,BRK.B,BRK.B,TRUE
+633,vanguard short-term investment-grade fund admiral shares,vanguard shortterm investgrade adm,VFSUX,VFSUX,TRUE
+634,berkshire hathaway inc del cl b,berkshire hathaway inc del cl b new,BRK.B,BRK.B,TRUE
+635,skechers usa inc - cl a com,skechers usa inc class a,SKX,SKX,TRUE
+636,facebook inc cl-a,facebook inc cl a,FB,FB,TRUE
+637,vanguard whitehall fds high dividend yield etf shs,vanguard high divd yield etf w,VYM,VYM,TRUE
+638,square inc com class a,fxcm inc com shs new,SQ,FXCM,FALSE
+639,af bond fd amer r6,american funds bond fund of america a,RBFGX,ABNDX,FALSE
+640,arena pharmaceuticals,arena pharmaceuticals inc com,ARNA,ARNA,TRUE
+641,ishares s&p smallcap 600 index,ishares trust core s&p small-cap etf,IJR,IJR,TRUE
+642,oppenheimer developing market a,oppen developing mkts a,ODMAX,ODMAX,TRUE
+643,nuveen amt free municipal income fund,cohen & steers realty income a,NEA,CSEIX,FALSE
+644,netflix inc.,netflix.com inc,NFLX,NFLX,TRUE
+645,berkshire hathawayinc del cl b new,berkshire hathaway cl-b new,BRK.B,BRK.B,TRUE
+646,legacy texas financial group in,cardinal financial corp,LTXB,CFNL,FALSE
+647,vanguard high yield corp fund investor share,vanguard high-yield corporate fund admiral shares,VWEHX,VWEAX,FALSE
+648,southwest airlines,southwest airlns co,LUV,LUV,TRUE
+649,under armour inc com class a,under armour inc-class a,UA,UA,TRUE
+650,ellie mae com,ellie mae inc com usd0.0001,ELLI,ELLI,TRUE
+651,vanguard smallcap index fund,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+652,pimco total ret fd instl,total return fund (pimco),PTTRX,PTRAX,FALSE
+653,level 3 communications inc com new,bemis inc com,LVLT,BMS,FALSE
+654,alphabet inc. cl c,google inc. cmn class c,GOOG,GOOG,TRUE
+655,jp morgan core bond sel,emerging markets bond fund,WOBDX,PREMX,FALSE
+656,vanguard tot stk admiral,vanguard ttl intl stk ind adm,VTIAX,VTIAX,TRUE
+657,us mid-cap value,vanguard crsp us mid cap value inde etf,VOE,VOE,TRUE
+658,vanguard ftse dev etf,vanguard ftse developed markets,VEA,VEA,TRUE
+659,msft common stock,microsoft corp com,MSFT,MSFT,TRUE
+660,united states oil fund ltd partnership,united states oil fund lp unit,USO,USO,TRUE
+661,vanguard small-cap index fund admiral shares,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+662,vanguard star fd,vanguard star fund investor shares,VGSTX,VGSTX,TRUE
+663,pim real return inst,pimco real return fund cl d,PRRIX,PRRDX,FALSE
+664,pimco total ret fd instl,pim total rt inst,PTTRX,PTTRX,TRUE
+665,ishares msci emerging markets,ishares inc core msci emerging mkts etf,IEMG,IEMG,TRUE
+666,google inc class a,alphabet inc cl a,GOOGL,GOOGL,TRUE
+667,vanguard ttl bond mkt idx adm,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+668,capital income builder - a (12),capital income builder,CAIBX,CAIBX,TRUE
+669,pimco incm cl d,pimco income administrative,PONDX,PIINX,FALSE
+670,metropolitan west total return,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+671,energy transfer part lp,cheniere energy partners lp com,ETP,CQP,FALSE
+672,vanguard small cap etf div: 2.113,vanguard small cap,VB,VB,TRUE
+673,new perspective fund cl a,af new perspective a,ANWPX,ANWPX,TRUE
+674,altegris futures evolution cl n,altegris futures evolution strategy n,EVONX,EVONX,TRUE
+675,vanguard short-term corporate div: 1.585,vanguard short term corp bond etf,VCSH,VCSH,TRUE
+676,donnelley (r.r.) & son,donnelley r r & sons,RRD,RRD,TRUE
+677,dfa emerging markets value i,dfa emerging mkts value ptf,DFEVX,DFEVX,TRUE
+678,harbor international,harbor fd intl fd,HAINX,HAINX,TRUE
+679,vanguard trgt retire income fnd inv,vang target ret inc,VTINX,VTINX,TRUE
+680,russell 2000 index (ishares),ishares tr russell 2000 etf,IWM,IWM,TRUE
+681,vanguard index trust mid capitalization stk port,vanguard mid cap index investor cl,VIMSX,VIMSX,TRUE
+682,astrazeneca plc spons adr,astrazeneca plc spnd adr,AZN,AZN,TRUE
+683,vanguard growth,vanguard index fds vanguard growth etf,VUG,VUG,TRUE
+684,now inc,now inc com,DNOW,DNOW,TRUE
+685,anheuser-busch inbev f adr 1 adr reps 1 ord shs,anheuser busch inbev sa/nv sponsored adr isin #us03524a1088,BUD,BUD,TRUE
+686,wp carey inc,w p carey and co. llc.,WPC,WPC,TRUE
+687,vanguard tot stk admiral,vanguard total international stock index fund admiral shares,VTIAX,VTIAX,TRUE
+688,ishares msci u k etf shs,ishares inc msci united kingdom etf,EWU,EWU,TRUE
+689,graham holdings co com usd1,graham holdings co,GHC,GHC,TRUE
+690,vanguard small cap index adm,van small cap index admir,VSMAX,VSMAX,TRUE
+691,vanguard short-term tax-exempt fund admiral shares,vanguard short term tax exempt investor,VWSUX,VWSTX,FALSE
+692,vanguard dividend appreciation etf,vanguard dividend apprec etf,VIG,VIG,TRUE
+693,vanguard total bond market index adm,vanguard total bond market index fund investor shares,VBTLX,VBMFX,FALSE
+694,o reilly automotive inc,o reilly automotive,ORLY,ORLY,TRUE
+695,general electric,general electric company,GE,GE,TRUE
+696,ge strategic fund,fidelity real estate income fd,GSIVX,FRIFX,FALSE
+697,polaris industries inc,polaris inds inc com,PII,PII,TRUE
+698,spdr barclays international etf,spdr barclays intern treasury bd et,BWX,BWX,TRUE
+699,van small cap index admir,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+700,alcoa inc. cmn,alcoa inc,AA,AA,TRUE
+701,retail opportunity i reit,retail opportunity invts corp com isin #us9 sedol #b28yd08,ROIC,ROIC,TRUE
+702,oppenheimer dev markets fd class y,oppenheimer developing markets fnd y,ODVYX,ODVYX,TRUE
+703,time inc new com isin #us8872281048 sedol #bmm2870,time inc new com isin #us8 sedol #bmm2870,TIME,TIME,TRUE
+704,allstate corp,allstate corporation,ALL,ALL,TRUE
+705,annaly capital management inc,annaly capital management inc com,NLY,NLY,TRUE
+706,ishares national muni,ishares nationl amt freemuni etf,MUB,MUB,TRUE
+707,vanguard total bond market idx-adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+708,stonemor partners lp com,stonemor partners ltd partnership common units,STON,STON,TRUE
+709,emerge energy svc lp lp,emerge energy svcs lp,EMES,EMES,TRUE
+710,pimco total return fund cl d,pimco total return r,PTTDX,PTRRX,FALSE
+711,dodge & cox international stock,dodge & cox international stock fund,DODFX,DODFX,TRUE
+712,pim total rt inst,pimco tot return adm,PTTRX,PTRAX,FALSE
+713,pimco income fund cl p,pimco income a,PONPX,PONAX,FALSE
+714,vanguard shortterm investgrade adm,vang st invstgrd inv,VFSUX,VFSTX,FALSE
+715,t rowe price health science fund inc,t rowe price health sciences,PRHSX,PRHSX,TRUE
+716,american tower corporation isin #us0 sedol #b7fbfl2,american tower reit inc (hldg co) shs,AMT,AMT,TRUE
+717,realty incm crp md pv$1. reit,realty income corp (maryland),O,O,TRUE
+718,activision blizzard inc,blizzard,ATVI,ATVI,TRUE
+719,vanguard ttl bnd mrk indx inst,vanguard total bond market idx instl pls,VBTIX,VBMPX,FALSE
+720,vanguard dev markets index fd,vanguard developed markets idx,VTMGX,VTMGX,TRUE
+721,the oakmark international fund - class i,oakmark intl i,OAKIX,OAKIX,TRUE
+722,wisdomtree emrg mrkt hg div etf,wisdomtree tr emerging mkts high divid fd,DEM,DEM,TRUE
+723,frontier communications corp c om,frontier communications corp div: 0.420,FTR,FTR,TRUE
+724,ishares north american natural resources etf,ishares north ameri naturl resour etf,IGE,IGE,TRUE
+725,pimco total return cl a,pimco total return fund - class r,PTTAX,PTRRX,FALSE
+726,blackrock global allocation c,blackrock global allocation fund class c m/f,MCLOX,MCLOX,TRUE
+727,utilities sector spdr trust shs,sector spdr utilities,XLU,XLU,TRUE
+728,pimco income fund cl d,pimco income administrative,PONDX,PIINX,FALSE
+729,baidu inc spons ads repr 0.10 ord cls a us0.00005,baidu inc sponsored adr repstg ord shares class a,BIDU,BIDU,TRUE
+730,electronic arts inc,electronic arts inc del,EA,EA,TRUE
+731,vanguard total bond market idx-adm,vanguard total bond market index admiral,VBTLX,VBTLX,TRUE
+732,alphabet inc cl a,alphabet inc shs cl a,GOOGL,GOOGL,TRUE
+733,oppenheimer developing mkts odvyxfds cl y,opp developing mkt y,ODVYX,ODVYX,TRUE
+734,harris corporation,harris corporation delaware div: 2.000,HRS,HRS,TRUE
+735,wisdomtree japan hedged eq,wisdomtree japan hedged equity etf,DXJ,DXJ,TRUE
+736,pimco total return fund cl d,pimco total return admin,PTTDX,PTRAX,FALSE
+737,powershares qqq nasdaq 100,powershares qqq tr div: 1.105,QQQ,QQQ,TRUE
+738,pimco total return fund cl p,pimco total return,PTTPX,PTRAX,FALSE
+739,national oilwell varco inc com,national-oilwell varco,NOV,NOV,TRUE
+740,automatic data processng inc,auto data processing,ADP,ADP,TRUE
+741,amazon.com inc.,amazon com inc,AMZN,AMZN,TRUE
+742,c h robinson worldwd,c h robinson worldwide inc com new isin #us8 sedol #2116228,CHRW,CHRW,TRUE
+743,american funds europacific growth fund class r-6,american funds europacific gr r6,RERGX,RERGX,TRUE
+744,growth fund of america? cl 529 a,college america 529 growth fund of america cl a,CGFAX,CGFAX,TRUE
+745,liberty interactive corp liberty ventures com usd0.01 cl a,liberty inter co venture ser a,LVNTA,LVNTA,TRUE
+746,constellation brands inc cl a cl a,constellation brand class a,STZ,STZ,TRUE
+747,fundamental invs inc f-1,fundamental investors fund cl f1,AFIFX,AFIFX,TRUE
+748,ceb inc com,ceb inc,CEB,CEB,TRUE
+749,e m c corp mass,emc corp mass,EMC,EMC,TRUE
+750,tile shop hldg inc,tile shop hldgs inc,TTS,TTS,TRUE
+751,vanguard total bond index adm,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+752,ipg photonics corp del,ipg photonics corp com,IPGP,IPGP,TRUE
+753,sector spdr energy,energy sector index spdr,XLE,XLE,TRUE
+754,v f corp,v.f. corp.,VFC,VFC,TRUE
+755,alphabet inc cl c,alphabet inc class c,GOOG,GOOG,TRUE
+756,vanguard growth index fund investor shares,vanguard growth index adm,VIGRX,VIGAX,FALSE
+757,powershares qqq tr div: 1.105,powershares qqq,QQQ,QQQ,TRUE
+758,united states nat gas fund par $0.001 ltd partnership,united states natural gas etf,UNG,UNG,TRUE
+759,putnam fds tr equity spectrum fund,putnam equity spectrm y,PYSYX,PYSYX,TRUE
+760,american tower corporation reit,american tower corporation isin #us0 sedol #b7fbfl2,AMT,AMT,TRUE
+761,vanguard short term corp bond index fund etf,vanguard s/t corp bond etf,VCSH,VCSH,TRUE
+762,verizon communicatn,verizon communicatns com,VZ,VZ,TRUE
+763,unilever plc sponsored adr new,unilever plc spon adr new,UL,UL,TRUE
+764,pim total rt inst,pimco total return admin,PTTRX,PTRAX,FALSE
+765,lululemon athletica inc com,lululemon athletica,LULU,LULU,TRUE
+766,pimco total return fd cl c,pimco total return a,PTTCX,PTTAX,FALSE
+767,stericycle inc com,stericycle inc,SRCL,SRCL,TRUE
+768,alzgi nfj div val i,allianzgi nfj dividend value fund cl p,NFJEX,ADJPX,FALSE
+769,dfa intl small cap value,delaware small cap core inst,DISVX,DCCIX,FALSE
+770,fidelity fds balanced fd,fid balanced k,FBALX,FBAKX,FALSE
+771,ishares russell 1000 growth etf,ishares russell 1000 gr etf,IWF,IWF,TRUE
+772,ishares 20+ yr treasu bond etf div: 3.107,ishares 20+ year,TLT,TLT,TRUE
+773,vanguard small-cap value etf,vbr:vanguard small-cap value etf,VBR,VBR,TRUE
+774,pimco total return fund instl cl,pimco tot return adm,PTTRX,PTRAX,FALSE
+775,vanguard ftse all-wld ex-u.s.smcp,vanguard intl equity index fdsftse all world ex usa small cap index fd etf shs,VSS,VSS,TRUE
+776,toyota motor corp sp adr rep2com,toyota motor corp sp adr rep2com isin #us8923313071 sedol #2,TM,TM,TRUE
+777,blackrock hi yield bd ptf inst,blackrock high yld bond port class c,BHYIX,BHYCX,FALSE
+778,vanguard total bond market index i,vanguard total bond market index fund investor shares,VBTIX,VBMFX,FALSE
+779,goldman sachs mangd futures strategy a,aqr managed futures strategy r6,GMSAX,AQMRX,FALSE
+780,sptn ext mkt idx adv,spartan extended mkt index investor cl,FSEVX,FSEMX,FALSE
+781,facebook inc class a common stock,facebook inc class a,FB,FB,TRUE
+782,vanguard crsp us mid cap index,vanguard index fds vanguard mid-cap etf,VO,VO,TRUE
+783,prudential glbl real estate z,prudential global real estate z,PURZX,PURZX,TRUE
+784,costco whsl corp new,costco wholesale corporation com,COST,COST,TRUE
+785,vanguard balanced index fd inv cl shrs,vanguard balanced index admiral,VBINX,VBIAX,FALSE
+786,delta air lines inc del com,delta air lines incorporated del com new,DAL,DAL,TRUE
+787,nike inc-b,nike inc class b,NKE,NKE,TRUE
+788,target corp com isin #us87612e1064 sedol #2259101,target corporation div: 2.240,TGT,TGT,TRUE
+789,nokia corp adr,nokia corp spon fadr 1 adr reps 1 ord shs,NOK,NOK,TRUE
+790,metr w tot rtn bond cl m,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+791,vanguard 500 index admiral,vanguard 500 index fund - admiral,VFIAX,VFIAX,TRUE
+792,vanguard total bond market idx instl pls,vanguard bond index total mkt investor,VBMPX,VBMFX,FALSE
+793,freeport mcmoran inc fcx,freeport mcmoran inc,FCX,FCX,TRUE
+794,dreyfus standish glb fix inc i,dreyfus/standish global fixed income fd cl i,SDGIX,SDGIX,TRUE
+795,spdr nuveen barclays municipal bond etf,spdr nuveen barclays muni,TFI,TFI,TRUE
+796,vanguard sml-cap ind-adm,vanguard small cap index fund,VSMAX,VSCIX,FALSE
+797,visa inc cl a shrs,visa inc cl a,V,V,TRUE
+798,vanguard total bond market index fund institutional plus shares,vanguard total bond market index inv,VBMPX,VBMFX,FALSE
+799,vanguard index fds formerly vanguard index tr to 05/24/2001 s&p 500 etf shs new,vanguard index fds s&p 500 etf,VOO,VOO,TRUE
+800,total s a sponsored adr isin #us1 sedol #2898032,total s a sponsored adr,TOT,TOT,TRUE
+801,pimco total return fund - class r,pimco total return admin,PTRRX,PTRAX,FALSE
+802,vanguard selected value fund investor shares,vanguard selected value,VASVX,VASVX,TRUE
+803,momenta pharmaceuticals,momenta pharmaceuticals inc,MNTA,MNTA,TRUE
+804,kinder morgan inc com usd0.01,kinder morgan inc. del,KMI,KMI,TRUE
+805,ishares msci brazil etf,ishares msci brazil etf brazil capped,EWZ,EWZ,TRUE
+806,nike inc -cl b,nike inc,NKE,NKE,TRUE
+807,american funds growth and income portfolio,american balanced portfolio fund class c (31%),GAIOX,BLPCX,FALSE
+808,visa inc cl a div: 0.560,visa inc cl a,V,V,TRUE
+809,pim total rt inst,pimco total return fund cl p,PTTRX,PTTPX,FALSE
+810,du pont e i de nemours & co,du pont e i de nemours,DD,DD,TRUE
+811,raytheon co,raytheon company,RTN,RTN,TRUE
+812,target corporation div: 2.240,target corp com,TGT,TGT,TRUE
+813,transamerica emerging markets debt fd cl i,causeway emerging mrkts fd inv cl,EMTIX,CEMVX,FALSE
+814,eaton vance floating rate fd cl a,eaton vance bd i,EVBLX,EVBIX,FALSE
+815,seagate technology ord,seagate technology,STX,STX,TRUE
+816,vanguard index fds vanguard small cap value vipers formerly,vanguard crsp us small cap val ue ind et,VBR,VBR,TRUE
+817,energy transfer partners unit ltd partnership,cheniere energy partners lp com,ETP,CQP,FALSE
+818,alphabet inc. cl c,alphabet inc cap stk cl c,GOOG,GOOG,TRUE
+819,michael kors holdings ltd com npv,michael kors hldgs limited shs,KORS,KORS,TRUE
+820,salesforce.com inc,salesforce.com,CRM,CRM,TRUE
+821,ishares trust core s&p small-cap etf,ishares core s&p small cap etf,IJR,IJR,TRUE
+822,vanguard total international bond index fund admiral shares,vanguard total intl bd idx admiral,VTABX,VTABX,TRUE
+823,vanguard 500 index fd investor shs,vanguard 500 index fund investor shares,VFINX,VFINX,TRUE
+824,priceline group,priceline group inc the,PCLN,PCLN,TRUE
+825,vanguard international growth,vanguard int'l growth port inv cl,VWIGX,VWIGX,TRUE
+826,spdr nuveen barclays capital s div: 0.225,spdr ser tr nuveen barclays short isin #us0 sedol #b28lxf4,SHM,SHM,TRUE
+827,vanguard total bond market index inv,vanguard bond index total mkt investor,VBMFX,VBMFX,TRUE
+828,american century mid cap value inst,american century mcv r6,AVUAX,AMDVX,FALSE
+829,michael kors hldgs limited shs,michael kors holdings limited cmn,KORS,KORS,TRUE
+830,vanguard target retirement 205 0 fund,vang target ret 2050,VFIFX,VFIFX,TRUE
+831,valeant pharmaceuticals in(cdn),valeant pharmaceuticals intl i com,VRX,VRX,TRUE
+832,american funds income fund of america cl a,american funds income fund of america a,AMECX,AMECX,TRUE
+833,cypress semiconductors corp,cypress semiconductor corp,CY,CY,TRUE
+834,kimberly-clark corp,kimberly clark corp cmn,KMB,KMB,TRUE
+835,tempur sealy intl inc com isin #us6 sedol #2216991,tempur sealy intl inc,TPX,TPX,TRUE
+836,fid intl discovery,fidelity int'l discovery,FIGRX,FIGRX,TRUE
+837,e m c corp mass,e m c corp mass com,EMC,EMC,TRUE
+838,vang tot bd mkt inst,vanguard total bond market index inv,VBTIX,VBMFX,FALSE
+839,van small cap index admir,vanguard small-cap index fund institutional shares,VSMAX,VSCIX,FALSE
+840,vanguard ttl bnd mrk indx inst,vanguard total bond market index fund investor shares,VBTIX,VBMFX,FALSE
+841,vanguard short-term bond index fund investor shares,vang st bd idx is pl,VBISX,VBIPX,FALSE
+842,van small cap index admir,vanguard smallcap index fund,VSMAX,VSMAX,TRUE
+843,t. rowe price new asia fund,t rowe price new asia fund,PRASX,PRASX,TRUE
+844,american funds europacific r3,american funds europacific growth fund,RERCX,RERCX,TRUE
+845,united states gasoline etf,united sts gasoline fd lp,UGA,UGA,TRUE
+846,t. rowe price international discovery,t rowe price international discovery fund,PRIDX,PRIDX,TRUE
+847,unilever plc spon adr new,unilever plc (new) ads div: 1.300,UL,UL,TRUE
+848,progressive corp,progressive corp - ohio,PGR,PGR,TRUE
+849,afs international growth & income fund cl f1,spdr s&p international small capetf,IGIFX,GWX,FALSE
+850,powershares global exchange traded fd tr emerging markets so,powershares emerging markets sovereign d,PCY,PCY,TRUE
+851,du pont e.i. de nemours,du pont e i de nemours & co com,DD,DD,TRUE
+852,pimco commodity real return strat inst,pimco commodity real return inst,PCRIX,PCRIX,TRUE
+853,pimco short term institutional,pimco short term cl d,PTSHX,PSHDX,FALSE
+854,energy sector spdr etf,sector spdr energy,XLE,XLE,TRUE
+855,pim total rt inst,pimco total return r,PTTRX,PTRRX,FALSE
+856,blackrock global allocation fund inc institutional,blackrock global allocation instl cl,MALOX,MALOX,TRUE
+857,oakmark international fund class i,oakmark intl cl i,OAKIX,OAKIX,TRUE
+858,vanguard div growth fd investor shrs,vang div growth inv,VDIGX,VDIGX,TRUE
+859,starbucks corp com,starbucks corporation,SBUX,SBUX,TRUE
+860,chipotle mexican grill inc com,chipotle mexican grill inc cl a,CMG,CMG,TRUE
+861,lzrd emrg mkts eq o,lazard emerging markets equity,LZOEX,LZOEX,TRUE
+862,schwab intl equity etf,schwab strategic tr intl equity etf,SCHF,SCHF,TRUE
+863,vanguard mid cap index,vanguard mid cap index - admir al,VIMAX,VIMAX,TRUE
+864,monsanto co new,monsanto co com,MON,MON,TRUE
+865,chipotle mexican grl,chipotle mexican grill,CMG,CMG,TRUE
+866,vanguard small cap stock ind trust inv,vanguard small-cap index fund investor shares,NAESX,NAESX,TRUE
+867,lloyds banking group plc adr,lloyds banking group plc sp adr,LYG,LYG,TRUE
+868,companhia d snmnto bsco d estdo sao paulo adr,cia saneamento basico de sao paulo spons adr each repr 1 com npv,SBS,SBS,TRUE
+869,american washington mut investors fund inc a,american fd wa mutual inv fd cl a,AWSHX,AWSHX,TRUE
+870,oneok partners l p unit ltd partnership,oneok partners lp unit ltd partnership,OKS,OKS,TRUE
+871,the bond fund of america-r3,american funds bond fund of america a,RBFCX,ABNDX,FALSE
+872,diana containerships inc com,diana containerships inc,DCIX,DCIX,TRUE
+873,select str financial select s etf iv,select financial etf,XLF,XLF,TRUE
+874,spdr barclays int corp bond,td ameritrade holding corp com,IBND,AMTD,FALSE
+875,google inc class a,google inc class a vtg voting shares,GOOGL,GOOGL,TRUE
+876,vang tot bd mkt inst,vanguard total bond market index,VBTIX,VBMPX,FALSE
+877,lions gate entmnt corp com new,lions gate ent corp com,LGF,LGF,TRUE
+878,ishares core s&p small-cap etf,ishares core s&p small cap etf,IJR,IJR,TRUE
+879,prudential global real estate z,pru global re z,PURZX,PURZX,TRUE
+880,dodge & cox funds intl stk fd,dodge & cox interntl stock,DODFX,DODFX,TRUE
+881,kinder morgan inc com usd0.01,kinder morgan inc com,KMI,KMI,TRUE
+882,sptn intl index ins,spartan intl index fid adv class,FSPNX,FSIVX,FALSE
+883,vanguard bond index fund inc intermediate term bd etf,vanguard intermediate term bond etf,BIV,BIV,TRUE
+884,match group inc com,match group inc,MTCH,MTCH,TRUE
+885,tmpl global bond a,templeton global bond r,TPINX,FGBRX,FALSE
+886,blackrock high yield bond portfolio svc,blackrock high yld bond port class c,BHYSX,BHYCX,FALSE
+887,vanguard fixed income secs inter term invt grade fd admiral cl,vanguard int term inv grade,VFIDX,VFICX,FALSE
+888,ishares u s preferred stock etf,ishares u.s. preferred,PFF,PFF,TRUE
+889,harbor international inst,harbor international institutional,HAINX,HAINX,TRUE
+890,hcp inc com,chuys hldgs inc com,HCP,CHUY,FALSE
+891,vanguard total bond market index adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+892,"vanguard small cap index, adm",vanguard small-cap index fund institutional shares,VSMAX,VSCIX,FALSE
+893,a t & t inc,at&t inc.,T,T,TRUE
+894,alliance data system,alliance data system corp,ADS,ADS,TRUE
+895,american tower corp,american tower corporation com usd0.01,AMT,AMT,TRUE
+896,metropolitan west total return class i,metropolitan west fds total ret cl i,MWTIX,MWTIX,TRUE
+897,unilever n v n y shs new,unilever nv ny reg shs,UN,UN,TRUE
+898,american finl grp inc holding co,amern financial gp,AFG,AFG,TRUE
+899,first trust dow jones internet,first trust dj internet,FDN,FDN,TRUE
+900,nasdaq omx grp inc,nasdaq inc com,NDAQ,NDAQ,TRUE
+901,dfa short term government port,dfa short-term govt,DFFGX,DFFGX,TRUE
+902,main street capital corp com,main street capital corp,MAIN,MAIN,TRUE
+903,"facebook, inc. cmn class a",facebook inc com,FB,FB,TRUE
+904,transocean limited com chf0.10,transocean ltd zug namen akt,RIG,RIG,TRUE
+905,novo nordisk a s adr,novo nordisk a/s-adr nvorepstg 1/2 cl b sh,NVO,NVO,TRUE
+906,sptn us bond idx adv,spartan u.s. bond index fd investor cl,FSITX,FBIDX,FALSE
+907,disney (walt) co. (the),disney (walt) co com stk,DIS,DIS,TRUE
+908,tenet healthcare corp com new,tenet healthcare,THC,THC,TRUE
+909,ishares msci eafe sm cap etf div: 1.028,ishares tr msci small cap,SCZ,SCZ,TRUE
+910,vang sm cap idx adm,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+911,dfa int'l small cap value,delaware small cap core inst,DISVX,DCCIX,FALSE
+912,vanguard short term tax exempt admiral share,vanguard short term tax exempt fd investor shr,VWSUX,VWSTX,FALSE
+913,vanguard institutional index,vnguard institutional index,VINIX,VINIX,TRUE
+914,aqr managed futures strategy r6,aqr managed futures i,AQMRX,AQMIX,FALSE
+915,coca cola co div: 1.400,coca cola com,KO,KO,TRUE
+916,vanguard short term bond fund,vanguard short-term bond etf,BSV,BSV,TRUE
+917,vanguard total bond market index fund,vanguard total bond mkt,BND,BND,TRUE
+918,sprint corp,sprint corp com,S,S,TRUE
+919,proshares ultrashort 2x etf,proshares ultrashort dow 30,DXD,DXD,TRUE
+920,google inc class a,alphabet inc cap stk cl a,GOOGL,GOOGL,TRUE
+921,vanguard total bond market index fund institutional plus,vanguard total bond market index inv,VBMPX,VBMFX,FALSE
+922,ford mtr co,ford motor co,F,F,TRUE
+923,pimco total return r,total return fund (pimco),PTRRX,PTRAX,FALSE
+924,anheuser busch inbev sa spon div: 3.224,anheuser busch inbev (belg),BUD,BUD,TRUE
+925,matthews pacific tiger fund,matthews pacific tiger fd inv,MAPTX,MAPTX,TRUE
+926,breitburn energy partners lp c,atlas resource partners l p,BBEP,ARP,FALSE
+927,enterprise prods partners l com,enterprise prods partners l unit,EPD,EPD,TRUE
+928,vanguard ca inter term tax-exempt fd inv shrs,vanguard california intermediate-term tax-exempt fund admiral shares,VCAIX,VCADX,FALSE
+929,sptn em mkts idx adv,spartan emerging mkt index fid adv cl,FPMAX,FPMAX,TRUE
+930,eog resources inc,e o g resources inc,EOG,EOG,TRUE
+931,pimco total return fd cl c,pimco total return admin,PTTCX,PTRAX,FALSE
+932,alexion pharms inc,alexion pharmaceuticals,ALXN,ALXN,TRUE
+933,omega hlthcare invts reit,omega healthcare investors inc ohi,OHI,OHI,TRUE
+934,bank of ny mellon co,bank of new york mellon corp,BK,BK,TRUE
+935,pimco total return instl,pimco total return fund - class r,PTTRX,PTRRX,FALSE
+936,jp morgan chase & co,jpmorgan chase & co div: 1.760,JPM,JPM,TRUE
+937,facebook inc com,facebook incorporated class a,FB,FB,TRUE
+938,powershares qqq trust sr 1 etf,powershares qqq tr unit ser 1,QQQ,QQQ,TRUE
+939,chn & steers realty,cohen & steers realty fund,CSRSX,CSRSX,TRUE
+940,pimco income fund cl d,pimco incm cl d,PONDX,PONDX,TRUE
+941,schwab strategic tr fundamental intl large co index etf,schwab intl large company index etf,FNDF,FNDF,TRUE
+942,guggenheim bulletshares 2016 high yield corporate bond etf,guggenheim bulletshares 2016,BSJG,BSJG,TRUE
+943,vanguard short-term investment-grade fund investor shares,vanguard short-term invest-grade,VFSTX,VFSIX,FALSE
+944,american fd new world fd cl f1,american funds new world f,NWFFX,NWFFX,TRUE
+945,the kraft heinz company,kraft (the) heinz co shs,KHC,KHC,TRUE
+946,occidental pete corp del com,occidental petrol co,OXY,OXY,TRUE
+947,vanguard extended market idx i,vanguard extended market index fund admiral shares,VIEIX,VEXAX,FALSE
+948,pimco incm inst cl,pimco income administrative,PIMIX,PIINX,FALSE
+949,energy select sector spdr fund,energy select sector spdr etf iv,XLE,XLE,TRUE
+950,schwab strategic tr intl eqt,schwab strategic tr intl equity etf isin #us8085248057 sedol,SCHF,SCHF,TRUE
+951,linkedin corp - a,linkedin corp com usd0.0001,LNKD,LNKD,TRUE
+952,metropolitan west totret bdm,metropolitan west total return class i,MWTRX,MWTIX,FALSE
+953,vanguard small-cap index adm,vanguard small-cap index fund institutional shares,VSMAX,VSCIX,FALSE
+954,glaxosmithkline plc-adr,glaxosmithkline plc (britain),GSK,GSK,TRUE
+955,vanguard extended market index institutional class,vanguard extended market idx i,VIEIX,VIEIX,TRUE
+956,texas roadhouse,texas roadhouse inc,TXRH,TXRH,TRUE
+957,wynn resorts ltd.,wynn resorts ltd,WYNN,WYNN,TRUE
+958,bank of america corp.,bank of america corp,BAC,BAC,TRUE
+959,alibaba group hldg limited sponsored ads,alibaba group holding ltd spons ads,BABA,BABA,TRUE
+960,at&t inc div: 1.920,at&t inc,T,T,TRUE
+961,vanguard reit etf div: 3.124,vanguard reit etf iv,VNQ,VNQ,TRUE
+962,t rowe price small cap stock,small-cap stock fund,OTCFX,OTCFX,TRUE
+963,jp morgan chase & co com,jpmorgan chase & co,JPM,JPM,TRUE
+964,alphabet inc cap stk cl a,google inc cl a,GOOGL,GOOGL,TRUE
+965,ambarella inc shs,ambarella inc f,AMBA,AMBA,TRUE
+966,vanguard small cap index adm,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+967,pimco inv grade corp bond instl,pimco fds investment grade cor p bd d,PIGIX,PBDDX,FALSE
+968,chn & steers realty,cohen & steers realty,CSRSX,CSRSX,TRUE
+969,vanguard total international stock index fund admiral shares,vanguard total international stock index adm,VTIAX,VTIAX,TRUE
+970,cisco systems,cisco systems inc.,CSCO,CSCO,TRUE
+971,ishares russell 1000 grw etf div: 1.363,ishares russell 1000 growth,IWF,IWF,TRUE
+972,oppenheimer capital income fund,oppenheimer cap income y,OPPEX,OCIYX,FALSE
+973,vanguard reit index adm,vanguard r e i t index adm,VGSLX,VGSLX,TRUE
+974,blackrock international a,franklin mutual international fund,MDILX,FMIAX,FALSE
+975,vanguard bd index fd inc total bd market etf,vanguard total bond market etf,BND,BND,TRUE
+976,vanguard total bond market index i,vanguard bond index total mkt investor,VBTIX,VBMFX,FALSE
+977,frontier communications corp,frontier comm co,FTR,FTR,TRUE
+978,vanguard growth,vanguard crsp us large cap grow ind etf,VUG,VUG,TRUE
+979,vanguard index fds vanguard small cap value vipers formerly vanguard,vanguard index fds vanguard small cap value vipers formerly,VBR,VBR,TRUE
+980,consolidated edison inc,consolidated edison hldg co inc,ED,ED,TRUE
+981,exone co,exone co/the,XONE,XONE,TRUE
+982,vanguard total bond market index fund admiral shares,vanguard total bond market index i,VBTLX,VBTIX,FALSE
+983,vanguard total bond market idx instl pls,vanguard total bond market index fund investor shares,VBMPX,VBMFX,FALSE
+984,weatherford international plc ord shs,weatherford intl plc ord shs isin #ie00blnn3691 sedol #blnn369,WFT,WFT,TRUE
+985,tata motors ltd spons adr,fanuc corporation adr,TTM,FANUY,FALSE
+986,philip morris international inc,philip morris intl com,PM,PM,TRUE
+987,nuveen high yield municipal bond i,nuveen high yld mun bd fd cl a,NHMRX,NHMAX,FALSE
+988,vanguard intl equity index fds global ex-us real estate inde,vanguard intl equity index fds global ex-us real estate index fd etf shs,VNQI,VNQI,TRUE
+989,vanguard emerging markets stock index fund institutional,vanguard emerging markets stock index fund institutional shares,VEMIX,VEMIX,TRUE
+990,vanguard small cap index fund - admiral,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+991,skyworks solutions inc,skyworks solutions,SWKS,SWKS,TRUE
+992,first trust etf iv north american energy infrastructure fund,first tr exchange traded fd iv no amer energy,EMLP,EMLP,TRUE
+993,salesforce com,salesforce com inc com,CRM,CRM,TRUE
+994,vanguard short-term corporate bond,vanguard short term corp bond index fund etf,VCSH,VCSH,TRUE
+995,vanguard institutional index i (vinix),vanguard institutional index,VINIX,VINIX,TRUE
+996,artisan internatl investor class,artisan intl fund inv,ARTIX,ARTIX,TRUE
+997,dodge & cox intl stk,dodge & cox internatl stock fund,DODFX,DODFX,TRUE
+998,vanguard inst index,vnguard institutional index,VINIX,VINIX,TRUE
+999,pimco income a,pimco fds income instl,PONAX,PIMIX,FALSE
+1000,mfs international new discovery r5,spdr s&p international small capetf,MIDLX,GWX,FALSE
+1001,california resources corp,california res corp com,CRC,CRC,TRUE
+1002,wal-mart stores inc com,wal-mart stores inc com isin #us9311421039 sedol #2936921,WMT,WMT,TRUE
+1003,vanguard ttl bond mkt idx adm,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+1004,select sector spdr trust industrial select index,sector spdr industrial,XLI,XLI,TRUE
+1005,vanguard total bond market index adm,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+1006,starbucks corp washington div: 0.800,starbucks corp com,SBUX,SBUX,TRUE
+1007,vanguard msci pacific,vanguard ftse pacific etf,VPL,VPL,TRUE
+1008,total s a fadr 1 adr reps 1 ord shs,total s a spon adr div: 2.276,TOT,TOT,TRUE
+1009,vanguard small-cap index adm,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1010,merck & co inc new,merck & co inc new com div: 1.840,MRK,MRK,TRUE
+1011,immunogen inc,immunogen inc com,IMGN,IMGN,TRUE
+1012,marsh & mclennan cos inc com,marsh and mc lennan,MMC,MMC,TRUE
+1013,lockheed martin corp,lockheed martin corp div: 6.600,LMT,LMT,TRUE
+1014,american fundamental investors cl f1,fundamental invs inc f-1,AFIFX,AFIFX,TRUE
+1015,washington mutual investors fund,college america 529 wa mutual investors fund cl a,CWMAX,CWMAX,TRUE
+1016,amazon.com inc,amazon.com inc.,AMZN,AMZN,TRUE
+1017,pim total rt inst,pimco total return fund adm,PTTRX,PTRAX,FALSE
+1018,ishares barclays aggregate bd fd,ishares core u.s. aggregate bond etf,AGG,AGG,TRUE
+1019,vanguard total bond market idx-adm,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+1020,prudential financial inc cmn,prudential financial inc div: 2.800,PRU,PRU,TRUE
+1021,lions gate entmnt corp com new,lions gate entertainment corp,LGF,LGF,TRUE
+1022,marathon oil corp,marathon oil corp isin #us4 sedol #2910970,MRO,MRO,TRUE
+1023,caesarstone sdot-yam ltd,caesarstone sdot yam f,CSTE,CSTE,TRUE
+1024,metropolitan west tot return bond cl m,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+1025,vanguard small cap valueetf iv,vanguard small-cap value etf,VBR,VBR,TRUE
+1026,bridgepoint education inc. cmn,bridgepoint education,BPI,BPI,TRUE
+1027,vanguard total international stock index fund institutional plus shares,vanguard primecap fund investor shares,VTPSX,VPMCX,FALSE
+1028,metropolitan west total return bond plan class shares,metwest tot rtn bd p,MWTSX,MWTSX,TRUE
+1029,american tower corporation isin #us0 sedol #b7fbfl2,american tower corp new com,AMT,AMT,TRUE
+1030,guggenheim s&p 500 equal weig hc etf,guggenheim s&p 500 eq wgt healthcare etf,RYH,RYH,TRUE
+1031,fid value,fidelity value,FDVLX,FDVLX,TRUE
+1032,proshares short s&p500,proshares short s&p 500 proshares,SH,SH,TRUE
+1033,darling ingredients inc com,darling ingredients inc,DAR,DAR,TRUE
+1034,vanguard short term bond index investor,vanguard short-term bond index,VBISX,VBIPX,FALSE
+1035,smith & wesson holding corp,smith & wesson holding corp co m,SWHC,SWHC,TRUE
+1036,vanguard california intermediate-term tax-exempt fund investor shares,vanguard ca inter term tax-exempt fd adm shrs,VCAIX,VCADX,FALSE
+1037,brookdale sr living inc,brookdale senior living inc.,BKD,BKD,TRUE
+1038,vanguard total bond market index admiral,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+1039,vanguard equity income adm,vanguard equity income - a,VEIRX,VEIRX,TRUE
+1040,visa inc cl a div: 0.560,visa inc cl a shrs,V,V,TRUE
+1041,pjt partners inc com cl a div: 0.200,pjt partners inc cl a,PJT,PJT,TRUE
+1042,ishares trust msci usa minvolatility etf,proshares short vix short term etf,USMV,SVXY,FALSE
+1043,f5 networks inc,f5 networks inc com isin #us4 sedol #2427599,FFIV,FFIV,TRUE
+1044,pepsico incorporated,pepsico inc,PEP,PEP,TRUE
+1045,united parcel service inc cl b,united parcel service-cl b,UPS,UPS,TRUE
+1046,blackrock strategic income opprtnts ptf inst,blackrock strategic income opptys investor cl a,BSIIX,BASIX,FALSE
+1047,gopro inc cl a isin #us4 sedol #bmnqc35,gopro inc class a,GPRO,GPRO,TRUE
+1048,omnicom group,omnicom group inc,OMC,OMC,TRUE
+1049,banco santander sa fadr 1 adr reps 1 ord shs,banco santander sa adr,SAN,SAN,TRUE
+1050,ishares national muni bond etf,national municipal bonds,MUB,MUB,TRUE
+1051,first finl corp ind,best buy co inc,THFF,BBY,FALSE
+1052,pattern energy inc cls a div: 1.524,pattern energy group inc,PEGI,PEGI,TRUE
+1053,cigna corporation com isin #us2 sedol #2196479,cigna corporation com isin #us1255091092 sedol #2196479,CI,CI,TRUE
+1054,vanguard extended market index fund institutional,vanguard extended market index fund admiral shares,VIEIX,VEXAX,FALSE
+1055,williams sonoma,williams-sonoma inc,WSM,WSM,TRUE
+1056,vanguard intl equity index fds ftse all world ex usa small cap index fd etf shs,vanguard intl equity index fdsftse all world ex usa small cap index fd etf shs,VSS,VSS,TRUE
+1057,emerging markets bonds,vanguard emerging mkts govt bond index etf,VWOB,VWOB,TRUE
+1058,fidelity blue chip growth,fid blue chip gr,FBGRX,FBGRX,TRUE
+1059,energy transfer partners lp ut ltd,energy transfer partners un,ETP,ETP,TRUE
+1060,vanguard intl bond index etf,vanguard charlotte fds total intl bd index fd etf cl,BNDX,BNDX,TRUE
+1061,capital income builder - a (12),american cap inc builder a,CAIBX,CAIBX,TRUE
+1062,royal dutch shell adr ea rep 2 cl a eur0.07,royal dutch shell plc spons adr a,RDSA,RDS.A,FALSE
+1063,vanguard total bond index adm,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+1064,invesco value mun income tr com,invesco value muni incm trust sbi,IIM,IIM,TRUE
+1065,pimco low duration a,pimco low duration fund cl d,PTLAX,PLDDX,FALSE
+1066,goldman sachs mangd futures strategy a,aqr fds aqmixmanaged futures strategy fd i,GMSAX,AQMIX,FALSE
+1067,pimco total return fund instl cl,pimco total return admin,PTTRX,PTRAX,FALSE
+1068,paypal hldgs inc com,paypal holdings inc,PYPL,PYPL,TRUE
+1069,at&t inc com,at&t inc,T,T,TRUE
+1070,dfa us targeted value,dfa u.s. targeted value/i,DFFVX,DFFVX,TRUE
+1071,walt disney co com,disney walt co com disney,DIS,DIS,TRUE
+1072,blackrock strat income i,blackrock strategic income opps ptf a,BSIIX,BASIX,FALSE
+1073,wells fargo & co new com,wells fargo & co new | w001549,WFC,WFC,TRUE
+1074,core laboratories n.v. (netherlands),core laboratories f,CLB,CLB,TRUE
+1075,panera bread company class a,panera bread co cl a,PNRA,PNRA,TRUE
+1076,vanguard total bond market index i,vanguard total bond market index fund institutional plus shares,VBTIX,VBMPX,FALSE
+1077,union pacific corp,union pacific corp com,UNP,UNP,TRUE
+1078,valero energy corp new com,valero energy corp,VLO,VLO,TRUE
+1079,chevron corporation,chevron common stock fund,CVX,CVX,TRUE
+1080,pimco total return fund - class r,total return fund (pimco),PTRRX,PTRAX,FALSE
+1081,wisdomtree tr intl midcap divid fd isin #us1 sedol #b17ffv0,wisdomtree intl midcap dividend etf,DIM,DIM,TRUE
+1082,dfa intl small cap value cl i,dfa intl small cap value,DISVX,DISVX,TRUE
+1083,leucadia national,leucadia natl corp com,LUK,LUK,TRUE
+1084,u s bancorp,us bancorp del,USB,USB,TRUE
+1085,dfa emerg mkts val i,dfa emerging markets value i,DFEVX,DFEVX,TRUE
+1086,oppenheimer int'l growth class a,oppenheimer international growth fund class a,OIGAX,OIGAX,TRUE
+1087,whirlpool corp com,whirlpool corp,WHR,WHR,TRUE
+1088,momenta pharmaceuticals inc,momenta pharmaceuticals inc com,MNTA,MNTA,TRUE
+1089,amer funds europac r3 m4740,american funds europacifc r3,RERCX,RERCX,TRUE
+1090,sptn us bond idx is,spartan u.s. bond index fd investor cl,FXSTX,FBIDX,FALSE
+1091,goldman sachs mangd futures strategy a,aqr mgd futures strat fd cl i,GMSAX,AQMIX,FALSE
+1092,spartan emerging mkt index fid adv cl,spartan emerging mkt index fund investor,FPMAX,FPEMX,FALSE
+1093,pjt partners inc cl a,pjt partners inc shs cl a,PJT,PJT,TRUE
+1094,metropolitan west tot return bond cl m,metropolitan west total return class i,MWTRX,MWTIX,FALSE
+1095,vang sm cap idx adm,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1096,vang ext mkt idx ins,vanguard extended market idx adm,VIEIX,VEXAX,FALSE
+1097,boston beer co inc class a,boston beer company inc cl a,SAM,SAM,TRUE
+1098,merck & co inc,merck & co. inc,MRK,MRK,TRUE
+1099,vanguard smallcap index fund,vanguard small-cap index fund admiral shares,VSMAX,VSMAX,TRUE
+1100,vanguard crsp us small cap value ind et,vanguard index fds vanguard small cap value vipers formerly,VBR,VBR,TRUE
+1101,senior housing prop trust reits,senior housing properties trust,SNH,SNH,TRUE
+1102,t. rowe price 2050 fund,retirement 2050 fund,TRRMX,TRRMX,TRUE
+1103,vanguard global ex u s real estate index fd etf,vanguard global ex-us real est ate etf,VNQI,VNQI,TRUE
+1104,ishares 20+ year,ishares 20 pls year treasury bnd etf,TLT,TLT,TRUE
+1105,metropolitan west tot return bond cl m,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+1106,select sector spdr trust health care select index,select sector spdr tr health care formerly consumer svcs to,XLV,XLV,TRUE
+1107,target corporation cmn,target corp,TGT,TGT,TRUE
+1108,pimco income a,pimco income instl,PONAX,PIMIX,FALSE
+1109,ishares iboxx $ invmnt grd corp bd etf,ishares iboxx $ invmnt grd cor p bd etf,LQD,LQD,TRUE
+1110,state str corp com isin #us8574771031 sedol #2842040,state str corp com isin #us1 sedol #2842040,STT,STT,TRUE
+1111,cooper companies inc (new) cmn,cooper cos inc/the,COO,COO,TRUE
+1112,sirius xm hldgs inc com,sirius xm holdings inc,SIRI,SIRI,TRUE
+1113,vanguard bond index fund short term portfolio,vanguard short term bond index admiral,VBISX,VBIRX,FALSE
+1114,vanguard total bond market index fund admiral shares,vanguard total bond market index,VBTLX,VBMPX,FALSE
+1115,vang tot bd mkt inst,vanguard bond index total mkt investor,VBTIX,VBMFX,FALSE
+1116,vanguard target retirement 2050 fund,vang target ret 2050,VFIFX,VFIFX,TRUE
+1117,sunedison,sunedison inc com usd0.01,SUNE,SUNE,TRUE
+1118,vanguard intl equity index fdsftse all world ex usa small cap index fd etf shs,vgrd ftse all wrld ex ussml cap etf,VSS,VSS,TRUE
+1119,pimco total return fd cl c,pimco total return,PTTCX,PTRAX,FALSE
+1120,vanguard total intl etf,vanguard total international stock etf,VXUS,VXUS,TRUE
+1121,washington mutual investors cl a,washington mutual invstrs cl a,AWSHX,AWSHX,TRUE
+1122,carter holdings inc,carter holdings com,CRI,CRI,TRUE
+1123,pimco total return fund - class r,pimco total return fund adm,PTRRX,PTRAX,FALSE
+1124,time warner inc usd0.01,time warner inc new div: 1.610,TWX,TWX,TRUE
+1125,unitedhealth group inc com,unitedhealth grp inc,UNH,UNH,TRUE
+1126,aston/montag&caldwell grw i,aston/montag & caldwell growth i,MCGIX,MCGIX,TRUE
+1127,pimco income fund cl p,pimco income administrative,PONPX,PIINX,FALSE
+1128,templeton glbl bond fd adv cl,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1129,vanguard energy etf,vanguard sector index fds vanguard energy vipers,VDE,VDE,TRUE
+1130,vanguard smallcap index fund,vanguard small cap index - a,VSMAX,VSMAX,TRUE
+1131,washington mutual invstrs cl a,american washington mut investors fund inc a,AWSHX,AWSHX,TRUE
+1132,vanguard ftse developed etf,vanguard ftse developed mkts etf,VEA,VEA,TRUE
+1133,vanguard extended market index fund admiral shares,vanguard extended market idx adm,VEXAX,VEXAX,TRUE
+1134,lloyds banking group plc adr,lloyds banking group plc,LYG,LYG,TRUE
+1135,american tower corp,american tower corp reit,AMT,AMT,TRUE
+1136,ishares trust msci usa minvolatility etf,ishares msci usa min volility etf,USMV,USMV,TRUE
+1137,express scripts hldg company,express scripts holding company,ESRX,ESRX,TRUE
+1138,"oppenheimer develop mkts, a",oppenheimer developing markets a,ODMAX,ODMAX,TRUE
+1139,westport innovations inc,westport innovation f,WPRT,WPRT,TRUE
+1140,apple incorporated,apple inc -,AAPL,AAPL,TRUE
+1141,vanguard int term treas adm,vanguard intermediate-term treasury inv,VFIUX,VFITX,FALSE
+1142,vanguard small-cap index adm,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+1143,blackrock high yld bd port cl k,blkrk hi yld bd inst,BRHYX,BHYIX,FALSE
+1144,vanguard ftse emrg etf,vanguard ftse emerging markets etf,VWO,VWO,TRUE
+1145,chipotle mexican grill inc com,chipotle mexican grill com,CMG,CMG,TRUE
+1146,magellan midstream p lp,magellan midstream partners lp div: 3.140,MMP,MMP,TRUE
+1147,under armour inc,under armour inc-class a,UA,UA,TRUE
+1148,fid contrafund,fidelity contra fund,FCNTX,FCNTX,TRUE
+1149,vanguard intermediate-term tax-exempt fund admiral shares,vanguard inter term tax exempt fd investor shs,VWIUX,VWITX,FALSE
+1150,mc donalds corp,mcdonalds corp com,MCD,MCD,TRUE
+1151,smucker j m co com new,j m smucker co,SJM,SJM,TRUE
+1152,ishares trust currency hedged msci eafe etf,ishares trust ishares currency isin #us7 sedol #bjn7914,HEFA,HEFA,TRUE
+1153,alphabet inc cap stk cl a,alphabet inc class a,GOOGL,GOOGL,TRUE
+1154,vanguard ttl bnd mrk indx inst,vanguard total bond market index fund institutional plus,VBTIX,VBMPX,FALSE
+1155,incyte corp.,incyte corp,INCY,INCY,TRUE
+1156,spdr gold shares etf,spdr gold trust gold shares,GLD,GLD,TRUE
+1157,alphabet inc shs cl c,google inc-cl c,GOOG,GOOG,TRUE
+1158,american mutual fund-a,amer funds american mutual fund class f2,AMRMX,AMRFX,FALSE
+1159,total return fund (pimco),mainstay retirement 2050 fund (class i),PTRAX,MSRMX,FALSE
+1160,templeton global bond fund advisor class,templeton glbl bond fd adv cl,TGBAX,TGBAX,TRUE
+1161,duke energy corp new com new,duke energy corp new,DUK,DUK,TRUE
+1162,ishares s&p smallcap 600 value etf,ishares s&p small-cap 600 value etf,IJS,IJS,TRUE
+1163,vanguard mid cap value etf div: 2.308,vanguard mid-cap value etf,VOE,VOE,TRUE
+1164,dfa us targeted value port instl,dfa us targeted value portfolio institutional class,DFFVX,DFFVX,TRUE
+1165,general motors company com,general mtrs co com isin #us8 sedol #b3smt78,GM,GM,TRUE
+1166,dfa intl small cap value cl i,delaware small cap core inst,DISVX,DCCIX,FALSE
+1167,ishares msci usa momentum factor,ishares msci usa momentum factor etf,MTUM,MTUM,TRUE
+1168,priceline grp inc com new,priceline group inc the,PCLN,PCLN,TRUE
+1169,sptn 500 index inst,sptn 500 idx adv is,FXSIX,FXAIX,FALSE
+1170,grupo aeroportuario sur ipo adr,grupo aeroportuario fadr 1 adr reps 10 ord shs,ASR,ASR,TRUE
+1171,general motors co,general motors co common shares,GM,GM,TRUE
+1172,schwab dow jones u.s. dividend 100 index,schwab us dividend equity etf,SCHD,SCHD,TRUE
+1173,canadian natl ry co com isin #ca7 sedol #2180632,canadian natl ry co f,CNI,CNI,TRUE
+1174,energy transfer prtnrs l p unit ltd partn,energy transfer partners l p unit ltd partnership int,ETP,ETP,TRUE
+1175,ishares core msci emerging etf,ishares inc core msci emerging mkts etf,IEMG,IEMG,TRUE
+1176,van small cap index admir,vanguard small cap index fund,VSMAX,VSCIX,FALSE
+1177,metropolitan west total return m,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+1178,fid large cap stock,dreyfus small cap stock index,FLCSX,DISSX,FALSE
+1179,vnguard institutional index,vanguard institutional index fund,VINIX,VINIX,TRUE
+1180,vanguard short term corp bond etf,vanguard short-term corporate div: 1.585,VCSH,VCSH,TRUE
+1181,ares cap corp com,ares capital corp com,ARCC,ARCC,TRUE
+1182,vanguard sector index fds vanguard energy vipers,vanguard energy etf,VDE,VDE,TRUE
+1183,oppenheimer developing mkts fd cl a,oppenheimer developing markets a,ODMAX,ODMAX,TRUE
+1184,royal dutch shell plc sponsored adr repstg a shs,royal dutch shell plc,RDS.A,RDS.A,TRUE
+1185,bridgepoint education,bridgepoint education inc com,BPI,BPI,TRUE
+1186,oneok inc cm (new),oneok inc.,OKE,OKE,TRUE
+1187,vanguard intermediate-term investment-grade fund investor shares,vanguard int term inv grade,VFICX,VFICX,TRUE
+1188,oakmark international fund class i,harris oakmark international fund cl i,OAKIX,OAKIX,TRUE
+1189,harbor fd intl fd,harbor international fund inst cl,HAINX,HAINX,TRUE
+1190,rite aid corp,rite aid corporation,RAD,RAD,TRUE
+1191,templeton global bond fund adv cl,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1192,powershares fin pfd,powershares etf trust finl div: 1.058,PGF,PGF,TRUE
+1193,ameresco inc cl a,ameresco inc com usd0.0001 cl a,AMRC,AMRC,TRUE
+1194,vanguard bond index total mkt investor,vanguard total bond market index inv,VBMFX,VBMFX,TRUE
+1195,goldman sachs mgd futures strat a,aqr managed futures strategy r6,GMSAX,AQMRX,FALSE
+1196,vanguard windsor ii fd investor share,vanguard windsor ii fund investor shares,VWNFX,VWNFX,TRUE
+1197,ishares msci eafe small cap etf,ishares tr msci small cap,SCZ,SCZ,TRUE
+1198,oppenheimer developing markets fnd y,oppenheimer developing mkts odvyxfds cl y,ODVYX,ODVYX,TRUE
+1199,vanguard small cap,vanguard small-cap etf,VB,VB,TRUE
+1200,skechers usa inc,skechers u s a inc class a,SKX,SKX,TRUE
+1201,alphabet inc cl c,alphabet inc. class c,GOOG,GOOG,TRUE
+1202,amn healthcare services inc,amn healthcare svcs inc com,AHS,AHS,TRUE
+1203,pentair plc,pentair plc f,PNR,PNR,TRUE
+1204,rr donnelley & sons,donnelley (r.r.) & son,RRD,RRD,TRUE
+1205,pepsico incorporated,pepsico inc cmn,PEP,PEP,TRUE
+1206,tupperware brands corp,tupperware brands corp com,TUP,TUP,TRUE
+1207,oppenheimer international growth fund - class a,oppenheimer intl growth fd cl a,OIGAX,OIGAX,TRUE
+1208,vanguard small cap index fund - admiral,vanguard small-cap index fund admiral shares,VSMAX,VSMAX,TRUE
+1209,am fnd europacfic grth r6,american funds europacific growth fund,RERGX,RERGX,TRUE
+1210,zillow group inc cl a isin #us8 sedol #bvyjbr3,zillow group inc cl a,Z,Z,TRUE
+1211,fidelity low priced stock fund,fidelity low priced stock,FLPSX,FLPSX,TRUE
+1212,schwab us large cap growth etf,schwab strategic tr us lcap gr,SCHG,SCHG,TRUE
+1213,time warner inc com,time warner inc com new,TWX,TWX,TRUE
+1214,vanguard index fds vanguard mid-cap etf,vanguard mid-cap vipers,VO,VO,TRUE
+1215,china mobile ltd spn adr,china mobile ltd,CHL,CHL,TRUE
+1216,ishares trust floating rate bd etf,ishares floating rate bond etf,FLOT,FLOT,TRUE
+1217,google inc cl a,google inc class a,GOOGL,GOOGL,TRUE
+1218,vanguard total bond market index adm,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+1219,wal-mart stores inc com isin #us9 sedol #2936921,scana corp new com isin #us7 sedol #2545844,WMT,SCG,FALSE
+1220,vanguard total bond market index fund admiral shares,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+1221,bofi holdings inc com,bofi hldg inc com,BOFI,BOFI,TRUE
+1222,ishares tr core s&p small-cap etf,ishares core s&p small-cap etf,IJR,IJR,TRUE
+1223,spdr s&p 500 etf,spdr s&p 500 etf trust unit ser 1 s&p,SPY,SPY,TRUE
+1224,meridian bioscience inc,meridian bioscience inc.,VIVO,VIVO,TRUE
+1225,alphabet inc cl c,alphabet inc shs cl c,GOOG,GOOG,TRUE
+1226,the financial select sector spdr fund,select str financial select s etf iv,XLF,XLF,TRUE
+1227,vanguard ttl bnd mrk indx inst,vanguard total bond market index fund institutional plus shares,VBTIX,VBMPX,FALSE
+1228,vanguard small cap index - a,"vanguard small cap index, adm",VSMAX,VSMAX,TRUE
+1229,victory munder mid cap core growth fund cl y,victory munder mid-cap core gr,MGOYX,MGOYX,TRUE
+1230,intercontinental exchange inc com usd0.01,intercontinentalexchange group div: 3.400,ICE,ICE,TRUE
+1231,vanguard ftse developed markets,vanguard ftse developed etf,VEA,VEA,TRUE
+1232,johnson & johnson div: 3.000,johnson & johnson com,JNJ,JNJ,TRUE
+1233,apple incorporated,apple inc.,AAPL,AAPL,TRUE
+1234,hudson pacific properties div: 0.800,hudson pac pptys inc com usd0.01,HPP,HPP,TRUE
+1235,powershares qqq trust series,powershares qqq trust se,QQQ,QQQ,TRUE
+1236,vanguard fd total intl stock index fd admiral shs,vanguard total intl stk index,VTIAX,VTIAX,TRUE
+1237,southern co,southern co com,SO,SO,TRUE
+1238,lazard emerging mkts equity,lazard emerging markets equity portfolio institutional shares,LZEMX,LZEMX,TRUE
+1239,sprtn total mkt indx investor class,sptn tot mkt idx ins,FSTMX,FSKTX,FALSE
+1240,at&t inc com isin #us3 sedol #2831811,franklin res inc com isin #us8 sedol #2350684,T,BEN,FALSE
+1241,market vectors etf tr high yield mun etf,market vectors high-yield municipal inde,HYD,HYD,TRUE
+1242,royal dutch shell plc adr class a,royal dutch shell plc spons adr a,RDS.A,RDS.A,TRUE
+1243,northrop grumman corp holding co,northrop grumman corp,NOC,NOC,TRUE
+1244,cvr refining lp lp,cvr refining lp,CVRR,CVRR,TRUE
+1245,t rowe price new horizons fund,trp new horizons,PRNHX,PRNHX,TRUE
+1246,prologis inc reit,prologis inc com,PLD,PLD,TRUE
+1247,national oilwell varco inc,national oilwell varco inc com,NOV,NOV,TRUE
+1248,fidelity advisor new insights fd cl c,fidelity advisor new insights fund - class c,FNICX,FNICX,TRUE
+1249,skechers u s a inc class a,skechers usa inc,SKX,SKX,TRUE
+1250,spdr barclays intern treasury bd et,spdr barclays international etf,BWX,BWX,TRUE
+1251,pimco total return fund cl d,total return fund (pimco),PTTDX,PTRAX,FALSE
+1252,yum brands inc com,yum brands inc,YUM,YUM,TRUE
+1253,vanguard sml-cap ind-adm,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+1254,alphabet inc class a,alphabet inc-cl a,GOOGL,GOOGL,TRUE
+1255,kinder morgan inc de,kinder morgan inc. del,KMI,KMI,TRUE
+1256,glaxosmithkline adr each cnv into 2 ord gbp0.25,glaxosmithkline plc adrfsponsored adr 1 adr rep 2 ord,GSK,GSK,TRUE
+1257,blackrock high yield bond instl,blackrock high yld bond port class c,BHYIX,BHYCX,FALSE
+1258,wal-mart stores,wal-mart stores inc com,WMT,WMT,TRUE
+1259,breitburn energy partners lp com,atlas resource partners l p,BBEP,ARP,FALSE
+1260,activision blizzard inc,activision blizzard inc com,ATVI,ATVI,TRUE
+1261,vanguard crsp us small cap value ind et,vanguard small-cap value etf,VBR,VBR,TRUE
+1262,vanguard charlotte fds total intl bd index fd etf cl,vanguard total intl bond etf,BNDX,BNDX,TRUE
+1263,alibaba group holding lt,alibaba group holding ltd spons ads,BABA,BABA,TRUE
+1264,spdr s&p 500 trust,spdr s&p 500 etf,SPY,SPY,TRUE
+1265,charles schwab new,charles schwab corp.,SCHW,SCHW,TRUE
+1266,vang tot bd mkt adm,vanguard total bond market index inv,VBTLX,VBMFX,FALSE
+1267,cognex corp div: 0.280,cognex corp com,CGNX,CGNX,TRUE
+1268,maxim integrated prods inc,maxim integrated pro,MXIM,MXIM,TRUE
+1269,jazz pharmaceuticals plc,jazz pharmaceuticals plc shs usd,JAZZ,JAZZ,TRUE
+1270,biogen inc com,biogen idec inc,BIIB,BIIB,TRUE
+1271,total s a spon adr div: 2.276,total s a sponsored adr,TOT,TOT,TRUE
+1272,blackrock global allocation i,blackrock global allocation instl cl,MALOX,MALOX,TRUE
+1273,pimco fds income fund cl d,pimco fds income instl,PONDX,PIMIX,FALSE
+1274,metropolitan west total return m,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+1275,pim real return inst,pimco real return class d,PRRIX,PRRDX,FALSE
+1276,pimco fds income fund cl d,pimco incm inst cl,PONDX,PIMIX,FALSE
+1277,af bond fd amer r6,the bond fund of america-r3,RBFGX,RBFCX,FALSE
+1278,liberty broadband corp com ser c,liberty broadband corp s-c,LBRDK,LBRDK,TRUE
+1279,skechers u s a inc cl a,skechers u s a inc class a,SKX,SKX,TRUE
+1280,national-oilwell varco inc,national oilwell varco inc com,NOV,NOV,TRUE
+1281,zillow group inc. - class c,zillow group inc cl a,Z,Z,TRUE
+1282,tmpl global bond a,templeton global bd r,TPINX,FGBRX,FALSE
+1283,unilever plc adr amer shs spon,unilever plc sponsored adr new,UL,UL,TRUE
+1284,ishares msci eafe small-cap,ishares msci eafe sm cap etf div: 1.028,SCZ,SCZ,TRUE
+1285,american eagle outfitters com,american eagle outfitters new com isin #us4 sedol #2048592,AEO,AEO,TRUE
+1286,mosaic co new com,mosaic co,MOS,MOS,TRUE
+1287,blackrock strategic income i,blackrock strategic income opps ptf a,BSIIX,BASIX,FALSE
+1288,blackrock total return fund cl a,blackrock glbl opp eq tr f growth & income fund,MDHQX,BOE,FALSE
+1289,vanguard short-term tax-exempt fund admiral shares,vanguard short term tax exempt fd investor shr,VWSUX,VWSTX,FALSE
+1290,wal-mart stores inc com isin #us9311421039 sedol #2936921,wal-mart stores inc com,WMT,WMT,TRUE
+1291,vanguard int'l growth port inv cl,vanguard international growth fund investor shares,VWIGX,VWIGX,TRUE
+1292,vanguard intl bond index etf,vanguard total intl bond index etf,BNDX,BNDX,TRUE
+1293,pimco income a,pimco income fd i,PONAX,PIMIX,FALSE
+1294,berkshire hathaway inc.,berkshire hathaway inc cl b,BRK.B,BRK.B,TRUE
+1295,newell rubbermaid inc cmn,newell rubbermaid,NWL,NWL,TRUE
+1296,american funds europacific growth fund,american funds europacific growthr3,RERCX,RERCX,TRUE
+1297,ja solar holdings co ltd spon adr rep5ord,ja solar holdings co. ltd. ads,JASO,JASO,TRUE
+1298,metr w tot rtn bond cl m,metropolitan west total return bond i,MWTRX,MWTIX,FALSE
+1299,rdgewrth m/c value eq i,ridgeworth mid cap value equity cl i,SMVTX,SMVTX,TRUE
+1300,templeton glbal bond adv,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1301,pimco total return fund cl d,pimco total return,PTTDX,PTRAX,FALSE
+1302,general dynamics crp,general dynamics co,GD,GD,TRUE
+1303,breitburn energy partners l p com,atlas resource partners l p,BBEP,ARP,FALSE
+1304,vanguard total bond market index adm,vanguard total bond market index fund institutional plus,VBTSX,VBMPX,FALSE
+1305,brookdale sr living inc com,brookdale senior living inc.,BKD,BKD,TRUE
+1306,broadridge finl solu,broadridge financial solutions com,BR,BR,TRUE
+1307,vanguard institutional index i,vanguard institutional index,VINIX,VINIX,TRUE
+1308,american cap agy corp,american capital agency reit,AGNC,AGNC,TRUE
+1309,franklin utilities fund,franklin convertible securities fund cl a,FRUAX,FISCX,FALSE
+1310,vanguard ftse europe etf div: 1.622,vanguard intl equity index fds ftse europe etf,VGK,VGK,TRUE
+1311,putnam dynamic asset alloc growth cl a,putnam dynamic asset allocation growth fund cl a,PAEAX,PAEAX,TRUE
+1312,yahoo! inc com,yahoo inc,YHOO,YHOO,TRUE
+1313,vanguard total bond market idx-adm,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+1314,unitedhealth grp inc,unitedhealth group inc,UNH,UNH,TRUE
+1315,technology select sectorspdr etf iv,select sector spdr trust technology select index,XLK,XLK,TRUE
+1316,oakmark equity & income fd i,oakmark equity and income fund class i,OAKBX,OAKBX,TRUE
+1317,metropolitan west total return bond i,metropolitan west fds total ret cl i,MWTIX,MWTIX,TRUE
+1318,oracle corp $0.01 del,oracle corp com,ORCL,ORCL,TRUE
+1319,vanguard target retirement 2045 fund,vanguard target retirement 2045 inv,VTIVX,VTIVX,TRUE
+1320,gopro inc-class a,gopro inc com,GPRO,GPRO,TRUE
+1321,nextera energy inc,nextera energy inc com div: 3.480,NEE,NEE,TRUE
+1322,united st oil fd partnrshp etf,united states oil fund ltd partnership,USO,USO,TRUE
+1323,vanguard total bond market index admiral,vanguard total bond market index fund investor shares,VBTLX,VBMFX,FALSE
+1324,tjx cos inc new com isin #us0 sedol #2989301,tjx cos inc new com isin #us8725401090 sedol #2989301,TJX,TJX,TRUE
+1325,vanguard small cap index - a,vanguard small-cap index fund institutional shares,VSMAX,VSCIX,FALSE
+1326,american funds europacific gr r4,american funds euro pacific gr,REREX,REREX,TRUE
+1327,whole foods mkt inc com,whole foods mkt inc,WFM,WFM,TRUE
+1328,vanguard equity income fund admiral shares,vanguard equity income adm,VEIRX,VEIRX,TRUE
+1329,quality sys inc com isin #us4 sedol #2715391,quality systems inc com,QSII,QSII,TRUE
+1330,vanguard sector index fds vanguard information technology vi,vanguard information tech etf,VGT,VGT,TRUE
+1331,ishares russell 1000 growth etf,russell 1000 growth (ishares),IWF,IWF,TRUE
+1332,vanguard short term corp bond index fund etf,vanguard short-term corporate div: 1.585,VCSH,VCSH,TRUE
+1333,deutsche x-trackers msci eaf,deutsch x trks msci eafehdg eqy etf,DBEF,DBEF,TRUE
+1334,vnguard total bond market index adm,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+1335,harbor fd intl fd,harbor international inst,HAINX,HAINX,TRUE
+1336,exxon mobil corporation com,exxon mobil corp | e005207,XOM,XOM,TRUE
+1337,charles schwab new,the charles schwab corp,SCHW,SCHW,TRUE
+1338,v f corp com,vf corp,VFC,VFC,TRUE
+1339,vanguard total bond market index fund admiral shares,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+1340,whole foods mkt inc com,whole foods market inc,WFM,WFM,TRUE
+1341,vanguard us value fund,vanguard us value investor,VUVLX,VUVLX,TRUE
+1342,vnguard total bond market index adm,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+1343,wisdomtree invts inc,wisdomtree investments inc com,WETF,WETF,TRUE
+1344,comcast corp new cl a,comcast corp com cl a,CMCSA,CMCSA,TRUE
+1345,syngenta ag-adr,syngenta ag adr,SYT,SYT,TRUE
+1346,af europac growth r6,american funds euro pacific growth r6,RERGX,RERGX,TRUE
+1347,vanguard ttl bond mkt idx adm,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+1348,vanguard gnma fund,vanguard gnma inv,VFIIX,VFIIX,TRUE
+1349,the oakmark international fund - class i,oakmark intl cl i,OAKIX,OAKIX,TRUE
+1350,american mutual fund cl a,american fd american mutual fd cl f2,AMRMX,AMRFX,FALSE
+1351,perkins small cap value t,perkins sm cap val n,JSCVX,JDSNX,FALSE
+1352,pimco incm cl d,pimco incm inst cl,PONDX,PIMIX,FALSE
+1353,vanguard small-cap index fund admiral,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+1354,vanguard 500 index investor,vanguard index 500 port,VFINX,VFINX,TRUE
+1355,berkshire hathaway,berkshire hathaway cl-b new,BRK.B,BRK.B,TRUE
+1356,american intl group inc,american intl group,AIG,AIG,TRUE
+1357,aqr managed futures i,aqr aqr mngd futures strategy i,AQMIX,AQMIX,TRUE
+1358,total s a fadr 1 adr reps 1 ord shs,total s a sponsored adr isin #us1 sedol #2898032,TOT,TOT,TRUE
+1359,cons discret sel sect spdr fd div: 1.116,consumer discretionary spdr,XLY,XLY,TRUE
+1360,exxon mobil corp -,exxon mobil corp,XOM,XOM,TRUE
+1361,microsoft corporation cmn,microsoft corporation,MSFT,MSFT,TRUE
+1362,powershares exchange-traded fd tr intl divid achievers portfolio,powershares intl dvdnd achvrs etf iv,PID,PID,TRUE
+1363,vanguard total international bond et,vanguard total intl bond index etf,BNDX,BNDX,TRUE
+1364,valero energy corp new -,valero energy corp new com,VLO,VLO,TRUE
+1365,linkedin corp class a common stock,linkedin corp,LNKD,LNKD,TRUE
+1366,coca-cola,coca cola co com,KO,KO,TRUE
+1367,ishares core msci emerging etf,harding loevner emerging markets adv cl,IEMG,HLEMX,FALSE
+1368,vanguard ftse developed markets,developed markets,VEA,VEA,TRUE
+1369,sprint corp com,sprint corporation com usd0.01,S,S,TRUE
+1370,ishares iboxx high yield corporate bond etf isin #us5 sedol #b1vz486,ishares iboxx $ high yield corporate bon,HYG,HYG,TRUE
+1371,scorpio tankers inc common,scorpio tankers inc,STNG,STNG,TRUE
+1372,vanguard intermediate-term tax-exempt fund admiral shares,vanguard intermediate-term tax-ex fund,VWIUX,VWITX,FALSE
+1373,lloyds banking group plc adr,lloyds banking group plc div: 0.129,LYG,LYG,TRUE
+1374,pimco total ret fd instl,pimco total return cl a,PTTRX,PTTAX,FALSE
+1375,usd gnb sudameris bk reg s 3.875% may 02 2018,usd arcos dorados bv reg s 6.625% sep 27 2023,P1265VAB8,G0457FAD9,FALSE
+1376,vanguard total bond market index adm,vanguard bond index total mkt investor,VBTSX,VBMFX,FALSE
+1377,pimco income fund cl p,pimco incm cl d,PONPX,PONDX,FALSE
+1378,trp new horizons,t. rowe price new horizons fund,PRNHX,PRNHX,TRUE
+1379,dfa emerging mkts core eqty port instl,dfa emrg mkt core eq,DFCEX,DFCEX,TRUE
+1380,american funds europacific gr r4,amer funds europac r4 m4741,REREX,REREX,TRUE
+1381,wisdomtree emerging markets small cap dividend etf,wisdomtree em small cap,DGS,DGS,TRUE
+1382,goldman sachs group inc com,goldman sachs group inc,GS,GS,TRUE
+1383,synergy pharma,synergy pharmaceuticals inc,SGYP,SGYP,TRUE
+1384,pimco total ret fd instl,pimco total return admin,PTTRX,PTRAX,FALSE
+1385,royal dutch shell adr ea rep 2 cl a eur0.07,royal dutch shell fadr 1 adr reps 2 ord shs,RDSA,RDS.A,FALSE
+1386,vanguard ftse developed etf,vanguard ftse developd mkt etf,VEA,VEA,TRUE
+1387,ishares russell midcap v etf div: 1.470,ishares russell mid cap value etf iv,IWS,IWS,TRUE
+1388,pimco fds income fund cl d,pimco income fd i,PONDX,PIMIX,FALSE
+1389,vanguard fixed income secs inter term invt grade fd admiral cl,vanguard intermediate-term investment-grade fund investor shares,VFIDX,VFICX,FALSE
+1390,goldman sachs mid cap value r,goldman sachs mid cap value fund - class r,GCMRX,GCMRX,TRUE
+1391,vanguard target retirement 2055 fund investor shares,vang target ret 2055,VFFVX,VFFVX,TRUE
+1392,walgreens boots alli,walgreens boots alliance inc com isin #us4 sedol #btn1y44,WBA,WBA,TRUE
+1393,pharmerica corp com,pharmerica corp,PMC,PMC,TRUE
+1394,schwab intl small cap equity etf,schwab strategic tr intl small cap equity etf,SCHC,SCHC,TRUE
+1395,ishares national amt-free muni bond etf,ishares national muni,MUB,MUB,TRUE
+1396,vanguard high dividend yield index fund,vanguard high dividend yield e tf,VYM,VYM,TRUE
+1397,templeton global bond adv,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1398,schwab intermediate-term bond fund,schwab fundamental glbl real estate index fund,SWIIX,SFREX,FALSE
+1399,darling ingredients inc,darling ingredients,DAR,DAR,TRUE
+1400,harris oakmark international fund cl i,the oakmark international fund - class i,OAKIX,OAKIX,TRUE
+1401,"facebook, inc. cmn class a",facebook inc,FB,FB,TRUE
+1402,templeton glbal bond adv,templeton global macro group advisor cl,TGBAX,TGBAX,TRUE
+1403,verizon communications inc com,verizon communications div: 2.260,VZ,VZ,TRUE
+1404,spdr s&p dividend etf iv,spdr series trust s&p divid,SDY,SDY,TRUE
+1405,american beacon small cap value fund institutional class,american beacon small cp val inst,AVFIX,AVFIX,TRUE
+1406,ishares tr msci eafe value fd,ishares msci eafe value etf,EFV,EFV,TRUE
+1407,visa inc-class a shares,visa inc class a,V,V,TRUE
+1408,ishares s&p national amt-free muni,ishares s&p national amt-free mun,MUB,MUB,TRUE
+1409,fidelity new markets,fid new markets inc,FNMIX,FNMIX,TRUE
+1410,coca cola com,coca-cola co (the),KO,KO,TRUE
+1411,vanguard total international bond et,vanguard total int bd idx etf,BNDX,BNDX,TRUE
+1412,fa real estate i,nuveen real estate i,FHEIX,FARCX,FALSE
+1413,keycorp inc,penney j c co inc,KEY,JCP,FALSE
+1414,vanguard total bond market idx-adm,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+1415,vanguard index fds vanguard value etf formerly vanguard inde,vanguard crsp us large cap value ind et,VTV,VTV,TRUE
+1416,exxon mobil dda,exxon mobil corp | e005207,XOM,XOM,TRUE
+1417,novo-nordisk a-s fadr 1 adr reps 1 ord shs,novo-nordisk a/s-spons adr,NVO,NVO,TRUE
+1418,ishares jpm usd emr etf,ishares emerging markets usd bond etf,EMB,EMB,TRUE
+1419,metropolitan west total return bond plan class shares,metropolitan west total return bond plan fund,MWTSX,MWTSX,TRUE
+1420,ampco-pittsburgh corp com,ampco pittsburgh corp,AP,AP,TRUE
+1421,energy transfer partners lp com,cheniere energy partners lp com,ETP,CQP,FALSE
+1422,wells fargo & co com,wells fargo company,WFC,WFC,TRUE
+1423,nextera energy inc,nextera energy inc com,NEE,NEE,TRUE
+1424,exelon corporation cmn,exelon corp,EXC,EXC,TRUE
+1425,pimco real return insitutional,pimco real return fd cl d,PRRIX,PRRDX,FALSE
+1426,ford motor company,ford motor co new div: 0.600,F,F,TRUE
+1427,bank of america corp cmn,bank america corp,BAC,BAC,TRUE
+1428,vnguard institutional index,vanguard institutional index i,VINIX,VINIX,TRUE
+1429,berkshire hathaway inc cl b ne,berkshire hathaway,BRK.B,BRK.B,TRUE
+1430,nuance communications inc com isin #us67020y1001 sedol #2402,nuance communications,NUAN,NUAN,TRUE
+1431,sptn em mkts idx adv,spartan emerging mkt index fund investor,FPMAX,FPEMX,FALSE
+1432,vanguard balanced index fund investor shares,vanguard balanced index admiral,VBINX,VBIAX,FALSE
+1433,devon energy corp new com,devon energy corp,DVN,DVN,TRUE
+1434,mondelez intl class a,mondelez intl inc com,MDLZ,MDLZ,TRUE
+1435,amer funds europac r3 m4740,american funds europacific growthr3,RERCX,RERCX,TRUE
+1436,vanguard target retirement 2040 inv,vang target ret 2040,VFORX,VFORX,TRUE
+1437,vanguard total bond market index adm,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+1438,anadarko pete corp,anadarko pete div: 1.080,APC,APC,TRUE
+1439,wal-mart stores,wal-mart stores inc.,WMT,WMT,TRUE
+1440,dodge & cox stock fund,dodge & cox funds stock fund,DODGX,DODGX,TRUE
+1441,ishares 7-10 yr treasry bd etf div: 1.973,ishares barclays 7-10 year treasury,IEF,IEF,TRUE
+1442,breitburn energy ptn lp,breitburn energy partners unit limited partnership interest,BBEP,BBEP,TRUE
+1443,wal mart stores inc,wal-mart stores,WMT,WMT,TRUE
+1444,wells fargo special mid cap value a,wells fargo adv spec md cp val a wfpax,WFPAX,WFPAX,TRUE
+1445,geo group inc,geo group inc new,GEO,GEO,TRUE
+1446,mainstay large cap growth fund cl i,mainstay large cap growth fund i,MLAIX,MLAIX,TRUE
+1447,"vanguard small cap index, adm",vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+1448,vanguard extended market idx i,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+1449,vf corporation,v f corp com,VFC,VFC,TRUE
+1450,accenture plc cls a usd0.0000225,accenture ltd ord,ACN,ACN,TRUE
+1451,gopro inc class a,gopro inc cl a isin #us4 sedol #bmnqc35,GPRO,GPRO,TRUE
+1452,telefonica s.a. adr sponsored adr cmn,telefonica sa adr ea repr 1 ord npv,TEF,TEF,TRUE
+1453,vanguard bond index fund short term portfolio,vanguard short-term bond index,VBISX,VBIPX,FALSE
+1454,alibaba grp sp adr (cayman islands),alibaba group hldg ltd,BABA,BABA,TRUE
+1455,vanguard ttl bond mkt idx adm,vanguard total bond market idx-adm,VBTLX,VBTLX,TRUE
+1456,metropolitan west total return bond fund,metropolitan west total return bond plan class shares,MWTSX,MWTSX,TRUE
+1457,t. rowe price global technology fund,t.rowe price global tech fund,PRGTX,PRGTX,TRUE
+1458,vanguard target retirement 2035 fund,vanguard target retirement 203 5 fund,VTTHX,VTTHX,TRUE
+1459,vanguard ttl bnd mrk indx inst,vanguard total bond market index,VBTIX,VBMPX,FALSE
+1460,ishares tr core us aggt bd etf,ishares barclays aggregate bd fd,AGG,AGG,TRUE
+1461,bce inc,bce inc f,BCE,BCE,TRUE
+1462,eog resources inc com,e o g resources inc,EOG,EOG,TRUE
+1463,guggenheim bulletshares 2016 high yield corporate bond etf,claymore guggenheim bulletshares 2016 high yield corp bond etf,BSJG,BSJG,TRUE
+1464,templeton glbal bond adv,templeton global bond fund cl advisor,TGBAX,TGBAX,TRUE
+1465,vanguard ltd-trm t/e adm,vanguard limited-term tax-exempt fund investor shares,VMLUX,VMLTX,FALSE
+1466,dfa us large cap value port.,dfa u.s. large cap value portfolio institutional class,DFLVX,DFLVX,TRUE
+1467,vanguard small cap etf (vb),vanguard small cap etf iv,VB,VB,TRUE
+1468,powershares emerging markets sovereign d,powershares db em usd liquid balanced,PCY,PCY,TRUE
+1469,american balanced portfolio fund class c (31%),american funds balanced portfolio,BLPCX,BLPCX,TRUE
+1470,zillow group inc,zillow group inc shs cl c,Z,Z,TRUE
+1471,vanguard ftse emerging markets,vanguard msci emerging markets etf,VWO,VWO,TRUE
+1472,nasdaq inc com stk,nasdaq inc com,NDAQ,NDAQ,TRUE
+1473,linkedin corp class a,linkedin corp - a,LNKD,LNKD,TRUE
+1474,approach resources,approach resources inc com,AREX,AREX,TRUE
+1475,ford motor co com new,ford mtr co del com par $0.01,F,F,TRUE
+1476,vanguard midcap index - a,vanguard mid cap index,VIMAX,VIMAX,TRUE
+1477,vanguard small-cap value etf,vanguard index fds vanguard small cap value vipers formerly vanguard,VBR,VBR,TRUE
+1478,general electric co div: 0.920,general electric,GE,GE,TRUE
+1479,duke energy corp new com new,duke energy corp new com new isin #us4 sedol #b7jzsk0,DUK,DUK,TRUE
+1480,c.h. robinson worldwide inc,c h robinson worldwide inc com new isin #us8 sedol #2116228,CHRW,CHRW,TRUE
+1481,coca-cola company,coca-cola co/the,KO,KO,TRUE
+1482,vanguard index fds formerly vanguard index tr to 05/24/2001,vanguard index funds s&p 500 etf,VOO,VOO,TRUE
+1483,pimco total return fund instl cl,pimco total return fund - class r,PTTRX,PTRRX,FALSE
+1484,amgen inc div: 4.000,amgen incorporated,AMGN,AMGN,TRUE
+1485,vanguard extended market index fund institutional,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+1486,pepsico inc.,pepsico inc,PEP,PEP,TRUE
+1487,ligand pharmaceuticals inc cl b,ligand pharmaceuticals inc com,LGND,LGND,TRUE
+1488,emerging markets,harding loevner emerging markets adv cl,IEMG,HLEMX,FALSE
+1489,the walt disney co,walt disney co com,DIS,DIS,TRUE
+1490,rydex guggenheim s&p 500 equal weighted index etf,guggenheim s&p 500 eql weight etf iv,RSP,RSP,TRUE
+1491,alphabet inc-cl a,alphabet inc shs cl a,GOOGL,GOOGL,TRUE
+1492,southwest airlines,southwest airls co com,LUV,LUV,TRUE
+1493,emerald gwth fd cl a,emerald growth a,HSPGX,HSPGX,TRUE
+1494,pim total rt inst,fund: pimco total return admin,PTTRX,PTRAX,FALSE
+1495,pimco low duration instl,pimco low duration fund a,PTLDX,PTLAX,FALSE
+1496,harbor international fund,harbor international institutional,HAINX,HAINX,TRUE
+1497,four corners ppty tr inc com,four corners ppty reit,FCPT,FCPT,TRUE
+1498,american mutual fund-a,american fd american mutual fd cl f2,AMRMX,AMRFX,FALSE
+1499,ishares barclays aggregate bd fd,ishares core u.s. aggregate,AGG,AGG,TRUE
+1500,oppenheimer developing mkts y,oppenheimer developing markets fnd y,ODVYX,ODVYX,TRUE
+1501,dfa emerging markets value,dimensional emerging mkts val prtf instl,DFEVX,DFEVX,TRUE
+1502,american beacon lg cap val planahd,am beacon large cp val,AAGPX,AAGPX,TRUE
+1503,wells fargo & co new del,wells fargo & co com,WFC,WFC,TRUE
+1504,exxon mobil corp | e005207,exxon mobil corporation com,XOM,XOM,TRUE
+1505,barnes & noble inc com,barnes &noble inc com,BKS,BKS,TRUE
+1506,alibaba group hldg ltd sponsor,alibaba grp sp adr (cayman islands),BABA,BABA,TRUE
+1507,harbor capital appreciation instl,harbor cap appr inst,HACAX,HACAX,TRUE
+1508,pimco total return instl,total return fund (pimco),PTTRX,PTRAX,FALSE
+1509,metropolitan west total return bond fund,metropolitan west total return bond plan fund,MWTSX,MWTSX,TRUE
+1510,vanguard total bond market index adm,vanguard total bond market index fund admiral shares,VBTSX,VBTLX,FALSE
+1511,vanguard total bond market index fund institutional plus,vang tot bd mk is pl,VBMPX,VBMPX,TRUE
+1512,first trust internet index cf etf,first trust dow jones internet,FDN,FDN,TRUE
+1513,cohen & steers rlty,cohen & steers realty,CSRSX,CSRSX,TRUE
+1514,alibaba group hldg ltd sponsored ads,alibaba grp sp adr (cayman islands),BABA,BABA,TRUE
+1515,netflix com inc,netflix inc.,NFLX,NFLX,TRUE
+1516,vanguard total bond market index fund institutional shares,vanguard total bond market index inv,VBTIX,VBMFX,FALSE
+1517,vanguard mid-cap index fund admiral shares,vanguard mid cap index admiral,VIMAX,VIMAX,TRUE
+1518,pimco total return r,fund: pimco total return admin,PTRRX,PTRAX,FALSE
+1519,oppenheimer developing markets fund,oppenheimer developing markets y fund,ODVYX,ODVYX,TRUE
+1520,vanguard reit index etf (vnq),vanguard reit etf index,VNQ,VNQ,TRUE
+1521,spdr dow jones indust av etf trust,spdr dow jones indl avrg etf,DIA,DIA,TRUE
+1522,vanguard extended market index fund institutional shares,vanguard extended market idx adm,VIEIX,VEXAX,FALSE
+1523,allstate corp comm,allstate corp div: 1.320,ALL,ALL,TRUE
+1524,ford mtr co,ford motor co com new,F,F,TRUE
+1525,vang ext mkt idx ins,vanguard extended market index fund admiral shares,VIEIX,VEXAX,FALSE
+1526,vanguard shortterm investgrade adm,vanguard short-term investment-grade fund investor shares,VFSUX,VFSTX,FALSE
+1527,eli lilly & co,lilly eli &co com npv,LLY,LLY,TRUE
+1528,vanguard ttl bond mkt idx adm,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+1529,baidu inc spon adr,baidu inc sponsored adr repstg ord shares class a,BIDU,BIDU,TRUE
+1530,canadian natl railway company com,canadian natl railway co,CNI,CNI,TRUE
+1531,financial instns inc com,financial institutions inc,FISI,FISI,TRUE
+1532,vanguard total bond market index adm,vang tot bd mkt inst,VBTSX,VBTIX,FALSE
+1533,home depot inc com isin #us9 sedol #2434209,"the home depot, inc. cmn",HD,HD,TRUE
+1534,deutsche bk ag reg shs,deutsche bank ag new fregistered shares,DB,DB,TRUE
+1535,disney walt co com disney,disney walt co,DIS,DIS,TRUE
+1536,vanguard 500 index fund - admiral,vanguard 500 idx adm,VFIAX,VFIAX,TRUE
+1537,trp new horizons,t rowe price new horizons fund,PRNHX,PRNHX,TRUE
+1538,franklin income fund cl a,franklin income series cl a,FKINX,FKINX,TRUE
+1539,vang tot bd mkt inst,vanguard total bond market idx instl pls,VBTIX,VBMPX,FALSE
+1540,american funds american hi inc tr r3,american high income trust cl a,RITCX,AHITX,FALSE
+1541,vanguard small-cap growth index fund investor shares,vanguard small capitalization growth index fund investor shares,VISGX,VISGX,TRUE
+1542,pimco fds income instl,pimco income administrative,PIMIX,PIINX,FALSE
+1543,metr w tot rtn bond cl m,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+1544,sirius xm hldgs inc,sirius xm hldgs inc com,SIRI,SIRI,TRUE
+1545,chemours company,chemours co com,CC,CC,TRUE
+1546,new york community,new york cmnty bancorp inc,NYCB,NYCB,TRUE
+1547,vanguard total intl bond index etf,vanguard total international bond index etf,BNDX,BNDX,TRUE
+1548,diageo plc new sponsored adr,diageo plc sponsored adr,DEO,DEO,TRUE
+1549,first trust emerging markets alphadex fu,deutsche x-trackers msci emrgng mkts hdgd eqty etf,FEM,DBEM,FALSE
+1550,bofi holding,bofi holdings inc com,BOFI,BOFI,TRUE
+1551,vanguard global ex-us real estate etf,vanguard global ex u s real estate index fd etf,VNQI,VNQI,TRUE
+1552,pimco total return fund cl p,pimco total return admin,PTTPX,PTRAX,FALSE
+1553,vanguard intermediate-term investment-grade fund admiral shares,vanguard int term inv grade,VFIDX,VFICX,FALSE
+1554,vanguard short term investment grade fund admiral,vanguard short-term investment-grade fund investor shares,VFSUX,VFSTX,FALSE
+1555,bhp billiton ltd sponsored adr,bhp billiton limited adr,BHP,BHP,TRUE
+1556,guggenheim bulletshares 2017,guggenheim bulletshares 2017 corporate b,BSCH,BSCH,TRUE
+1557,arm holdings plc-spons adr,arm holdings plc ads rep 3 ord gbp0.05,ARMH,ARMH,TRUE
+1558,ishares tr intl trea bd etf,ishares intl treasury bond etf,IGOV,IGOV,TRUE
+1559,dfa emerging markets core,dfa emerging markets core equity,DFCEX,DFCEX,TRUE
+1560,sector financial select sector spdr etf,select financial etf,XLF,XLF,TRUE
+1561,valero energy corp,valero energy corp new -,VLO,VLO,TRUE
+1562,american capital world grth & inc a,american funds cap wld gr&inc a,CWGIX,CWGIX,TRUE
+1563,vanguard growth,vanguard growth etf iv,VUG,VUG,TRUE
+1564,leucadia national,leucadia national co,LUK,LUK,TRUE
+1565,salesforce.com inc com,salesforce com,CRM,CRM,TRUE
+1566,berkshire hathaway class b,berkshire hathawayinc del cl b new,BRK.B,BRK.B,TRUE
+1567,invesco real estate fund class a,fa real estate a,IARAX,FHEAX,FALSE
+1568,powershares global exchange traded fd tr emerging markets so,powershares emerging markets sovereign debt etf,PCY,PCY,TRUE
+1569,vanguard intl equity index fds ftse emerging mkts etf,vanguard emerging markets etf (vwo),VWO,VWO,TRUE
+1570,vanguard intermediate-term treasury fund admiral shares,vanguard intermediate-term treasury inv,VFIUX,VFITX,FALSE
+1571,vanguard high yield corp bd-inv,vanguard high-yield corporate fund admiral shares,VWEHX,VWEAX,FALSE
+1572,the exone company,exone co com,XONE,XONE,TRUE
+1573,dfa real estate securities fund institutional class,dfa real estate securities port,DFREX,DFREX,TRUE
+1574,edwards lifesciences,edwards lifesciences corp,EW,EW,TRUE
+1575,ishares 20+ year,ishares tr 20 yr tr bd etf,TLT,TLT,TRUE
+1576,zynga inc.,zynga inc,ZNGA,ZNGA,TRUE
+1577,fid diversifd intl k,fidelity diversified international fund class k,FDIKX,FDIKX,TRUE
+1578,american europacific growth,af europac growth r5,RERFX,RERFX,TRUE
+1579,textron inc,textron incorporated,TXT,TXT,TRUE
+1580,oppenheimer developing markets,opp developing mkt i,ODVIX,ODVIX,TRUE
+1581,lululemon athletica,lululemon athletica inc com,LULU,LULU,TRUE
+1582,vanguard reit etf div: 3.124,vanguard reit index etf (vnq),VNQ,VNQ,TRUE
+1583,metropolitan west total return bond m,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+1584,vanguard ttl bnd mrk indx inst,vanguard bond index total mkt investor,VBTIX,VBMFX,FALSE
+1585,google inc class a vtg voting shares,google inc cl a,GOOGL,GOOGL,TRUE
+1586,oppenheimer dev markets class a,oppen developing mkts a,ODMAX,ODMAX,TRUE
+1587,growth fund of america class a - american funds m/f,growth fund of america cl a,AGTHX,AGTHX,TRUE
+1588,vanguard institutional index,vanguard institl index,VINIX,VINIX,TRUE
+1589,ishares russell midcap growth,ishares russell mid cap grw etf iv,IWP,IWP,TRUE
+1590,vanguard shrt trm invmnt grd-inv,vanguard short-term invest-grade,VFSTX,VFSIX,FALSE
+1591,baxalta inc,baxalta inc com,BXLT,BXLT,TRUE
+1592,time warner inc new div: 1.610,time warner inc.,TWX,TWX,TRUE
+1593,vanguard small cap index - a,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1594,microsoft corporation cmn,microsoft corp,MSFT,MSFT,TRUE
+1595,vanguard short-term bond index fund,vanguard short term bond fund,BSV,BSV,TRUE
+1596,vanguard small cap index fund - admiral,vanguard smallcap index fund,VSMAX,VSMAX,TRUE
+1597,taser intl inc com,taser international inc com,TASR,TASR,TRUE
+1598,charles schwab new div: 0.240,the charles schwab corp,SCHW,SCHW,TRUE
+1599,apple inc aapl,apple inc,AAPL,AAPL,TRUE
+1600,health care select sector,select sector health care spd etf iv,XLV,XLV,TRUE
+1601,oppenheimer developing markets fnd y,oppenheimer developing markets y,ODVYX,ODVYX,TRUE
+1602,vanguard gnma fund admiral shares,vanguard gnma fund investor shares,VFIJX,VFIIX,FALSE
+1603,vanguard index fds s&p 500 etf,vanguard index funds s&p 500 etf,VOO,VOO,TRUE
+1604,ishares msci emerging markets,harding loevner emerging markets adv cl,IEMG,HLEMX,FALSE
+1605,blackrock high yield bond portfolio svc,blackrock high yield bond instl,BHYSX,BHYIX,FALSE
+1606,nicholas fd inc com,nicholas fund inc,NICSX,NICSX,TRUE
+1607,vanguard total intl bond etf,vanguard total international bond etf,BNDX,BNDX,TRUE
+1608,mondelez intl class a,mondelez international inc-a,MDLZ,MDLZ,TRUE
+1609,templeton global bond fund advisor class,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1610,boeing company,boeing co/the,BA,BA,TRUE
+1611,columbia income opps a,columbia income opportunities a,AIOAX,AIOAX,TRUE
+1612,vanguard ca inter term tax-exempt fd inv shrs,vanguard california intermediate-term tax-exempt fund investor shares,VCAIX,VCAIX,TRUE
+1613,american funds europacific gr r6,american funds europacific growth r6,RERGX,RERGX,TRUE
+1614,ishares tr russell mid-cap etf,ishares russell midcap,IWR,IWR,TRUE
+1615,amer fds europacific f2,american europacific growth fund cl f2,AEPFX,AEPFX,TRUE
+1616,wisdomtree investments inc com,wisdomtree investments inc,WETF,WETF,TRUE
+1617,american funds new perspective f,american fd new perspective cl f1,NPFFX,NPFFX,TRUE
+1618,"apple, inc. cmn",apple inc.,AAPL,AAPL,TRUE
+1619,vanguard total bond market index admiral,vang tot bd mk is pl,VBTLX,VBMPX,FALSE
+1620,vanguard ftse emerging mark etf iv,vanguard ftse emerging markets,VWO,VWO,TRUE
+1621,dominion resources inc/va,dominion resources inc,D,D,TRUE
+1622,vanguard short term invt grade admiral,vanguard short-term invest-grade,VFSUX,VFSIX,FALSE
+1623,vanguard target retirement 2035 fund investor shares,vanguard target retirement 2035 fund,VTTHX,VTTHX,TRUE
+1624,vanguard dividend appreciation etc,vanguard dividend appreciation,VIG,VIG,TRUE
+1625,fifth street finance corp com,fifth street finance corp,FSC,FSC,TRUE
+1626,precision drilling corp com,precision drilling corp,PDS,PDS,TRUE
+1627,vanguard total bond index adm,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+1628,ishares 20 pls year treasury bnd etf,ishares 20+ year treasury bo,TLT,TLT,TRUE
+1629,intel corp,intel,INTC,INTC,TRUE
+1630,visa inc cl a,visa inc cl a class a,V,V,TRUE
+1631,terex corporation new,denso corporation adr,TEX,DNZOY,FALSE
+1632,spartan extended mkt index fid adv class,fidelity spartan extended mkt index inv,FSEVX,FSEMX,FALSE
+1633,invesco growth & income fund cl y,invesco growth and income fund (class y),ACGMX,ACGMX,TRUE
+1634,zillow group inc cl a,zillow group inc shs cl c,Z,Z,TRUE
+1635,oppenheimer developing markets y fund,oppenhmr develpng mkts y,ODVYX,ODVYX,TRUE
+1636,deut real estate r6,deutsche real estate securities fund - class a,RRRZX,RRRAX,FALSE
+1637,facebook inc,facebook inc class a common stock,FB,FB,TRUE
+1638,af europac growth r6,american funds europacific growth fund,RERGX,RERGX,TRUE
+1639,vanguard 500 index,vanguard 500 index inv,VFINX,VFINX,TRUE
+1640,american express co div: 1.160,american express co,AXP,AXP,TRUE
+1641,vanguard target retirement 2045 inv,vanguard target retirement 2045 fund investor shares,VTIVX,VTIVX,TRUE
+1642,spdr dow jones industrial avrg etf,spdr dow jones indl average etf tr unit ser 1,DIA,DIA,TRUE
+1643,concho res inc,concho res incorporated,CXO,CXO,TRUE
+1644,vanguard short term bond index investor,vang st bd idx is pl,VBISX,VBIPX,FALSE
+1645,priceline group inc,priceline group,PCLN,PCLN,TRUE
+1646,metwest tot rtn bd m,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+1647,vanguard mid cap index fd,vanguard mid capitalization index fund,VIMAX,VIMAX,TRUE
+1648,unitedhealth gp inc div: 2.000,unitedhealth group inc,UNH,UNH,TRUE
+1649,professionally mgd ptfl akre focus retail cl,akre focus fund retail,AKREX,AKREX,TRUE
+1650,harding loevner emerg mrkts port adv,harding loevner emerging markets adv cl,HLEMX,HLEMX,TRUE
+1651,ishares tips bond etf div: 0.369,ishares tr tips bd etf,TIP,TIP,TRUE
+1652,royal dutch shell adr ea rep 2 cl a eur0.07,royal dutch shell plc,RDSA,RDS.A,FALSE
+1653,pim real return inst,pimco real return fd cl d,PRRIX,PRRDX,FALSE
+1654,energy transfer prtnrs l p unit ltd partn,cheniere energy partners lp com,ETP,CQP,FALSE
+1655,boston beer company inc cl a,boston beer inc cl a,SAM,SAM,TRUE
+1656,facebook inc.,facebook inc class a common stock,FB,FB,TRUE
+1657,vang tot bd mk is pl,vanguard total bond market index inv,VBMPX,VBMFX,FALSE
+1658,first trust ipox-100 index etf,first trust us ipo index fund,FPX,FPX,TRUE
+1659,vanguard small-cap index fund admiral shares,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+1660,alphabet inc. cl c,google inc cl c,GOOG,GOOG,TRUE
+1661,cisco systems inc com,cisco systems inc,CSCO,CSCO,TRUE
+1662,american mutual fund,amer funds american mutual fund class f2,AMRMX,AMRFX,FALSE
+1663,pnc financial services group cmn,pnc fincl services group,PNC,PNC,TRUE
+1664,restaurant brands intl inc,restaurant brands international,QSR,QSR,TRUE
+1665,syngenta ag - adr,syngenta ag adr,SYT,SYT,TRUE
+1666,vanguard index fds vanguard small cap value vipers formerly vanguard,vanguard crsp us small cap value ind et,VBR,VBR,TRUE
+1667,"salesforce.com, inc cmn",salesforce com,CRM,CRM,TRUE
+1668,schlumberger ltd div: 2.000,schlumberger ltd com,SLB,SLB,TRUE
+1669,vanguard small-cap value index fund,vang sm val idx inv,VISVX,VISVX,TRUE
+1670,vanguard short-term investment-grade fund investor shares,vang st invstgrd inv,VFSTX,VFSTX,TRUE
+1671,fedex corp div: 1.000,fedex corp delaware com,FDX,FDX,TRUE
+1672,schwab funda emg mkts large com etf,schwab strategic tr schwab fundamental emerging mkts large c,FNDE,FNDE,TRUE
+1673,pimco total return instl,pimco total return fund cl p,PTTRX,PTTPX,FALSE
+1674,wisdomtree emerging markets smallcap dividend fund,wisdomtree tr emerging mkts isin #us6 sedol #b28vh85,DGS,DGS,TRUE
+1675,vanguard target retirement 2055 fund,vanguard target retire 2055,VFFVX,VFFVX,TRUE
+1676,ishares msci eafe value inx,ishares tr eafe value etf,EFV,EFV,TRUE
+1677,vanguard intl equity index fd inc ftse all-world ex-us index,vanguard intl equity index,VEU,VEU,TRUE
+1678,ford mtr co,ford mtr co del com,F,F,TRUE
+1679,exxon mobil corporation,exxon mobil corp,XOM,XOM,TRUE
+1680,coca-cola co/the,coca cola co,KO,KO,TRUE
+1681,qlik technologies inc.,keysight technologies inc com,QLIK,KEYS,FALSE
+1682,anadarko pete corp com,anadarko petroleum,APC,APC,TRUE
+1683,vanguard specialized portfolios div appreciation index fd viper shs,vanguard specialized portfolios div appreciation index fd vi,VIG,VIG,TRUE
+1684,vang target ret 2040,vanguard target retirement 2040 fund investor shares,VFORX,VFORX,TRUE
+1685,blackrock high yld bd port cl k,blackrock high yield bond instl,BRHYX,BHYIX,FALSE
+1686,parnassus core equity investor,parnassus core eqty fd inv,PRBLX,PRBLX,TRUE
+1687,j p morgan chase & co,jpmorgan chase & co,JPM,JPM,TRUE
+1688,vanguard emerging markets etf,vanguard ftse emerging markets,VWO,VWO,TRUE
+1689,bank america corp,bank of america corp.,BAC,BAC,TRUE
+1690,trp growth stock,t. rowe price growth stock fd,PRGFX,PRGFX,TRUE
+1691,templeton global bd fd adv,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1692,vanguard total bond market index-admiral,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+1693,ambarella inc com usd0.00045,ambarella inc ord (cayman isl),AMBA,AMBA,TRUE
+1694,leapfrog enterprises inc,leapfrog enterprises inc cl a,LF,LF,TRUE
+1695,vnguard total bond market index adm,vanguard total bond market index-admiral,VBTLX,VBTLX,TRUE
+1696,new world ? cl 529 a,new world fund,CNWAX,CNWAX,TRUE
+1697,california wtr svc group inc,ca water service grp,CWT,CWT,TRUE
+1698,pimco total return fd cl c,pimco total return fund adm,PTTCX,PTRAX,FALSE
+1699,spdr barclays high yieldbond etf,spdr barclays high yield bond (jnk),JNK,JNK,TRUE
+1700,leapfrog enterprises class a,leapfrog enterprises inc cl a,LF,LF,TRUE
+1701,amer express company,american express co,AXP,AXP,TRUE
+1702,jacobs engr group inc del com isin #us4698141078 sedol #2469,jacobs engr group inc,JEC,JEC,TRUE
+1703,banco latinoamercano f,banco latinoamercano fde comerico exterior s a,BLX,BLX,TRUE
+1704,energy transfer partners lp com,energy transfer partners l p unit ltd partnership int,ETP,ETP,TRUE
+1705,ishares 7-10 yr treasry bd etf div: 1.973,ishares 7-10 year treasury bond etf,IEF,IEF,TRUE
+1706,glaxosmithkline plc sponsored adr,glaxosmithkline plc-adr,GSK,GSK,TRUE
+1707,hartford finl svc gp,hartford finl svcs group inc,HIG,HIG,TRUE
+1708,microsoft corp div: 1.440,microsoft corp com,MSFT,MSFT,TRUE
+1709,amgen inc,amgen incorporated,AMGN,AMGN,TRUE
+1710,ishares trust core s&p small-cap etf,ishares core s&p small-cap etf,IJR,IJR,TRUE
+1711,vanguard strategic equity investor,vang strategic eq,VSEQX,VSEQX,TRUE
+1712,vanguard sml-cap ind-adm,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1713,growth fund of america class a - american funds m/f,the growth fund of america,AGTHX,AGTHX,TRUE
+1714,verizon communications inc,verizon communications,VZ,VZ,TRUE
+1715,zillow group inc cl a isin #us8 sedol #bvyjbr3,zillow group inc shs cl c,Z,Z,TRUE
+1716,t. rowe price retirement 2045 fund,t. rowe price retirement 2045,TRRKX,TRRKX,TRUE
+1717,american funds new world f,american fd new world fd cl f1,NWFFX,NWFFX,TRUE
+1718,hodges small cap retail,fid small cap stock,HDPSX,FSLCX,FALSE
+1719,cohen & steers real est secs i,cohen & steers real estate secs i,CSDIX,CSDIX,TRUE
+1720,cerner corp stock,cerner corp,CERN,CERN,TRUE
+1721,goldman sachs mgd futures strat a,aqr managed futures strategy fund class i,GMSAX,AQMIX,FALSE
+1722,ford motor company,ford mtr co,F,F,TRUE
+1723,vanguard ftse emerging markets div: 1.066,vanguard ftse emerg mkts etf,VWO,VWO,TRUE
+1724,"yum brands, inc. cmn",yum! brands inc,YUM,YUM,TRUE
+1725,vanguard short term invt grade admiral,vanguard shrt trm invmnt grd-inv,VFSUX,VFSTX,FALSE
+1726,gopro inc class a,gopro inc-class a,GPRO,GPRO,TRUE
+1727,vnguard total bond market index adm,vang tot bd mk is pl,VBTLX,VBMPX,FALSE
+1728,chemours co com div: 0.120,chemours co com,CC,CC,TRUE
+1729,priceline group,the priceline group inc,PCLN,PCLN,TRUE
+1730,artisan international value fund # 1466 closed to new,artisan intl value fund inv,ARTKX,ARTKX,TRUE
+1731,dreamworks animation class a,dreamworks animation skg cl a,DWA,DWA,TRUE
+1732,vanguard high yield corp bd-inv,vanguard high yield corp fund admiral share,VWEHX,VWEAX,FALSE
+1733,pimco total return fund instl cl,pimco total return fund adm,PTTRX,PTRAX,FALSE
+1734,dfa intl small cap value port instl,delaware small cap core inst,DISVX,DCCIX,FALSE
+1735,chicago bridge & iron company n v,chicago bridge & iron company n.v. eur0.01 reg,CBI,CBI,TRUE
+1736,bristol-myers squibb co,bristol myers squibb co,BMY,BMY,TRUE
+1737,vanguard ttl bnd mrk indx inst,vang tot bd mk is pl,VBTIX,VBMPX,FALSE
+1738,alphabet inc cl a,google inc class a,GOOGL,GOOGL,TRUE
+1739,the kraft heinz company,kraft heinz company,KHC,KHC,TRUE
+1740,dfa intl value ptf,dfa international value portfolio,DFIVX,DFIVX,TRUE
+1741,vanguard total bond index adm,vanguard total bond market index fund institutional plus shares,VBTLX,VBMPX,FALSE
+1742,aqr managed futures strategy r6,aqr aqr mngd futures strategy i,AQMRX,AQMIX,FALSE
+1743,vanguard small cap etf iv,vanguard index fds vanguard small cap vipers formerly vangua,VB,VB,TRUE
+1744,procter & gamble co com,procter & gamble co,PG,PG,TRUE
+1745,honeywell intl inc com,honeywell intl inc del,HON,HON,TRUE
+1746,vanguard crsp us mid cap value inde etf,vanguard mid-cap value etf,VOE,VOE,TRUE
+1747,pimco income instl,pimco fds income instl,PIMIX,PIMIX,TRUE
+1748,amerisource bergen corp com,amerisourcebergen corp,ABC,ABC,TRUE
+1749,polaris industries inc com,polaris inds inc com,PII,PII,TRUE
+1750,pimco real return insitutional,pimco real return class d,PRRIX,PRRDX,FALSE
+1751,vang tot bd mkt inst,vanguard total bond market index fund investor shares,VBTIX,VBMFX,FALSE
+1752,metropolitan west totret bdm,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+1753,templeton global bond fund cl a,templeton global bd r,TPINX,FGBRX,FALSE
+1754,vm mid-cp core gr y,victory munder mid cap core growth fund cl y,MGOYX,MGOYX,TRUE
+1755,vanguard short term bond index investor,vanguard short-term bond index fund admiral shares,VBISX,VBIRX,FALSE
+1756,templeton global bond fund cl advisor,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1757,michael kors holdings ltd com npv,michael kors holdings com,KORS,KORS,TRUE
+1758,vanguard total bond market index adm,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+1759,vanguard total bond market idx-adm,vanguard total bond market index fund institutional plus,VBTLX,VBMPX,FALSE
+1760,dfa u s large cap value instl cl,dfa us large cap value prtf instl,DFLVX,DFLVX,TRUE
+1761,chevron corporation,chevron corporation cmn,CVX,CVX,TRUE
+1762,ishares core us agg bnd,ishares barclays aggregate bond fund,AGG,AGG,TRUE
+1763,proshares ultra nasdaq,proshares ultra nasdaq biotechnology,BIB,BIB,TRUE
+1764,wasatch frontier emerging small co's,wasatch frontier emrg sm countries inv,WAFMX,WAFMX,TRUE
+1765,oppenheimer developing markets (odvnx),oppenheimer developing markets fund - class r,ODVNX,ODVNX,TRUE
+1766,colgate palmolive co,colgate palmolive co com,CL,CL,TRUE
+1767,hain celestial group inc com,hain celestial group inc,HAIN,HAIN,TRUE
+1768,jpmorgan chase & co div: 1.760,jpmorgan chase & co com,JPM,JPM,TRUE
+1769,powershares qqq nasdaq 100,powershares qqq trust srs 1 etf,QQQ,QQQ,TRUE
+1770,first dorsey wright focus 5 etf,first tr exchange traded fd vi dorsey wrt 5 etf,FV,FV,TRUE
+1771,pepsico incorporated,pepsico inc com,PEP,PEP,TRUE
+1772,powershares qqq trust se 1,powershares qqq,QQQ,QQQ,TRUE
+1773,goldman sachs mangd futures strategy a,aqr managed futures strategy fund class i,GMSAX,AQMIX,FALSE
+1774,vanguard intermediate-term bond index fund admiral shares,vanguard inter-term bond index port inv,VBILX,VBIIX,FALSE
+1775,accenture,accenture plc fclass a,ACN,ACN,TRUE
+1776,loomis sayles bond instl,loomis sayles mlti-asset inc a,LSBDX,IIDPX,FALSE
+1777,aqr managed futures strategy fund class i,aqr aqr mngd futures strategy i,AQMIX,AQMIX,TRUE
+1778,vanguard equity income - a,vang equity inc adm,VEIRX,VEIRX,TRUE
+1779,dfa emerging markets value,dfa emerg mkts val i,DFEVX,DFEVX,TRUE
+1780,schwab strategic tr us reit etf,charles schwab us reit etf,SCHH,SCHH,TRUE
+1781,zynga inc com,zynga inc.,ZNGA,ZNGA,TRUE
+1782,omega healthcare investors inc com,omega healthcare investors inc ohi,OHI,OHI,TRUE
+1783,harris oakmark international fund cl i,oakmark intl cl i,OAKIX,OAKIX,TRUE
+1784,markel corp com,markel corp,MKL,MKL,TRUE
+1785,wal-mart stores inc.,wal-mart stores inc com isin #us9 sedol #2936921,WMT,WMT,TRUE
+1786,under armour inc-class a,under armour inc com class a,UA,UA,TRUE
+1787,new perspective fund cl a,new perspective fund,ANWPX,ANWPX,TRUE
+1788,costco wholesale corporation com,costco wholesale crp del,COST,COST,TRUE
+1789,chipotle mexican grill inc com isin #us9 sedol #b0x7dz3,chipotle mexican grl,CMG,CMG,TRUE
+1790,blackrock high yield municipal instl,blackrock low duration bond instl,MAYHX,BFMSX,FALSE
+1791,visa inc com cl a,salesforce com inc com,V,CRM,FALSE
+1792,sector spdr tr shs ben int financial,sector spdr financial,XLF,XLF,TRUE
+1793,intl business machines corp,intl business mach,IBM,IBM,TRUE
+1794,vanguard mid cap etf,vanguard mid-cap etf,VO,VO,TRUE
+1795,pim total rt inst,pimco total return fd cl c,PTTRX,PTTCX,FALSE
+1796,express scripts holding co com,express scripts hldg co,ESRX,ESRX,TRUE
+1797,dineequity incorporated,dineequity inc,DIN,DIN,TRUE
+1798,schwab health care,schwab health care fund,SWHFX,SWHFX,TRUE
+1799,vanguard short-term bond index fund admiral shares,vanguard short-term bond index,VBIRX,VBIPX,FALSE
+1800,vanguard index fds vanguard small cap vipers formerly vanguard index tr,vanguard crsp us small cap index,VB,VB,TRUE
+1801,vanguard ttl bond mkt idx adm,vanguard total bond market index,VBTLX,VBMPX,FALSE
+1802,amn healthcare svcs inc,amn healthcare services inc,AHS,AHS,TRUE
+1803,t. rowe price health sciences,health sciences fund,PRHSX,PRHSX,TRUE
+1804,american century tax-free bond inv,american century infl adj bd inv,TWTIX,ACITX,FALSE
+1805,vanguard total bond market index fund institutional shares,vanguard bond index total mkt investor,VBTIX,VBMFX,FALSE
+1806,lazard int'l strategic equity,lazard intl strategic equity open shares,LISOX,LISOX,TRUE
+1807,chevron texaco corp,chevron corporation cmn,CVX,CVX,TRUE
+1808,oneok partners lp unit ltd partnership,oneok partners l p unit ltd partnership,OKS,OKS,TRUE
+1809,first eagle sogen glbl a,first eagle global fund class a (10%),SGENX,SGENX,TRUE
+1810,fid conservative income bond fund,fidelity conservativ income bond fd cl i,FCONX,FCNVX,FALSE
+1811,sptn glb xus idx ins,spartan global ex us index fid adv cl,FSGSX,FSGDX,FALSE
+1812,vanguard crsp us large cap value ind et,vanguard value etf,VTV,VTV,TRUE
+1813,ishares nationl amt freemuni etf,ishares tr nat amt free bd,MUB,MUB,TRUE
+1814,galena biopharma com,galena biopharma incorporated,GALE,GALE,TRUE
+1815,vgrd ftse all wrld ex us sml cap etf,vanguard ftse all world ex us small cap etf,VSS,VSS,TRUE
+1816,keycorp inc,keycorp,KEY,KEY,TRUE
+1817,spdr barclays intermediate term corporate bond etf,spdr barclays intermediate term cor,ITR,ITR,TRUE
+1818,microsoft corporation cmn,microsoft corp com,MSFT,MSFT,TRUE
+1819,first eagle global fund class i,first eagle sogen-i,SGIIX,SGIIX,TRUE
+1820,vanguard extended market index institutional class,vanguard extended market idx adm,VIEIX,VEXAX,FALSE
+1821,emerald growth a,emerald gwth fd cl a,HSPGX,HSPGX,TRUE
+1822,vanguard total bond market index admiral,vang tot bd mkt inst,VBTLX,VBTIX,FALSE
+1823,ford motor com,ford motor company,F,F,TRUE
+1824,sprott physical gold etv,sprott physical gold trust,PHYS,PHYS,TRUE
+1825,chicago bridge & iron company n v,chicago bridge & iron co nv,CBI,CBI,TRUE
+1826,salesforce.com,salesforce com,CRM,CRM,TRUE
+1827,pimco total return fund instl cl,fund: pimco total return admin,PTTRX,PTRAX,FALSE
+1828,brocade communications sys inc com new,brocade communs sys,BRCD,BRCD,TRUE
+1829,becton dickinson&co,becton dickinson co,BDX,BDX,TRUE
+1830,unitedhealth group inc -,unitedhealth group,UNH,UNH,TRUE
+1831,doubleline emerging markets fixed inc n,doubleline emrg mkts incm fd cl i,DLENX,DBLEX,FALSE
+1832,zynga inc com usd0.00000625 class a,zynga inc com,ZNGA,ZNGA,TRUE
+1833,vanguard short term investment grade fund admiral,vang st invstgrd inv,VFSUX,VFSTX,FALSE
+1834,coca cola co div: 1.400,coca-cola co,KO,KO,TRUE
+1835,pimco total return fund cl p,mainstay retirement 2050 fund (class i),PTTPX,MSRMX,FALSE
+1836,glaxosmithkline adr each cnv into 2 ord gbp0.25,glaxosmithkline plc (britain),GSK,GSK,TRUE
+1837,vanguard short term bond index investor,vanguard bond index fund short term portfolio,VBISX,VBISX,TRUE
+1838,templeton global macro group advisor cl,tmpl global bond r6,TGBAX,FBNRX,FALSE
+1839,vanguard extended market index fund institutional shares,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+1840,ishares silver trust,ishares silver tr ishares,SLV,SLV,TRUE
+1841,vanguard ftse emerging markets,vanguard emerging markets index fund,VWO,VWO,TRUE
+1842,ishares barclays aggregate bond fund,ishares core u s aggregate bond etf,AGG,AGG,TRUE
+1843,pimco total return active exchange-traded fund,pimco total return active etf,BOND,BOND,TRUE
+1844,s&p 500 index spdr,spdr tr s&p 500 etf tr,SPY,SPY,TRUE
+1845,cvs health corporation,cvs health corp,CVS,CVS,TRUE
+1846,mcdonalds corp,mc donalds corp,MCD,MCD,TRUE
+1847,celgene corp com,celgene corp,CELG,CELG,TRUE
+1848,alphabet inc shs cl c,alphabet inc,GOOG,GOOG,TRUE
+1849,columbia strategic income (cosix),columbia strategic income cl a,COSIX,COSIX,TRUE
+1850,coca-cola co (the),coca-cola,KO,KO,TRUE
+1851,new perspective fund cl a,american funds new perspective fund class a,ANWPX,ANWPX,TRUE
+1852,american funds growth and income portfolio,american funds balanced portfolio,GAIOX,BLPCX,FALSE
+1853,vanguard small cap value etf,vbr:vanguard small-cap value etf,VBR,VBR,TRUE
+1854,coca cola co,coca-cola,KO,KO,TRUE
+1855,schlumberger ltd f,schlumberger ltd slb,SLB,SLB,TRUE
+1856,johnson & johnson,johnson & johnson jnj,JNJ,JNJ,TRUE
+1857,google inc class c,alphabet inc shs cl c,GOOG,GOOG,TRUE
+1858,dfa us targeted value,dfa us targeted value fund,DFFVX,DFFVX,TRUE
+1859,constellation brand class a,constellation brands inc cl a,STZ,STZ,TRUE
+1860,halyard health inc com,halyard health inc,HYH,HYH,TRUE
+1861,pimco inv grade corp bond instl,fid conservative income bond fund,PIGIX,FCONX,FALSE
+1862,ishares russell mid-cap etf,ishares russell midcap,IWR,IWR,TRUE
+1863,humana inc com,humana inc,HUM,HUM,TRUE
+1864,pimco income fd i,pimco income administrative,PIMIX,PIINX,FALSE
+1865,pimco total ret fd instl,pimco total return fund cl d,PTTRX,PTTDX,FALSE
+1866,spdr fund consumer discre sel etf iv,select sector spdr trust consumer dis select index,XLY,XLY,TRUE
+1867,alibaba group hldg ltd adr,alibaba grp sp adr (cayman islands),BABA,BABA,TRUE
+1868,vanguard total bond market index adm,vanguard total bond market idx instl pls,VBTLX,VBMPX,FALSE
+1869,vang 500 index adm,vanguard 500 index fund - admiral class,VFIAX,VFIAX,TRUE
+1870,vanguard small-cap index adm,vanguard sml-cap ind-adm,VSMAX,VSMAX,TRUE
+1871,vanguard 500 index,vanguard 500 index investor cl,VFINX,VFINX,TRUE
+1872,merck & co inc. com,merck & co inc new com div: 1.840,MRK,MRK,TRUE
+1873,mccormick & co-non vtg shrs,mccormick &co inc com non vtg isin #us4 sedol #2550161,MKC,MKC,TRUE
+1874,transdigm group inc com,transdigm group inc com isin #us8936411003 sedol #b11fjk3,TDG,TDG,TRUE
+1875,vanguard intrmd-term bond index adm,vanguard intermediate-term bond index fund investor shares,VBILX,VBIIX,FALSE
+1876,spdr nuveen s&p high yield muni etf,spdr s&p hi yld mun bd fd,HYMB,HYMB,TRUE
+1877,pimco total return fund instl cl,pimco total return a,PTTRX,PTTAX,FALSE
+1878,time warner inc.,time warner inc,TWX,TWX,TRUE
+1879,ishares barclays tips bond,ishares tr tips bd etf,TIP,TIP,TRUE
+1880,qep resources inc com,gopro inc cl a,QEP,GPRO,FALSE
+1881,under armour inc cl a,under armour inc class a,UA,UA,TRUE
+1882,american axle & mfg holdings c om,american axle&mfg hldgs,AXL,AXL,TRUE
+1883,pimco total return fund - class r,fund: pimco total return admin,PTRRX,PTRAX,FALSE
+1884,pnc financial services,pnc financial srvcs,PNC,PNC,TRUE
+1885,vanguard interm-term investment-grde adm,vanguard intermediate-term investment-grade fund admiral shares,VFIDX,VFIDX,TRUE
+1886,oneok inc.,oneok inc,OKE,OKE,TRUE
+1887,vanguard index trust mid capitalization stk port,vanguard mid-cap index fund investor shares,VIMSX,VIMSX,TRUE
+1888,select financial etf,sector spdr financial,XLF,XLF,TRUE
+1889,timken co,timken co cmn,TKR,TKR,TRUE
+1890,fidelity spartan extnd mkt idx advtg,sptn ext mkt idx inv,FSEVX,FSEMX,FALSE
+1891,under armour inc.,under armour inc cl a,UA,UA,TRUE
+1892,baidu inc fadr 1 adr reps 0.1 ord shs,baidu inc adr,BIDU,BIDU,TRUE
+1893,vanguard total bond mkt,vanguard bd index fd inc total bd market etf,BND,BND,TRUE
+1894,pimco inv grade corp bond instl,pimco investment grade corporate bond fund - class a,PIGIX,PBDAX,FALSE
+1895,"vanguard small cap index, adm",vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1896,first solar inc com,first solar inc,FSLR,FSLR,TRUE
+1897,ishares iboxx high yield corporate bond etf,ishares iboxx high yield corporate bond etf isin #us5 sedol #b1vz486,HYG,HYG,TRUE
+1898,american funds europacific gr r4,af europac grth r4,REREX,REREX,TRUE
+1899,vanguard emerging markets etf (vwo),vanguard ftse emrg etf,VWO,VWO,TRUE
+1900,time warner inc. cmn,time warner inc usd0.01,TWX,TWX,TRUE
+1901,starbucks corp. cmn,starbucks corp.,SBUX,SBUX,TRUE
+1902,vang sm cap idx adm,vanguard small cap index adm,VSMAX,VSMAX,TRUE
+1903,vanguard short term investment grade fund admiral,vanguard short-term invest-grade,VFSUX,VFSIX,FALSE
+1904,royal dutch shell plc sponsored adr repstg a shs,royal dutch shell plc adr class a,RDS.A,RDS.A,TRUE
+1905,bp plc spon adr,bp plc spons adr (britain),BP,BP,TRUE
+1906,matthews asian fds asia small cos fd,matthews asia small co fd inv,MSMLX,MSMLX,TRUE
+1907,zillow group inc cl c cap stk,zillow group inc - c,Z,Z,TRUE
+1908,t. rowe price 2055 fund,trp retirement 2055,TRRNX,TRRNX,TRUE
+1909,growth fund of america cl a,growth fund of america class a - american funds m/f,AGTHX,AGTHX,TRUE
+1910,toyota motor corp sp adr rep2com,toyota motor corp adr,TM,TM,TRUE
+1911,delaware value instl,delaware value cl a,DDVIX,DDVAX,FALSE
+1912,t. rowe price health sciences,trp health sciences,PRHSX,PRHSX,TRUE
+1913,pimco total ret fd instl,pimco total return a,PTTRX,PTTAX,FALSE
+1914,ishares msci usa min volility etf,ishares msci usa min vol etf,USMV,USMV,TRUE
+1915,price t rowe group inc,price t rowe group inc com,TROW,TROW,TRUE
+1916,vnguard total bond market index adm,vanguard bond index total mkt investor,VBTLX,VBMFX,FALSE
+1917,vanguard small-cap index adm,vanguard small cap index fund - admiral,VSMAX,VSMAX,TRUE
+1918,verizon communicatns com,verizon communications vz,VZ,VZ,TRUE
+1919,dfa us small cap value port instl,dfa us small cap value prtf instl,DFSVX,DFSVX,TRUE
+1920,sprtn total mkt indx investor class,sptn tot mkt idx fai,FSTMX,FSKAX,FALSE
+1921,vanguard total bond market index admiral,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+1922,verizon communications vz,verizon communications div: 2.260,VZ,VZ,TRUE
+1923,vanguard total bond market index-admiral,vang tot bd mk is pl,VBTLX,VBMPX,FALSE
+1924,metropolitan west total return,metropolitan west fds total ret cl i,MWTRX,MWTIX,FALSE
+1925,prudential jennison natural resource cl a,"prudential jennison natural resources fund, inc. class a",PGNAX,PGNAX,TRUE
+1926,wisdomtree japan hedged equity -,wisdomtree japan hedged equity etf,DXJ,DXJ,TRUE
+1927,pimco total return fd cl c,pimco total return r,PTTCX,PTRRX,FALSE
+1928,breitburn energy partners lp c,atlas resource partners lp,BBEP,ARP,FALSE
+1929,macquarie infrastructure corp com,macquarie infrastructure,MIC,MIC,TRUE
+1930,duke energy corp new div: 3.300,duke energy corp new com,DUK,DUK,TRUE
+1931,apple inc.,apple inc -,AAPL,AAPL,TRUE
+1932,ishares 7-10 yr treasury bnd e tf,ishares barclays 7-10 year treasury,IEF,IEF,TRUE
+1933,ishares msci southkorea cp etf div: 1.202,ishares msci south korea capped etf,EWY,EWY,TRUE
+1934,monsanto company cmn,mon dspp-common,MON,MON,TRUE
+1935,ishares micro-cap etf,ishares micro cap etf,IWC,IWC,TRUE
+1936,ishares gold trust,ishares gold tr ishares,IAU,IAU,TRUE
+1937,pnc financial services group cmn,pnc finl svcs group,PNC,PNC,TRUE
+1938,harbor international fund,harbor international institutional fd,HAINX,HAINX,TRUE
+1939,alps alerian mlp etf,alps trust etf alerian mlp,AMLP,AMLP,TRUE
+1940,valeant pharmaceuticals in(cdn),valeant pharmaceuticals intl inc cda com isin#ca1,VRX,VRX,TRUE
+1941,vang midcap idx inst,vanguard mid-cap index fund inst,VMCIX,VMCIX,TRUE
+1942,vanguard energy index,vanguard energy etf,VDE,VDE,TRUE
+1943,interactive brokers group inc com isin #us2 sedol #b1wt4x2,interactive brokers group inc,IBKR,IBKR,TRUE
+1944,ishares s&p 500 grwth etf div: 1.752,ishares s&p 500 growth etf,IVW,IVW,TRUE
+1945,vanguard equity income fund admiral shares,vanguard equity-income adm,VEIRX,VEIRX,TRUE
+1946,walgreens boots alliance inc,walgreens boots alliance inc com,WBA,WBA,TRUE
+1947,novo-nordisk a/s-spons adr,novo-nordisk a s adr isin #us6 sedol #2651202,NVO,NVO,TRUE
+1948,vanguard ext market index inst,vanguard ext. market idx adm,VIEIX,VEXAX,FALSE
+1949,vang tot bd mkt inst,vanguard total bond market index fund institutional plus,VBTIX,VBMPX,FALSE
+1950,powershares qqq trust se,powershares qqq trust series,QQQ,QQQ,TRUE
+1951,intel corp,intel corp div: 1.040,INTC,INTC,TRUE
+1952,vanguard gnma fund admiral shares,vanguard gnma inv,VFIJX,VFIIX,FALSE
+1953,westport innovation newf,westport innovations inc,WPRT,WPRT,TRUE
+1954,freeport mcmoran copper and gold inc,freeport-mcmoran inc,FCX,FCX,TRUE
+1955,vgrd ftse all wrld ex us sml cap etf,vgrd ftse all wrld ex ussml cap etf,VSS,VSS,TRUE
+1956,bank of america corp,bank america corp,BAC,BAC,TRUE
+1957,vanguard small cap etf div: 2.113,vanguard small-cap index fund,VB,VB,TRUE
+1958,polaris industries,polaris industries inc com,PII,PII,TRUE
+1959,pim total rt inst,pimco total return cl a,PTTRX,PTTAX,FALSE
+1960,p/qma sm cap val q,ev lg cap value i,TSVQX,EILVX,FALSE
+1961,vanguard small cap index fund - admiral,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+1962,dfa emerging markets core equi ty,dfa emerging markets core,DFCEX,DFCEX,TRUE
+1963,general motors company com,general motors co common shares,GM,GM,TRUE
+1964,schlumberger ltd div: 2.000,schlumberger ltd f,SLB,SLB,TRUE
+1965,metropolitan west total return bond plan fund,metropolitan west total return bond plan class shares,MWTSX,MWTSX,TRUE
+1966,kla-tencor corporation cmn,kla-tencor corp -,KLAC,KLAC,TRUE
+1967,syngenta ag - adr,syngenta ag-adr,SYT,SYT,TRUE
+1968,ivy mid cap growth cl a,voya large cap growth port inst,WMGAX,IEOHX,FALSE
+1969,american mutual fund cl a,amer funds american mutual fund class f2,AMRMX,AMRFX,FALSE
+1970,energy transfer partners unit ltd partnership,energy transfer partners lp com,ETP,ETP,TRUE
+1971,canadian natl ry co f,canadian national railway,CNI,CNI,TRUE
+1972,vanguard ftse emerg mkts etf,vanguard emerging market etf,VWO,VWO,TRUE
+1973,schwab intl small cap equity etf,schwab internatnal small cap eqy etf,SCHC,SCHC,TRUE
+1974,pimco total return fund cl d,fund: pimco total return admin,PTTDX,PTRAX,FALSE
+1975,glenmede smcap eq is,glenmede small cap equity fund instl cl,GTSCX,GTSCX,TRUE
+1976,sierra wireless inc can com,sierra wireless inc,SWIR,SWIR,TRUE
+1977,google inc cl c non vtg non voting shares,google inc class c,GOOG,GOOG,TRUE
+1978,trp retirement 2050,t. rowe price 2050 fund,TRRMX,TRRMX,TRUE
+1979,wisdomtree tr japan hedged equity fd,wisdomtree japan hedged eq,DXJ,DXJ,TRUE
+1980,visa inc cl a,visa inc class a shares,V,V,TRUE
+1981,biomarin pharmaceutical inc.,biomarin pharmaceuticals,BMRN,BMRN,TRUE
+1982,textainer group hldgs ltd com stk,textainer group hldg f,TGH,TGH,TRUE
+1983,oakmark equity & income fd cl i,oakmark equity and income fund class i,OAKBX,OAKBX,TRUE
+1984,timken company,timken co,TKR,TKR,TRUE
+1985,ishares trust core s&p small-cap etf,ishares s&p small-cap fund,IJR,IJR,TRUE
+1986,vang 500 index adm,vanguard 500 index admiral fund,VFIAX,VFIAX,TRUE
+1987,orchid is cap inc com,modine mfg co com,ORC,MOD,FALSE
+1988,l-3 commnctns hldgs,l-3 communications corp com,LLL,LLL,TRUE
+1989,vanguard emrg mkts stk index fd inv shrs,vanguard emerging markets stock index fund investor shares,VEIEX,VEIEX,TRUE
+1990,ishares msci usa min vol etf,ishares msci usa min vol etf div: 0.844,USMV,USMV,TRUE
+1991,caseys gen stores,caseys gen stores inc com,CASY,CASY,TRUE
+1992,pimco total return fund cl p,pimco total return a,PTTPX,PTTAX,FALSE
+1993,am beacon large cp val,american beacon lg cap val planahd,AAGPX,AAGPX,TRUE
+1994,natus medical inc com,natus medical inc,BABY,BABY,TRUE
+1995,oppenheimer intl bond fd cl y,oppenheimer international bond fund,OIBYX,OIBAX,FALSE
+1996,twitter inc,twitter inc com,TWTR,TWTR,TRUE
+1997,ishares core us treasury bond etf,ishares trust core us treasury bond etf,GOVT,GOVT,TRUE
+1998,vanguard small cap index fund - admiral,vanguard small-cap index fund institutional shares,VSMAX,VSCIX,FALSE
+1999,american tower reit inc (hldg co) shs,american tower corp new com,AMT,AMT,TRUE
+2000,alphabet inc class c,alphabet inc shs cl c,GOOG,GOOG,TRUE
+2001,vnguard total bond market index adm,vanguard total bond market idx-adm,VBTLX,VBTLX,TRUE
+2002,vanguard total international bond etf,vanguard total intl bond index etf,BNDX,BNDX,TRUE
+2003,vanguard energy etf,vanguard worlds fds vanguard energy etf,VDE,VDE,TRUE
+2004,safety ins group inc com,safety ins group inc,SAFT,SAFT,TRUE
+2005,tjx cos inc new com isin #us8725401090 sedol #2989301,tjx cos inc new com isin #us0 sedol #2989301,TJX,TJX,TRUE
+2006,schlumberger ltd div: 2.000,schlumberger ltd slb,SLB,SLB,TRUE
+2007,eaton corp plc com,eaton corp plc,ETN,ETN,TRUE
+2008,fortinet inc,fortinet inc.,FTNT,FTNT,TRUE
+2009,vanguard intrmdt trm etf,vanguard intermediate term cor etf,VCIT,VCIT,TRUE
+2010,u s bancorp,us bancorp (new),USB,USB,TRUE
+2011,vanguard emerging markets etf,vanguard ftse emerging markets etf,VWO,VWO,TRUE
+2012,wisdom tree europe hedged eq,wisdomtree europe hedged equity fund,HEDJ,HEDJ,TRUE
+2013,aberdeen asia pacific in,aberdeen asia pacific incom fd com isin #us0 sedol #2339304,FAX,FAX,TRUE
+2014,metropolitan west totret bdm,metwest tot rtn bd i,MWTRX,MWTIX,FALSE
+2015,vanguard total bond market index i,vanguard total bond market index fund institutional plus,VBTIX,VBMPX,FALSE
+2016,immunocellular therapeutics com,immunocellular thera,IMUC,IMUC,TRUE
+2017,ishares s&p mid-cap value etf,ishares s&p midcap 400 value etf,IJJ,IJJ,TRUE
+2018,vanguard total intl stk index,vanguard total intl stock index admiral,VTIAX,VTIAX,TRUE
+2019,pimco low duration instl,pimco low duration fund cl d,PTLDX,PLDDX,FALSE
+2020,vanguard index fds formerly vanguard index tr to 05/24/2001 s&p 500 etf shs new,vanguard index fds formerly vanguard index tr to 05/24/2001,VOO,VOO,TRUE
+2021,biomarin pharmaceuticals,biomarin pharmaceutical inc.,BMRN,BMRN,TRUE
+2022,pimco total return fund - class r,mainstay retirement 2050 fund (class i),PTRRX,MSRMX,FALSE
+2023,progressive corp - ohio,progressive corp ohio,PGR,PGR,TRUE
+2024,vanguard world fund extd duration treas etf,vanguard extended duration treasury index etf,EDV,EDV,TRUE
+2025,vanguard small cap etf iv,vanguard small cap etf,VB,VB,TRUE
+2026,troweprc blue chip growth fund adv,t. rowe price blue chip growth adv,PABGX,PABGX,TRUE
+2027,nike inc b div: 0.640,nike inc,NKE,NKE,TRUE
+2028,broadcom ltd shs div: 1.960,broadcom ltd f,AVGO,AVGO,TRUE
+2029,american beacon fds internatio nal equity y,american beacon international equity y fund,ABEYX,ABEYX,TRUE
+2030,joy global inc,joy global inc del com,JOY,JOY,TRUE
+2031,proshares s&p 500 dividend aristocrats,proshares trust s&p 500 divid aristocrats etf isin #us3 sedol #bfn8py4,NOBL,NOBL,TRUE
+2032,pimco total return a,pimco total return fund - class r,PTTAX,PTRRX,FALSE
+2033,time warner inc new com new,time warner inc.,TWX,TWX,TRUE
+2034,vanguard short term tax exempt admiral share,vanguard short term tax exempt investor,VWSUX,VWSTX,FALSE
+2035,pimco income fund cl d,pimco fds income instl,PONDX,PIMIX,FALSE
+2036,verizon communications vz,verizon communications inc. cmn,VZ,VZ,TRUE
+2037,facebook inc com usd0.000006 cl a,"facebook, inc. cmn class a",FB,FB,TRUE
+2038,oracle corporation,oracle corp com isin #us68389x1054,ORCL,ORCL,TRUE
+2039,visa inc class a,visa inc-class a shares,V,V,TRUE
+2040,templeton global bond class a,templeton global bond fund r,TPINX,FGBRX,FALSE
+2041,carrizo oil & gas,carrizo oil & gas inc,CRZO,CRZO,TRUE
+2042,united technologies corp div: 2.560,united technologies corp,UTX,UTX,TRUE
+2043,bank new york mellon corp com,bank of ny mellon co,BK,BK,TRUE
+2044,vanguard utilities etf,vanguard world fds vanguard utils etf,VPU,VPU,TRUE
+2045,vanguard short term bond index admiral,vanguard short-term bond index fund admiral shares,VBIRX,VBIRX,TRUE
+2046,alphabet inc,alphabet,GOOGL,GOOGL,TRUE
+2047,spartan intl index investor class,fidelity spartan international index inv,FSIIX,FSIIX,TRUE
+2048,cbs corp new cl b,cbs corp new cl b shrs div: 0.600,CBS,CBS,TRUE
+2049,vanguard 500 index fund admiral,vanguard 500 index fund - admiral,VFIAX,VFIAX,TRUE
+2050,fidelity small cap growth,fid small cap growth,FCPGX,FCPGX,TRUE
+2051,xo group inc com,brookdale sr living inc com,XOXO,BKD,FALSE
+2052,keycorp,keycorp inc,KEY,KEY,TRUE
+2053,vanguard total bond market index fund admiral shares,vanguard ttl bnd mrk indx inst,VBTLX,VBTIX,FALSE
+2054,breitburn energy partners unit limited partnership interest,breitburn energy ptn lp,BBEP,BBEP,TRUE
+2055,bridgepoint education,bridgepoint ed inc com,BPI,BPI,TRUE
+2056,coach inc,coach inc com,COH,COH,TRUE
+2057,united states oil etf,united states oil fund lp unit,USO,USO,TRUE
+2058,fidelity msci consumer staples index etf,fidelity cap tr disciplnd eqty,FSTA,FDEQX,FALSE
+2059,federated invs pa class b,artisan part asset class a,FII,APAM,FALSE
+2060,vanguard ttl bond mkt idx adm,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+2061,vanguard ftse emerg mkts etf,vanguard msci emerging markets etf,VWO,VWO,TRUE
+2062,amer funds europac r4 m4741,american funds europacific growth r4,REREX,REREX,TRUE
+2063,pimco total ret fd instl,pimco tot return adm,PTTRX,PTRAX,FALSE
+2064,visa inc cl a,visa inc cl a shrs,V,V,TRUE
+2065,dte energy comp 5.25%pfd due 12/01/62subj to xtro redemption,associated ban 6.125%pfd due 12/31/49subj to xtro redemption,DTQ,ASB.PRC,FALSE
+2066,vanguard scottsdale fds intermediate term corporate bond ind,vanguard intermediate term cor p bond et,VCIT,VCIT,TRUE
+2067,kimberly clark corp cmn,kimberly-clark corp.,KMB,KMB,TRUE
+2068,vanguard interm-term investment-grde adm,vanguard int term inv grade,VFIDX,VFICX,FALSE
+2069,sector spdr tr shs ben int financial,select sector spdr trust financial select sector fund,XLF,XLF,TRUE
+2070,sprott physical gold trust unit isin #ca85207h1047 sedol #b6,sprott physical gold etv,PHYS,PHYS,TRUE
+2071,ultra petroleum corp,ultra petroleum corp ord,UPL,UPL,TRUE
+2072,vanguard small cap index - a,vnguard index trust small cap idx instl,VSMAX,VSCIX,FALSE
+2073,vanguard small cap value etf,us small-cap value,VBR,VBR,TRUE
+2074,van small cap index admir,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
+2075,apple inc com,apple inc aapl,AAPL,AAPL,TRUE
+2076,vanguard total bond market index-admiral,vanguard total bond market index fund institutional shares,VBTLX,VBTIX,FALSE
+2077,valero energy corp new com,valero energy corp new -,VLO,VLO,TRUE
+2078,pimco fds income fund cl d,pimco income a,PONDX,PONAX,FALSE
+2079,pimco income fund cl d,pimco incm inst cl,PONDX,PIMIX,FALSE
+2080,pimco total return fund - class r,pimco tot return adm,PTRRX,PTRAX,FALSE
+2081,american tower corporation reit,american tower corporation com usd0.01,AMT,AMT,TRUE
+2082,nxp semiconductor nv com,nxp semiconductors f,NXPI,NXPI,TRUE
+2083,pimco fds income fund cl d,pimco income instl,PONDX,PIMIX,FALSE
+2084,sierra wireless inc com,sierra wireless inc com isin #ca4 sedol #2418968,SWIR,SWIR,TRUE
+2085,vanguard mid-cap index fund institutional plus shares,vanguard mid-cap index,VMCPX,VMCPX,TRUE
+2086,vanguard mid-cap value index fund,vanguard crsp us mid cap value inde etf,VOE,VOE,TRUE
+2087,liberty media corp ser a,liberty media corp delaware cl a,LMCA,LMCA,TRUE
+2088,blkrk hi yld bd inst,blackrock high yld bond port class c,BHYIX,BHYCX,FALSE
+2089,arcelormittal sa (luxembourg),arcelormittal cl a adr,MT,MT,TRUE
+2090,eaton vance floating rate & high inc a,eaton vance floating rate high income fund class a,EVFHX,EVFHX,TRUE
+2091,"incyte genomics, inc",incyte corp,INCY,INCY,TRUE
+2092,criteo s a,criteo sa-spon adr,CRTO,CRTO,TRUE
+2093,alibaba group hldg adr fsponsored adr 1 adr reps 1 ord,alibaba grp sp adr (cayman islands),BABA,BABA,TRUE
+2094,sirius xm hldgs inc com,sirius xm hldgs inc,SIRI,SIRI,TRUE
+2095,opp intl growth - a oppenheimer funds,oppenheimer international growth fund class a,OIGAX,OIGAX,TRUE
+2096,fid balanced,fidelity fds balanced fd,FBALX,FBALX,TRUE
+2097,mobile telesystems ojsc ads,mobile telesystems pjsc sponsored adr,MBT,MBT,TRUE
+2098,vanguard reit etf,vanguard reit etf iv,VNQ,VNQ,TRUE
+2099,pimco total return fund instl cl,pimco total return,PTTRX,PTRAX,FALSE
+2100,metwest tot rtn bd m,metropolitan west total return bond i,MWTRX,MWTIX,FALSE
+2101,guggenheim bulletshares 2018 high yield corp bd,guggenheim bulletshares 2018,BSJI,BSJI,TRUE
+2102,fidelity international discovery,fid intl discovery,FIGRX,FIGRX,TRUE
+2103,american express co cm,american express co,AXP,AXP,TRUE
+2104,conocophillips,conocophillips corp com,COP,COP,TRUE
+2105,vf corporation,v f corporation,VFC,VFC,TRUE
+2106,american beacon lg cap val planahd,american beacon large value,AAGPX,AAGPX,TRUE
+2107,pimco total return fund cl p,fund: pimco total return admin,PTTPX,PTRAX,FALSE
+2108,pim total rt inst,pimco total return fund cl d,PTTRX,PTTDX,FALSE
+2109,johnson & johnson com,johnson and johnson,JNJ,JNJ,TRUE
+2110,vanguard mid cap growth index adm,vanguard mid-cap growth fund,VMGMX,VMGMX,TRUE
+2111,vanguard growth etf div: 1.388,vanguard growth etf iv,VUG,VUG,TRUE
+2112,pfizer inc com,pfizer incorporated,PFE,PFE,TRUE
+2113,pimco fds income fund cl d,pimco income administrative,PONDX,PIINX,FALSE
+2114,vanguard mid-cap value etf,vanguard mid cap value etf div: 2.308,VOE,VOE,TRUE
+2115,wisdomtree investments inc com,wisdomtree investmnt,WETF,WETF,TRUE
+2116,merrimack pharmaceuticals inc com,"merrimack pharmaceuticals, inc.",MACK,MACK,TRUE
+2117,ishares russell 1000 growth,ishares russell 1000 gr etf,IWF,IWF,TRUE
+2118,exxon mobil corp -,exxon mobil corp | e005207,XOM,XOM,TRUE
+2119,blackrock high yield bond portfolio svc,blackrock hi yield bd ptf inst,BHYSX,BHYIX,FALSE
+2120,pimco commodity real return inst,pimco commodity real return strat inst,PCRIX,PCRIX,TRUE
+2121,vanguard small-cap index fund admiral,vang sm cap idx inst,VSMAX,VSCIX,FALSE
+2122,pg&e corp,pg & e corp,PCG,PCG,TRUE
+2123,pimco total return fd cl c,fund: pimco total return admin,PTTCX,PTRAX,FALSE
+2124,dfa us targeted value i,dfa us targeted value fund,DFFVX,DFFVX,TRUE
+2125,ishares barclays short treasury bond fun,ishares short-term treasury bond etf,SHV,SHV,TRUE
+2126,intercontinentalexchange group div: 3.400,intercontinental exchange inc com usd0.01,ICE,ICE,TRUE
+2127,vanguard 500 index investor cl,vanguard 500 index fund investor shares,VFINX,VFINX,TRUE
+2128,american capital world grth & inc a,capital world growth and income fund,CWGIX,CWGIX,TRUE
+2129,vanguard short term corp bond index fund etf,vanguard short-term corporate bond etf,VCSH,VCSH,TRUE
+2130,union pacific corp div: 2.200,union pac corporation,UNP,UNP,TRUE
+2131,costco wholesale corp,costco wholesale corp new,COST,COST,TRUE
+2132,vanguard mid cap index admiral,vanguard mid capitalization index fund,VIMAX,VIMAX,TRUE
+2133,alexion pharmaceuticals inc,alexion pharmaceuticals inc.,ALXN,ALXN,TRUE
+2134,general dynamics crp,genl dynamics corp com,GD,GD,TRUE
+2135,bce inc f,bce inc,BCE,BCE,TRUE
+2136,prudential jennison natural resources z,prudential jennison ^,PNRZX,PNRZX,TRUE
+2137,delta air lines inc com,delta air lines inc dela new,DAL,DAL,TRUE
+2138,cognizant tech solutns a,cognizant tech solutions corp,CTSH,CTSH,TRUE
+2139,pimco investment grade corporate bond fund - class a,fid conservative income bond fund,PBDAX,FCONX,FALSE
+2140,eli lilly & co com,lilly eli &co com npv,LLY,LLY,TRUE
+2141,dfa comm strategy i,dfa commodity strategy port,DCMSX,DCMSX,TRUE
