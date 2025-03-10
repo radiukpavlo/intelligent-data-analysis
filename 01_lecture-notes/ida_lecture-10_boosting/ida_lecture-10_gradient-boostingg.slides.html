@@ -14702,7 +14702,7 @@ div.jp-OutputPrompt {
 <li><a href="#History-of-GBM">History of Gradient Boosting Machine</a></li>
 </ul>
 </li>
-<li><a href="#2.-GBM-algorithm">GBM algorithm</a><ul>
+<li><a href="#2.-GBM-algorithm">Gradient Boosting Machine (GBM) algorithm</a><ul>
 <li><a href="#ML-problem-statement">ML Problem statement</a></li>
 <li><a href="#Functional-gradient-descent">Functional gradient descent</a></li>
 <li><a href="#Friedman&#39;s-classic-GBM-algorithm">Friedman's classic GBM algorithm</a></li>
@@ -14753,7 +14753,7 @@ div.jp-OutputPrompt {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Furthermore, XGBoost is often the standard recipe for <a href="https://github.com/dmlc/xgboost/blob/master/demo/README.md#usecases">winning</a> <a href="http://blog.kaggle.com/tag/xgboost/">ML competitions</a>. It is so popular that the idea of stacking XGBoosts has become a meme. Moreover, boosting is an important component in <a href="https://en.wikipedia.org/wiki/Learning_to_rank#Practical_usage_by_search_engines">many recommender systems</a>; sometimes, it is even considered a <a href="https://yandex.com/company/technologies/matrixnet/">brand</a>.
+<p>Furthermore, <a href="https://en.wikipedia.org/wiki/XGBoost">XGBoost</a> is often the standard recipe for <a href="https://github.com/dmlc/xgboost/blob/master/demo/README.md#usecases">winning</a> <a href="http://blog.kaggle.com/tag/xgboost/">ML competitions</a>. It is so popular that the idea of stacking XGBoosts has become a meme. Moreover, boosting is an important component in <a href="https://en.wikipedia.org/wiki/Learning_to_rank#Practical_usage_by_search_engines">many recommender systems</a>; sometimes, it is even considered a <a href="https://yandex.com/company/technologies/matrixnet/">brand</a>.
 Let's look at the history and development of boosting.</p>
 
 </div>
@@ -14778,7 +14778,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><a href="http://www.cs.princeton.edu/~schapire/papers/strengthofweak.pdf">A positive mathematical answer</a> to this question was identified, but it took a few years to develop fully functioning algorithms based on this solution e.g. AdaBoost. These algoritms take a greedy approach: first, they build a linear combination of simple models (basic algorithms) by re-weighing the input data. Then, the model (usually a decision tree) is built on earlier incorrectly predicted objects, which are now given larger weights.</p>
+<p><a href="http://www.cs.princeton.edu/~schapire/papers/strengthofweak.pdf">A positive mathematical answer</a> to this question was identified, but it took a few years to develop fully functioning algorithms based on this solution e.g. <a href="https://en.wikipedia.org/wiki/AdaBoost">AdaBoost</a>. These algoritms take a greedy approach: first, they build a linear combination of simple models (basic algorithms) by re-weighing the input data. Then, the model (usually a decision tree) is built on earlier incorrectly predicted objects, which are now given larger weights.</p>
 
 </div>
 </div>
@@ -14814,7 +14814,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><img src='https://habrastorage.org/web/d28/78f/7ba/d2878f7bad0340fc8002e5ba6d0879a5.jpg' align='center' width=70%></p>
+<p><img src='https://habrastorage.org/web/d28/78f/7ba/d2878f7bad0340fc8002e5ba6d0879a5.jpg' align='center' width=65%></p>
 
 </div>
 </div>
@@ -14921,7 +14921,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>With this work, Friedman set up the statistical foundation for many algorithms providing the general approach of boosting for optimization in the functional space.</p>
+<p>With his work titled <a href="https://jerryfriedman.su.domains/ftp/trebst.pdf">Greedy Function Approximation: A Gradient Boosting Machine</a>, Friedman set up the statistical foundation for many algorithms providing the general approach of boosting for optimization in the functional space.</p>
 
 </div>
 </div>
@@ -14933,7 +14933,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>CART, bootstrap, and many other algorithms have originated from Stanford's statistics department. In doing so, the department has solidified their names in future textbooks. These algorithms are very practical, and some recent works have yet to be widely adopted. For example, check out <a href="https://arxiv.org/abs/1308.2719">glinternet</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Decision_tree_learning#cite_note-bfos-7">CART</a>, bootstrap, and many other algorithms have originated from Stanford's statistics department. In doing so, the department has solidified their names in future textbooks. These algorithms are very practical, and some recent works have yet to be widely adopted. For example, check out <a href="https://arxiv.org/abs/1308.2719">glinternet</a>.</p>
 
 </div>
 </div>
@@ -15052,7 +15052,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>At the same time, boosting had been actively used in search ranking. This problem was rewritten in terms of a loss function that penalizes errors in the output order, so it became convenient to simply insert it into GBM. AltaVista was one of the first companies who introduced boosting to ranking. Soon, the ideas spread to Yahoo, Yandex, Bing, etc.</p>
+<p>At the same time, boosting had been actively used in search ranking. This problem was rewritten in terms of a loss function that penalizes errors in the output order, so it became convenient to simply insert it into GBM. AltaVista was one of the first companies who introduced boosting to ranking. Soon, the ideas spread to Yahoo, Bing, etc.</p>
 
 </div>
 </div>
@@ -15124,7 +15124,7 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="2.-GBM-algorithm">2. GBM algorithm<a class="anchor-link" href="#2.-GBM-algorithm">&#182;</a></h1>
+<h1 id="2.-Gradient-Boosting-Machine-(GBM)-algorithm">2. Gradient Boosting Machine (GBM) algorithm<a class="anchor-link" href="#2.-Gradient-Boosting-Machine-(GBM)-algorithm">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -15158,7 +15158,8 @@ Let's look at the history and development of boosting.</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-$$\large y \approx \hat{f}(x), \large \hat{f}(x) = \underset{f(x)}{\arg\min} \ L(y,f(x)).$$
+$$\large y \approx \hat{f}(x), \\
+\large \hat{f}(x) = \underset{f(x)}{\arg\min} \ L(y,f(x)).$$
 </div>
 </div>
 </div>
@@ -15616,7 +15617,7 @@ $\large \hat{f}(x) = \sum_{i = 0}^M \hat{f_i}(x).$</li>
 </div>
 </div>
 </div>
-</div></div></section><section>
+</div></div><div class="fragment">
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15628,7 +15629,7 @@ $\large \hat{f}(x) = \sum_{i = 0}^M \hat{f_i}(x).$</li>
 </div>
 </div>
 </div>
-</div><div class="fragment">
+</div></div><div class="fragment">
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15640,7 +15641,7 @@ $\large \hat{f}(x) = \sum_{i = 0}^M \hat{f_i}(x).$</li>
 </div>
 </div>
 </div>
-</div></div></section><section>
+</div></div><div class="fragment">
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15652,7 +15653,7 @@ $\large \hat{f}(x) = \sum_{i = 0}^M \hat{f_i}(x).$</li>
 </div>
 </div>
 </div>
-</div></section><section>
+</div></div></section><section>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -16408,7 +16409,7 @@ $$ \large \begin{equation} w(x) =\left\{   \begin{array}{@{}ll@{}}     0.1, &amp
 </div>
 </div>
 </div>
-</div><div class="fragment">
+</div></section><section>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -16420,7 +16421,7 @@ $$ \large \begin{equation} w(x) =\left\{   \begin{array}{@{}ll@{}}     0.1, &amp
 </div>
 </div>
 </div>
-</div></div><div class="fragment">
+</div><div class="fragment">
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
