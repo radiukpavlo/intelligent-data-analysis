@@ -14716,8 +14716,7 @@ div.jp-OutputPrompt {
 </ul>
 </li>
 <li><a href="#4.-Conclusion">Conclusion</a></li>
-<li><a href="#5.-Demo-assignment">Demo assignment</a></li>
-<li><a href="#6-Useful-resources">Useful resources</a></li>
+<li><a href="#5-Useful-resources">Useful resources</a></li>
 </ol>
 
 </div>
@@ -15514,7 +15513,7 @@ $$ \large \hat{f}(x) = \sum_{i = 0}^{t-1} \hat{f_i}(x), \\
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ol>
+<ul>
 <li>Initialize GBM with constant value $\large \hat{f}(x) = \hat{f}_0, \hat{f}_0 = \gamma,  \gamma \in \mathbb{R}.$
 $\large \hat{f}_0 = \underset{\gamma}{\arg\min} \ \sum_{i = 1}^{n} L(y_i, \gamma).$</li>
 <li>For each iteration $\large t = 1, \dots, M$, repeat:<ol>
@@ -15523,7 +15522,7 @@ $\large r_{it} = -\left[\frac{\partial L(y_i, f(x_i))}{\partial f(x_i)}\right]_{
 <li>Build new base algorithm $\large h_t(x)$ as regression on pseudo-residuals $\large \left\{ (x_i, r_{it}) \right\}_{i=1, \ldots,n}.$</li>
 </ol>
 </li>
-</ol>
+</ul>
 
 </div>
 </div>
@@ -15535,7 +15534,7 @@ $\large r_{it} = -\left[\frac{\partial L(y_i, f(x_i))}{\partial f(x_i)}\right]_{
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ol>
+<ul>
 <li>Find optimal coefficient $\large \rho_t $ at $\large h_t(x)$ regarding initial loss function
 $\large \rho_t = \underset{\rho}{\arg\min} \ \sum_{i = 1}^{n} L(y_i, \hat{f}(x_i) +  \rho \cdot h(x_i, \theta)).$</li>
 <li>Save $\large \hat{f_t}(x) = \rho_t \cdot h_t(x).$</li>
@@ -15546,7 +15545,7 @@ $\large \hat{f}(x) = \sum_{i = 0}^M \hat{f_i}(x).$</li>
 <li>Conquer Kaggle and the rest of the world.</li>
 </ol>
 </li>
-</ol>
+</ul>
 
 </div>
 </div>
@@ -16524,11 +16523,11 @@ $$ \large \begin{equation} w(x) =\left\{   \begin{array}{@{}ll@{}}     0.1, &amp
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ul>
-<li><a href="https://statweb.stanford.edu/~jhf/ftp/trebst.pdf">Original article</a> about GBM from Jerome Friedman</li>
-<li><a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf">Chapter in Elements of Statistical Learning</a> from Hastie, Tibshirani, Friedman (page 337)</li>
+<li><a href="https://jerryfriedman.su.domains/ftp/trebst.pdf">Original article</a> about GBM from Jerome Friedman</li>
+<li><a href="https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf">Chapter in Elements of Statistical Learning</a> from Hastie, Tibshirani, Friedman (page 337)</li>
 <li><a href="https://en.wikipedia.org/wiki/Gradient_boosting">Wiki</a> article about Gradient Boosting</li>
 <li><a href="https://xgboost.readthedocs.io/en/latest/tutorials/model.html">Introduction to boosted trees (Xgboost docs)</a></li>
-<li><a href="https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db">CatBoost vs. Light GBM vs. XGBoost</a> on "Towards Data Science"</li>
+<li><a href="https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db">When to Choose CatBoost Over XGBoost or LightGBM [Practical Guide]</a> on Neptune.ai</li>
 <li><a href="https://arxiv.org/abs/1809.04559">Benchmarking and Optimization of
 Gradient Boosting Decision Tree Algorithms</a>, <a href="https://arxiv.org/abs/1806.11248">XGBoost: Scalable GPU Accelerated Learning</a> - benchmarking CatBoost, Light GBM, and XGBoost (no 100% winner)</li>
 </ul>
