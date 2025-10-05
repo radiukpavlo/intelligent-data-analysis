@@ -143,7 +143,7 @@ conda activate ida-course
 conda install -c conda-forge numpy pandas matplotlib scikit-learn jupyterlab ipykernel
 
 # Вариант 2: pip (уже всередині активованого середовища)
-pip install numpy pandas matplotlib scikit-learn jupyterlab ipykernel
+pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab ipykernel
 ```
 
 Примітки:
